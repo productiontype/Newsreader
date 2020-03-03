@@ -11,7 +11,7 @@ Newsreader is available under the SIL Open Font License v1.1, for more details s
 Contributions
 -------------
 
-The project is led by Production Type, a digital type design agency based in Paris. 
+The project is led by Production Type, a digital type design agency based in Paris and Shanghai. 
 To contribute ideas and feedback, see [github.com/productiontype/Newsreader](https://github.com/productiontype/Newsreader)
 
 
