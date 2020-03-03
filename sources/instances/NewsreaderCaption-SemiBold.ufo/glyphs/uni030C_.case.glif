@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.case" format="2">
+  <anchor x="0.0" y="1414.0" name="_UCtop"/>
+  <anchor x="0.0" y="1870.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="34.784" y="1677.288" type="line"/>
+      <point x="-172.496" y="1870.0" type="line"/>
+      <point x="-383.408" y="1870.0" type="line"/>
+      <point x="-123.408" y="1544.0" type="line"/>
+      <point x="123.408" y="1544.0" type="line"/>
+      <point x="383.408" y="1870.0" type="line"/>
+      <point x="172.496" y="1870.0" type="line"/>
+      <point x="-34.784" y="1677.288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="1000.0"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-293.0" type="curve" smooth="yes"/>
+      <point x="47.0" y="-293.0"/>
+      <point x="75.0" y="-257.0"/>
+      <point x="75.0" y="-218.0" type="curve" smooth="yes"/>
+      <point x="75.0" y="-179.0"/>
+      <point x="47.0" y="-143.0"/>
+      <point x="0.0" y="-143.0" type="curve" smooth="yes"/>
+      <point x="-47.0" y="-143.0"/>
+      <point x="-75.0" y="-179.0"/>
+      <point x="-75.0" y="-218.0" type="curve" smooth="yes"/>
+      <point x="-75.0" y="-257.0"/>
+      <point x="-47.0" y="-293.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1506.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="309.0" y="1328.0" type="line"/>
+      <point x="309.0" y="839.0" type="line"/>
+      <point x="242.0" y="823.0" type="line"/>
+      <point x="242.0" y="806.0" type="line"/>
+      <point x="447.0" y="806.0" type="line"/>
+      <point x="447.0" y="823.0" type="line"/>
+      <point x="378.0" y="839.0" type="line"/>
+      <point x="378.0" y="1328.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1315.0" y="840.0" type="line"/>
+      <point x="1278.0" y="1305.0" type="line"/>
+      <point x="1350.0" y="1321.0" type="line"/>
+      <point x="1350.0" y="1340.0" type="line"/>
+      <point x="1204.0" y="1340.0" type="line"/>
+      <point x="999.0" y="862.0" type="line"/>
+      <point x="1019.0" y="862.0" type="line"/>
+      <point x="821.0" y="1340.0" type="line"/>
+      <point x="678.0" y="1340.0" type="line"/>
+      <point x="678.0" y="1322.0" type="line"/>
+      <point x="748.0" y="1302.0" type="line"/>
+      <point x="716.0" y="838.0" type="line"/>
+      <point x="647.0" y="823.0" type="line"/>
+      <point x="647.0" y="806.0" type="line"/>
+      <point x="816.0" y="806.0" type="line"/>
+      <point x="816.0" y="823.0" type="line"/>
+      <point x="750.0" y="838.0" type="line"/>
+      <point x="781.0" y="1311.0" type="line"/>
+      <point x="761.0" y="1311.0" type="line"/>
+      <point x="973.0" y="800.0" type="line"/>
+      <point x="1006.0" y="800.0" type="line"/>
+      <point x="1224.0" y="1308.0" type="line"/>
+      <point x="1212.0" y="1309.0" type="line"/>
+      <point x="1245.0" y="839.0" type="line"/>
+      <point x="1177.0" y="823.0" type="line"/>
+      <point x="1177.0" y="806.0" type="line"/>
+      <point x="1383.0" y="806.0" type="line"/>
+      <point x="1383.0" y="823.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="568.0" y="1307.0" type="line"/>
+      <point x="529.0" y="1326.0" type="line"/>
+      <point x="586.0" y="1180.0" type="line"/>
+      <point x="606.0" y="1181.0" type="line"/>
+      <point x="586.0" y="1366.0" type="line"/>
+      <point x="572.0" y="1366.0" type="line"/>
+      <point x="527.0" y="1334.0" type="line"/>
+      <point x="558.0" y="1340.0" type="line"/>
+      <point x="132.0" y="1340.0" type="line"/>
+      <point x="163.0" y="1334.0" type="line"/>
+      <point x="117.0" y="1366.0" type="line"/>
+      <point x="104.0" y="1366.0" type="line"/>
+      <point x="82.0" y="1181.0" type="line"/>
+      <point x="102.0" y="1180.0" type="line"/>
+      <point x="160.0" y="1326.0" type="line"/>
+      <point x="121.0" y="1307.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

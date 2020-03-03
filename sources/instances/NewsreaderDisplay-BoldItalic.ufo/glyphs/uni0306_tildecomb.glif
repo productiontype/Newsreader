@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_tildecomb" format="2">
+  <anchor x="157.0" y="1024.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="213.48000000000002" y="1220.9759999999999" type="curve" smooth="yes"/>
+      <point x="84.056" y="1220.9759999999999"/>
+      <point x="30.536" y="1248.552"/>
+      <point x="20.352" y="1336.0" type="curve"/>
+      <point x="-21.72" y="1336.0" type="line"/>
+      <point x="-20.72" y="1134.1119999999999"/>
+      <point x="32.632000000000005" y="1087.0"/>
+      <point x="179.168" y="1087.0" type="curve" smooth="yes"/>
+      <point x="320.424" y="1087.0"/>
+      <point x="400.42400000000004" y="1132.352"/>
+      <point x="525.72" y="1336.0" type="curve"/>
+      <point x="477.05600000000004" y="1336.0" type="line"/>
+      <point x="417.776" y="1254.032"/>
+      <point x="343.256" y="1220.9759999999999"/>
+    </contour>
+    <contour>
+      <point x="615.0880000000001" y="1598.0" type="curve"/>
+      <point x="568.424" y="1598.0" type="line"/>
+      <point x="519.904" y="1537.92"/>
+      <point x="485.256" y="1511.216"/>
+      <point x="435.01599999999996" y="1511.216" type="curve" smooth="yes"/>
+      <point x="364.128" y="1511.216"/>
+      <point x="301.168" y="1604.6480000000001"/>
+      <point x="217.056" y="1604.6480000000001" type="curve" smooth="yes"/>
+      <point x="151.168" y="1604.6480000000001"/>
+      <point x="95.928" y="1568.24"/>
+      <point x="-15.848" y="1390.0" type="curve"/>
+      <point x="30.816000000000003" y="1390.0" type="line"/>
+      <point x="78.984" y="1449.728"/>
+      <point x="113.632" y="1476.784"/>
+      <point x="163.872" y="1476.784" type="curve" smooth="yes"/>
+      <point x="236.168" y="1476.784"/>
+      <point x="297.72" y="1383.352"/>
+      <point x="381.128" y="1383.352" type="curve" smooth="yes"/>
+      <point x="448.424" y="1383.352"/>
+      <point x="503.664" y="1419.408"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

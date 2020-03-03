@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="2155.76"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="fraction" xOffset="664.6666666666666"/>
+    <component base="zerosuperior" xOffset="-2.2533333333333334"/>
+    <component base="zerosuperior" xOffset="640.7733333333333" yOffset="-592.0"/>
+    <component base="zerosuperior" xOffset="1289.3866666666668" yOffset="-592.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1255.6266666666666"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="285.64" y="662.16" type="line"/>
+      <point x="969.9866666666667" y="662.16" type="line"/>
+      <point x="969.9866666666667" y="730.4666666666667" type="line"/>
+      <point x="285.64" y="730.4666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="574.1333333333333" y="1309.08" type="line"/>
+      <point x="574.1333333333333" y="66.56" type="line"/>
+      <point x="407.36" y="28.346666666666664" type="line"/>
+      <point x="407.36" y="0.0" type="line"/>
+      <point x="848.2666666666667" y="0.0" type="line"/>
+      <point x="848.2666666666667" y="28.346666666666664" type="line"/>
+      <point x="681.4933333333333" y="66.56" type="line"/>
+      <point x="681.4933333333333" y="1309.08" type="line"/>
+    </contour>
+    <contour>
+      <point x="1126.0133333333333" y="1276.08" type="line"/>
+      <point x="1059.08" y="1291.9466666666667" type="line"/>
+      <point x="1177.16" y="980.2533333333333" type="line"/>
+      <point x="1209.3733333333332" y="986.7466666666667" type="line"/>
+      <point x="1165.6133333333332" y="1405.4933333333333" type="line"/>
+      <point x="1152.0" y="1405.4933333333333" type="line"/>
+      <point x="1047.9733333333334" y="1327.76" type="line"/>
+      <point x="1102.3866666666668" y="1340.0" type="line"/>
+      <point x="153.24" y="1340.0" type="line"/>
+      <point x="207.65333333333334" y="1327.76" type="line"/>
+      <point x="103.62666666666667" y="1405.4933333333333" type="line"/>
+      <point x="90.01333333333334" y="1405.4933333333333" type="line"/>
+      <point x="46.25333333333333" y="986.12" type="line"/>
+      <point x="78.46666666666667" y="980.2533333333333" type="line"/>
+      <point x="196.54666666666665" y="1291.9466666666667" type="line"/>
+      <point x="129.61333333333334" y="1276.08" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

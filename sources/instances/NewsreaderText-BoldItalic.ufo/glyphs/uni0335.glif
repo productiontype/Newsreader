@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0335" format="2">
+  <unicode hex="0335"/>
+  <anchor x="197.056" y="1078.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-164.984" y="1021.392" type="line"/>
+      <point x="525.672" y="1021.392" type="line"/>
+      <point x="560.448" y="1135.904" type="line"/>
+      <point x="-130.56" y="1135.904" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="1744.0"/>
+  <unicode hex="0058"/>
+  <anchor x="880.6" y="1414.0" name="UCtop"/>
+  <anchor x="856.6" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="864.6" y="655.6" type="line"/>
+      <point x="988.8000000000001" y="681.4" type="line"/>
+      <point x="1473.8" y="1256.0" type="line"/>
+      <point x="1636.4" y="1302.0" type="line"/>
+      <point x="1636.4" y="1414.0" type="line"/>
+      <point x="1086.6000000000001" y="1414.0" type="line"/>
+      <point x="1086.6000000000001" y="1302.0" type="line"/>
+      <point x="1248.0" y="1258.0" type="line"/>
+      <point x="887.6" y="815.0" type="line"/>
+      <point x="751.4" y="782.2" type="line"/>
+      <point x="216.0" y="158.0" type="line"/>
+      <point x="53.4" y="112.0" type="line"/>
+      <point x="53.4" y="0.0" type="line"/>
+      <point x="613.8" y="0.0" type="line"/>
+      <point x="613.8" y="112.0" type="line"/>
+      <point x="448.4" y="156.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1161.2" y="158.0" type="line"/>
+      <point x="985.1999999999999" y="112.0" type="line"/>
+      <point x="985.1999999999999" y="0.0" type="line"/>
+      <point x="1713.2" y="0.0" type="line"/>
+      <point x="1713.2" y="112.0" type="line"/>
+      <point x="1547.2" y="159.6" type="line"/>
+      <point x="1001.8000000000001" y="807.4" type="line"/>
+      <point x="972.4" y="842.4" type="line"/>
+      <point x="629.8" y="1256.0" type="line"/>
+      <point x="805.8" y="1302.0" type="line"/>
+      <point x="805.8" y="1414.0" type="line"/>
+      <point x="77.8" y="1414.0" type="line"/>
+      <point x="77.8" y="1302.0" type="line"/>
+      <point x="243.79999999999998" y="1254.4" type="line"/>
+      <point x="726.4000000000001" y="682.1999999999999" type="line"/>
+      <point x="758.8000000000001" y="642.5999999999999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

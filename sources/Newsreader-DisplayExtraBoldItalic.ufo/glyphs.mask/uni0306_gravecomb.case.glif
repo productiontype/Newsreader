@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_gravecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="369.0" y="1721.0" type="line"/>
+      <point x="344.0" y="2004.0" type="line"/>
+      <point x="96.0" y="2004.0" type="line"/>
+      <point x="96.0" y="1990.0" type="line"/>
+      <point x="327.0" y="1721.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="341.0" y="1640.0" type="curve" smooth="yes"/>
+      <point x="207.0" y="1640.0"/>
+      <point x="157.0" y="1663.0"/>
+      <point x="144.0" y="1742.0" type="curve"/>
+      <point x="97.0" y="1742.0" type="line"/>
+      <point x="98.0" y="1538.0"/>
+      <point x="151.0" y="1493.0"/>
+      <point x="300.0" y="1493.0" type="curve" smooth="yes"/>
+      <point x="449.0" y="1493.0"/>
+      <point x="529.0" y="1538.0"/>
+      <point x="655.0" y="1742.0" type="curve"/>
+      <point x="600.0" y="1742.0" type="line"/>
+      <point x="546.0" y="1672.0"/>
+      <point x="475.0" y="1640.0"/>
+    </contour>
+  </outline>
+</glyph>

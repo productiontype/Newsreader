@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni031B" format="2">
+  <unicode hex="031B"/>
+  <anchor x="159.296" y="1039.776" name="_horn"/>
+  <outline>
+    <contour>
+      <point x="591.3919999999999" y="1226.056" type="curve" smooth="yes"/>
+      <point x="591.3919999999999" y="1312.496"/>
+      <point x="539.784" y="1351.864"/>
+      <point x="460.80800000000005" y="1351.864" type="curve" smooth="yes"/>
+      <point x="384.072" y="1351.864"/>
+      <point x="328.704" y="1298.904"/>
+      <point x="328.704" y="1265.3680000000002" type="curve" smooth="yes"/>
+      <point x="328.704" y="1248.8319999999999"/>
+      <point x="361.184" y="1205.648"/>
+      <point x="361.184" y="1156.408" type="curve" smooth="yes"/>
+      <point x="361.184" y="1083.352"/>
+      <point x="306.94399999999996" y="1039.776"/>
+      <point x="195.072" y="1039.776" type="curve" smooth="yes"/>
+      <point x="68.03999999999999" y="1039.776" type="line"/>
+      <point x="31.376" y="931.6719999999999" type="line"/>
+      <point x="191.48" y="931.6719999999999" type="line" smooth="yes"/>
+      <point x="442.35999999999996" y="931.6719999999999"/>
+      <point x="591.3919999999999" y="1049.08"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

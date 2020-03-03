@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2074" format="2">
+  <advance width="640.2266666666666"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="594.8666666666667" y="1348.1333333333334" type="line"/>
+      <point x="397.73333333333335" y="704.36" type="line"/>
+      <point x="239.33333333333334" y="675.8666666666667" type="line"/>
+      <point x="235.58666666666667" y="662.0" type="line"/>
+      <point x="612.2666666666667" y="662.0" type="line"/>
+      <point x="616.0133333333333" y="675.8666666666667" type="line"/>
+      <point x="488.7333333333333" y="704.36" type="line"/>
+      <point x="712.8666666666667" y="1437.5066666666667" type="line"/>
+      <point x="670.9866666666667" y="1437.5066666666667" type="line"/>
+      <point x="150.10666666666668" y="931.2133333333334" type="line"/>
+      <point x="144.13333333333333" y="905.16" type="line"/>
+      <point x="702.8666666666667" y="905.16" type="line"/>
+      <point x="758.8399999999999" y="992.08" type="line"/>
+      <point x="673.6133333333333" y="973.4533333333334" type="line"/>
+      <point x="204.33333333333334" y="973.4533333333334" type="line"/>
+      <point x="199.48" y="939.9866666666667" type="line"/>
+      <point x="622.7066666666667" y="1349.6266666666668" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

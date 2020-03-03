@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_gravecomb.case" format="2">
+  <anchor x="0" y="1430.0" name="_UCtop"/>
+  <outline>
+    <contour>
+      <point x="12.0" y="1721.0" type="line"/>
+      <point x="-165.0" y="2004.0" type="line"/>
+      <point x="-282.0" y="2004.0" type="line"/>
+      <point x="-282.0" y="1994.0" type="line"/>
+      <point x="-11.0" y="1721.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="1576.0" type="curve" smooth="yes"/>
+      <point x="-119.0" y="1576.0"/>
+      <point x="-201.0" y="1614.0"/>
+      <point x="-242.0" y="1742.0" type="curve"/>
+      <point x="-266.0" y="1742.0" type="line"/>
+      <point x="-206.0" y="1549.0"/>
+      <point x="-138.0" y="1503.0"/>
+      <point x="0.0" y="1503.0" type="curve" smooth="yes"/>
+      <point x="138.0" y="1503.0"/>
+      <point x="206.0" y="1549.0"/>
+      <point x="266.0" y="1742.0" type="curve"/>
+      <point x="242.0" y="1742.0" type="line"/>
+      <point x="201.0" y="1614.0"/>
+      <point x="119.0" y="1576.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

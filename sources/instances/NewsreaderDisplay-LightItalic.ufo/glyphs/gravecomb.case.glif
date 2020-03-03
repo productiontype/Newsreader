@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="281.0" y="1430.0" name="_UCtop"/>
+  <anchor x="437.0" y="1941.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="343.8666666666667" y="1544.0" type="line"/>
+      <point x="274.70666666666665" y="1870.0" type="line"/>
+      <point x="146.17333333333332" y="1870.0" type="line"/>
+      <point x="145.42666666666665" y="1863.2533333333333" type="line"/>
+      <point x="322.76" y="1544.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

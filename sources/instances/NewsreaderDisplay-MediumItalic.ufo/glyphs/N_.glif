@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="1499.6"/>
+  <unicode hex="004E"/>
+  <anchor x="1050.8" y="1430.0" name="UCtop"/>
+  <anchor x="658.8000000000001" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1183.2" y="261.8" type="line"/>
+      <point x="750.2" y="1430.0" type="line"/>
+      <point x="329.2" y="1430.0" type="line"/>
+      <point x="322.8" y="1408.6000000000001" type="line"/>
+      <point x="492.79999999999995" y="1345.8" type="line"/>
+      <point x="100.8" y="61.2" type="line"/>
+      <point x="-73.60000000000001" y="21.4" type="line"/>
+      <point x="-80.0" y="0.0" type="line"/>
+      <point x="338.6" y="0.0" type="line"/>
+      <point x="344.8" y="21.4" type="line"/>
+      <point x="165.0" y="61.800000000000004" type="line"/>
+      <point x="558.8000000000001" y="1352.2" type="line"/>
+      <point x="531.4000000000001" y="1321.8" type="line"/>
+      <point x="1032.8" y="-16.0" type="line"/>
+      <point x="1120.2" y="-16.0" type="line"/>
+      <point x="1543.0" y="1368.8000000000002" type="line"/>
+      <point x="1717.4" y="1408.6" type="line"/>
+      <point x="1723.8000000000002" y="1430.0" type="line"/>
+      <point x="1305.2" y="1430.0" type="line"/>
+      <point x="1299.0" y="1408.6" type="line"/>
+      <point x="1478.8" y="1368.2" type="line"/>
+      <point x="1141.0" y="261.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

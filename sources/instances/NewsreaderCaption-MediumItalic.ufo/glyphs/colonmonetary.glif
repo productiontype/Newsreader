@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonmonetary" format="2">
+  <advance width="1350.0"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <component base="colonmonetary.lf" xOffset="47.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5158,0.1993,0.9852,0.8</string>
+    </dict>
+  </lib>
+</glyph>

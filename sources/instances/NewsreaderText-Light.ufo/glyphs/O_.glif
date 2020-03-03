@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="1498.0533333333333"/>
+  <unicode hex="004F"/>
+  <anchor x="748.84" y="1340.0" name="UCtop"/>
+  <anchor x="748.84" y="0.0" name="bottom"/>
+  <anchor x="1054.6133333333332" y="1340.0" name="horn"/>
+  <anchor x="940.4933333333333" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="741.5733333333334" y="1360.0" type="curve" smooth="yes"/>
+      <point x="368.61333333333334" y="1360.0"/>
+      <point x="97.76" y="1070.4933333333333"/>
+      <point x="97.76" y="668.6266666666667" type="curve" smooth="yes"/>
+      <point x="97.76" y="268.38666666666666"/>
+      <point x="377.76" y="-20.0"/>
+      <point x="756.48" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1129.44" y="-20.0"/>
+      <point x="1400.2933333333333" y="269.50666666666666"/>
+      <point x="1400.2933333333333" y="671.3733333333333" type="curve" smooth="yes"/>
+      <point x="1400.2933333333333" y="1071.6133333333332"/>
+      <point x="1120.2933333333333" y="1360.0"/>
+    </contour>
+    <contour>
+      <point x="757.2133333333334" y="41.29333333333334" type="curve" smooth="yes"/>
+      <point x="441.02666666666664" y="41.29333333333334"/>
+      <point x="214.10666666666665" y="283.4533333333333"/>
+      <point x="214.10666666666665" y="688.0933333333334" type="curve" smooth="yes"/>
+      <point x="214.10666666666665" y="1049.2533333333333"/>
+      <point x="410.1333333333333" y="1298.7066666666667"/>
+      <point x="740.84" y="1298.7066666666667" type="curve" smooth="yes"/>
+      <point x="1057.0266666666666" y="1298.7066666666667"/>
+      <point x="1283.9466666666667" y="1056.5466666666666"/>
+      <point x="1283.9466666666667" y="651.9066666666666" type="curve" smooth="yes"/>
+      <point x="1283.9466666666667" y="290.74666666666667"/>
+      <point x="1087.92" y="41.29333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

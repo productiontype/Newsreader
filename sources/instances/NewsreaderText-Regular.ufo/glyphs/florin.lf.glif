@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin.lf" format="2">
+  <advance width="1387"/>
+  <outline>
+    <contour>
+      <point x="350.0" y="634.0" type="line"/>
+      <point x="1072.0" y="634.0" type="line"/>
+      <point x="1072.0" y="712.0" type="line"/>
+      <point x="350.0" y="712.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="230.0" y="-270.0" type="curve" smooth="yes"/>
+      <point x="452.0" y="-270.0"/>
+      <point x="648.6732567216892" y="-91.40353381144791"/>
+      <point x="733.0" y="453.0" type="curve" smooth="yes"/>
+      <point x="801.0" y="892.0" type="line" smooth="yes"/>
+      <point x="848.0" y="1193.0"/>
+      <point x="908.0" y="1257.0"/>
+      <point x="1043.0" y="1257.0" type="curve" smooth="yes"/>
+      <point x="1167.0" y="1257.0"/>
+      <point x="1201.0" y="1150.0"/>
+      <point x="1257.0" y="1150.0" type="curve" smooth="yes"/>
+      <point x="1306.0" y="1150.0"/>
+      <point x="1342.0" y="1182.0"/>
+      <point x="1342.0" y="1230.0" type="curve" smooth="yes"/>
+      <point x="1342.0" y="1296.0"/>
+      <point x="1275.0" y="1351.0"/>
+      <point x="1149.0" y="1351.0" type="curve" smooth="yes"/>
+      <point x="926.0" y="1351.0"/>
+      <point x="712.0" y="1206.0"/>
+      <point x="647.0" y="792.0" type="curve" smooth="yes"/>
+      <point x="574.0" y="326.0" type="line" smooth="yes"/>
+      <point x="507.84213429126544" y="-96.32281397630544"/>
+      <point x="421.0" y="-177.0"/>
+      <point x="318.0" y="-177.0" type="curve" smooth="yes"/>
+      <point x="208.0" y="-177.0"/>
+      <point x="177.60591133004925" y="-79.0"/>
+      <point x="128.0" y="-79.0" type="curve" smooth="yes"/>
+      <point x="81.0" y="-79.0"/>
+      <point x="47.0" y="-109.0"/>
+      <point x="47.0" y="-155.0" type="curve" smooth="yes"/>
+      <point x="47.0" y="-218.0"/>
+      <point x="110.0" y="-270.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

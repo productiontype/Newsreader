@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="764.712"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="381.856" y="1434.0" type="curve" smooth="yes"/>
+      <point x="209.856" y="1434.0"/>
+      <point x="85.856" y="1313.0"/>
+      <point x="85.856" y="1140.0" type="curve" smooth="yes"/>
+      <point x="85.856" y="967.0"/>
+      <point x="209.856" y="846.0"/>
+      <point x="381.856" y="846.0" type="curve" smooth="yes"/>
+      <point x="554.856" y="846.0"/>
+      <point x="678.856" y="967.0"/>
+      <point x="678.856" y="1140.0" type="curve" smooth="yes"/>
+      <point x="678.856" y="1313.0"/>
+      <point x="554.856" y="1434.0"/>
+    </contour>
+    <contour>
+      <point x="381.856" y="990.328" type="curve" smooth="yes"/>
+      <point x="297.464" y="990.328"/>
+      <point x="236.832" y="1049.608"/>
+      <point x="236.832" y="1140.0" type="curve" smooth="yes"/>
+      <point x="236.832" y="1230.392"/>
+      <point x="297.464" y="1289.672"/>
+      <point x="381.856" y="1289.672" type="curve" smooth="yes"/>
+      <point x="467.248" y="1289.672"/>
+      <point x="526.88" y="1230.392"/>
+      <point x="526.88" y="1140.0" type="curve" smooth="yes"/>
+      <point x="526.88" y="1049.608"/>
+      <point x="467.248" y="990.328"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

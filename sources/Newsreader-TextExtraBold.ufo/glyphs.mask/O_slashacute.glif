@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslashacute" format="2">
+  <advance width="518.0"/>
+  <unicode hex="01FE"/>
+  <outline>
+    <contour>
+      <point x="408.0" y="343.0" type="line"/>
+      <point x="312.0" y="267.0" type="line"/>
+      <point x="54.0" y="0.0" type="line"/>
+      <point x="246.0" y="0.0" type="line"/>
+      <point x="408.0" y="168.0" type="line"/>
+      <point x="498.0" y="243.0" type="line"/>
+      <point x="1187.0" y="995.0" type="line"/>
+      <point x="1285.0" y="1073.0" type="line"/>
+      <point x="1543.0" y="1340.0" type="line"/>
+      <point x="1351.0" y="1340.0" type="line"/>
+      <point x="1189.0" y="1172.0" type="line"/>
+      <point x="1097.0" y="1095.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="820.0" y="1370.0" type="curve" smooth="yes"/>
+      <point x="381.0" y="1370.0"/>
+      <point x="74.0" y="1087.0"/>
+      <point x="74.0" y="668.0" type="curve" smooth="yes"/>
+      <point x="74.0" y="243.0"/>
+      <point x="351.0" y="-30.0"/>
+      <point x="777.0" y="-30.0" type="curve" smooth="yes"/>
+      <point x="1216.0" y="-30.0"/>
+      <point x="1523.0" y="253.0"/>
+      <point x="1523.0" y="672.0" type="curve" smooth="yes"/>
+      <point x="1523.0" y="1097.0"/>
+      <point x="1246.0" y="1370.0"/>
+    </contour>
+    <contour>
+      <point x="809.0" y="124.0" type="curve" smooth="yes"/>
+      <point x="614.0" y="124.0"/>
+      <point x="478.0" y="324.0"/>
+      <point x="478.0" y="743.0" type="curve" smooth="yes"/>
+      <point x="478.0" y="1078.0"/>
+      <point x="615.0" y="1216.0"/>
+      <point x="788.0" y="1216.0" type="curve" smooth="yes"/>
+      <point x="983.0" y="1216.0"/>
+      <point x="1119.0" y="1016.0"/>
+      <point x="1119.0" y="597.0" type="curve" smooth="yes"/>
+      <point x="1119.0" y="262.0"/>
+      <point x="982.0" y="124.0"/>
+    </contour>
+  </outline>
+</glyph>

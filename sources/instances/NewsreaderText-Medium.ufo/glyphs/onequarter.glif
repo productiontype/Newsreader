@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="1497.4"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="uni00B9" xOffset="25.2"/>
+    <component base="fraction" xOffset="697.2"/>
+    <component base="uni2074" xOffset="742.4" yOffset="-592.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

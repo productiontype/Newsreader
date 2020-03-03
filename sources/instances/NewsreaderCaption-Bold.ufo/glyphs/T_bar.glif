@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1673.1200000000001"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="346.6" y="576.832" type="line"/>
+      <point x="1326.52" y="576.832" type="line"/>
+      <point x="1326.52" y="766.448" type="line"/>
+      <point x="346.6" y="766.448" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.88" y="1355.8319999999999" type="line"/>
+      <point x="623.88" y="173.03199999999998" type="line"/>
+      <point x="438.984" y="125.44" type="line"/>
+      <point x="438.984" y="0.0" type="line"/>
+      <point x="1234.1360000000002" y="0.0" type="line"/>
+      <point x="1234.1360000000002" y="125.44" type="line"/>
+      <point x="1049.24" y="173.03199999999998" type="line"/>
+      <point x="1049.24" y="1355.8319999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="1381.808" y="1168.576" type="line"/>
+      <point x="1277.8560000000002" y="1277.208" type="line"/>
+      <point x="1437.4959999999999" y="890.384" type="line"/>
+      <point x="1622.784" y="890.384" type="line"/>
+      <point x="1549.376" y="1510.48" type="line"/>
+      <point x="1412.104" y="1510.48" type="line"/>
+      <point x="1305.536" y="1374.152" type="line"/>
+      <point x="1456.1599999999999" y="1414.0" type="line"/>
+      <point x="216.31199999999998" y="1414.0" type="line"/>
+      <point x="367.584" y="1374.152" type="line"/>
+      <point x="261.016" y="1510.48" type="line"/>
+      <point x="123.744" y="1510.48" type="line"/>
+      <point x="50.336" y="890.384" type="line"/>
+      <point x="235.624" y="890.384" type="line"/>
+      <point x="395.264" y="1277.208" type="line"/>
+      <point x="291.312" y="1168.576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

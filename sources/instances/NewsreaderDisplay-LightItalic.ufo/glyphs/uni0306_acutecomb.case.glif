@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_acutecomb.case" format="2">
+  <anchor x="281.0" y="1430.0" name="_UCtop"/>
+  <outline>
+    <contour>
+      <point x="340.62666666666667" y="1721.0" type="line"/>
+      <point x="367.8666666666667" y="1721.0" type="line"/>
+      <point x="716.3333333333334" y="1993.2533333333333" type="line"/>
+      <point x="717.4533333333334" y="2004.0" type="line"/>
+      <point x="576.92" y="2004.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325.36" y="1586.08" type="curve" smooth="yes"/>
+      <point x="209.37333333333333" y="1586.08"/>
+      <point x="145.61333333333334" y="1623.3333333333335"/>
+      <point x="143.74666666666667" y="1742.0" type="curve"/>
+      <point x="118.89333333333335" y="1742.0" type="line"/>
+      <point x="116.13333333333334" y="1547.1333333333334"/>
+      <point x="168.25333333333333" y="1499.2666666666667"/>
+      <point x="310.88" y="1499.2666666666667" type="curve" smooth="yes"/>
+      <point x="432.8666666666667" y="1499.2666666666667"/>
+      <point x="512.24" y="1545.2666666666667"/>
+      <point x="633.1066666666667" y="1742.0" type="curve"/>
+      <point x="603.0" y="1742.0" type="line"/>
+      <point x="528.36" y="1622.96"/>
+      <point x="441.71999999999997" y="1586.08"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

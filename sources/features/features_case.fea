@@ -1,0 +1,9 @@
+feature case { # Case-sensitive forms
+	lookup case_exceptions {
+ 		# sub idotaccent by Idotaccent;
+ 		sub dotlessi by I;
+ 	} case_exceptions;
+	lookup case_punctuation {
+		sub @lc.punct_uc by @uc.punct;
+	} case_punctuation; 
+} case;

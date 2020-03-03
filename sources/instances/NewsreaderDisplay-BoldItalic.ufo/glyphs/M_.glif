@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="2076.512"/>
+  <unicode hex="004D"/>
+  <anchor x="1253.512" y="1430.0" name="UCtop"/>
+  <anchor x="789.592" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="583.32" y="1387.792" type="line"/>
+      <point x="523.696" y="1372.712" type="line"/>
+      <point x="652.816" y="-7.039999999999999" type="line"/>
+      <point x="857.184" y="-7.039999999999999" type="line"/>
+      <point x="1765.1680000000001" y="1393.816" type="line"/>
+      <point x="1782.592" y="1430.0" type="line"/>
+      <point x="1704.488" y="1430.0" type="line"/>
+      <point x="917.3199999999999" y="204.96" type="line"/>
+      <point x="993.312" y="232.17600000000002" type="line"/>
+      <point x="884.4319999999999" y="1430.0" type="line"/>
+      <point x="354.71200000000005" y="1430.0" type="line"/>
+      <point x="349.064" y="1405.4640000000002" type="line"/>
+      <point x="490.752" y="1326.856" type="line"/>
+      <point x="52.488" y="69.776" type="line"/>
+      <point x="-115.608" y="24.536" type="line"/>
+      <point x="-122.552" y="0.0" type="line"/>
+      <point x="294.096" y="0.0" type="line"/>
+      <point x="300.744" y="24.536" type="line"/>
+      <point x="127.98400000000001" y="71.72" type="line"/>
+    </contour>
+    <contour>
+      <point x="1712.9119999999998" y="1430.0" type="line"/>
+      <point x="1427.296" y="75.608" type="line"/>
+      <point x="1255.312" y="24.535999999999998" type="line"/>
+      <point x="1248.664" y="0.0" type="line"/>
+      <point x="1919.096" y="0.0" type="line"/>
+      <point x="1925.7440000000001" y="24.535999999999998" type="line"/>
+      <point x="1786.24" y="73.016" type="line"/>
+      <point x="2060.3360000000002" y="1358.632" type="line"/>
+      <point x="2247.08" y="1405.4640000000002" type="line"/>
+      <point x="2252.728" y="1430.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

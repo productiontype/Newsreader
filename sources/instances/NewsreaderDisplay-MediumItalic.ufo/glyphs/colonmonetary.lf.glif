@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonmonetary.lf" format="2">
+  <advance width="1183.8"/>
+  <outline>
+    <contour>
+      <point x="315.6" y="-208.0" type="line"/>
+      <point x="373.2" y="-208.0" type="line"/>
+      <point x="1326.2" y="1638.0" type="line"/>
+      <point x="1268.8" y="1638.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.8" y="-208.0" type="line"/>
+      <point x="192.4" y="-208.0" type="line"/>
+      <point x="1146.3999999999999" y="1638.0" type="line"/>
+      <point x="1089.8" y="1638.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="931.0" y="1401.0" type="curve" smooth="yes"/>
+      <point x="1134.6" y="1401.0"/>
+      <point x="1135.4" y="1192.3999999999999"/>
+      <point x="1204.8" y="1192.3999999999999" type="curve" smooth="yes"/>
+      <point x="1278.0" y="1192.3999999999999"/>
+      <point x="1320.4" y="1238.2"/>
+      <point x="1320.4" y="1297.1999999999998" type="curve" smooth="yes"/>
+      <point x="1320.4" y="1362.3999999999999"/>
+      <point x="1260.2" y="1452.0"/>
+      <point x="986.5999999999999" y="1452.0" type="curve" smooth="yes"/>
+      <point x="479.2" y="1452.0"/>
+      <point x="143.8" y="962.2"/>
+      <point x="143.8" y="448.59999999999997" type="curve" smooth="yes"/>
+      <point x="143.8" y="147.20000000000002"/>
+      <point x="296.0" y="-22.0"/>
+      <point x="534.0" y="-22.0" type="curve" smooth="yes"/>
+      <point x="717.5999999999999" y="-22.0"/>
+      <point x="867.4" y="40.199999999999996"/>
+      <point x="1054.8" y="316.4" type="curve"/>
+      <point x="1038.8" y="331.40000000000003" type="line"/>
+      <point x="895.0836306792979" y="197.9019135865298"/>
+      <point x="796.8000000000001" y="176.2"/>
+      <point x="670.8" y="176.2" type="curve" smooth="yes"/>
+      <point x="491.0" y="176.2"/>
+      <point x="371.4" y="276.8"/>
+      <point x="371.4" y="515.0" type="curve" smooth="yes"/>
+      <point x="371.4" y="894.0"/>
+      <point x="590.0" y="1401.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1464.7733333333333"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="362.70666666666665" y="675.1866666666666" type="line"/>
+      <point x="1102.0666666666666" y="675.1866666666666" type="line"/>
+      <point x="1102.0666666666666" y="765.7066666666667" type="line"/>
+      <point x="362.70666666666665" y="765.7066666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="666.6266666666667" y="1385.72" type="line"/>
+      <point x="666.6266666666667" y="98.36" type="line"/>
+      <point x="447.49333333333334" y="71.53333333333333" type="line"/>
+      <point x="447.49333333333334" y="0.0" type="line"/>
+      <point x="1017.28" y="0.0" type="line"/>
+      <point x="1017.28" y="71.53333333333333" type="line"/>
+      <point x="798.1466666666666" y="98.36" type="line"/>
+      <point x="798.1466666666666" y="1385.72" type="line"/>
+    </contour>
+    <contour>
+      <point x="1261.6" y="1313.1466666666665" type="line"/>
+      <point x="1206.2266666666667" y="1343.6266666666668" type="line"/>
+      <point x="1303.28" y="1008.9066666666666" type="line"/>
+      <point x="1399.6399999999999" y="1008.9066666666666" type="line"/>
+      <point x="1328.6533333333332" y="1491.4666666666667" type="line"/>
+      <point x="1245.48" y="1491.4666666666667" type="line"/>
+      <point x="1209.9733333333334" y="1395.3866666666668" type="line"/>
+      <point x="1300.88" y="1414.0" type="line"/>
+      <point x="176.42666666666668" y="1414.0" type="line"/>
+      <point x="254.79999999999995" y="1395.3866666666668" type="line"/>
+      <point x="219.29333333333332" y="1491.4666666666667" type="line"/>
+      <point x="136.11999999999998" y="1491.4666666666667" type="line"/>
+      <point x="65.13333333333333" y="1008.9066666666666" type="line"/>
+      <point x="161.49333333333334" y="1008.9066666666666" type="line"/>
+      <point x="258.5466666666667" y="1343.6266666666668" type="line"/>
+      <point x="203.17333333333335" y="1313.1466666666665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1195.0"/>
+  <unicode hex="0141"/>
+  <guideline x="72.0" y="568" angle="1.4894546159441024" identifier="m56N8kInTH"/>
+  <outline>
+    <contour>
+      <point x="301.0" y="652.0" type="line"/>
+      <point x="332.0" y="660.0" type="line"/>
+      <point x="709.0" y="858.0" type="line"/>
+      <point x="709.0" y="912.0" type="line"/>
+      <point x="332.0" y="714.0" type="line"/>
+      <point x="301.0" y="706.0" type="line"/>
+      <point x="91.0" y="597.0" type="line"/>
+      <point x="91.0" y="543.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1067.0" y="-49.0" type="line"/>
+      <point x="1171.0" y="371.0" type="line"/>
+      <point x="1159.0" y="375.0" type="line"/>
+      <point x="988.0" y="17.0" type="line"/>
+      <point x="1031.0" y="30.0" type="line"/>
+      <point x="277.0" y="30.0" type="line"/>
+      <point x="277.0" y="0.0" type="line"/>
+      <point x="992.0" y="0.0" type="line"/>
+      <point x="1061.0" y="-49.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="356.0" y="1390.0" type="line"/>
+      <point x="540.0" y="1418.0" type="line"/>
+      <point x="540.0" y="1430.0" type="line"/>
+      <point x="91.0" y="1430.0" type="line"/>
+      <point x="91.0" y="1418.0" type="line"/>
+      <point x="275.0" y="1390.0" type="line"/>
+      <point x="275.0" y="40.0" type="line"/>
+      <point x="91.0" y="12.0" type="line"/>
+      <point x="91.0" y="0.0" type="line"/>
+      <point x="356.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="1764.0"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="fraction" xOffset="801.0"/>
+    <component base="zerosuperior" xOffset="-20.0"/>
+    <component base="zerosuperior" xOffset="697.0" yOffset="-662.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

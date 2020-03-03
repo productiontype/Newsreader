@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="274.152" y="1414.0" name="_UCtop"/>
+  <anchor x="435.15200000000004" y="1941.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="226.56" y="1544.0" type="line"/>
+      <point x="381.536" y="1544.0" type="line"/>
+      <point x="774.616" y="1816.736" type="line"/>
+      <point x="790.704" y="1870.0" type="line"/>
+      <point x="489.26399999999995" y="1870.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

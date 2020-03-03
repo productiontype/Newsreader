@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302_gravecomb" format="2">
+  <anchor x="157" y="1024" name="_top"/>
+  <outline>
+    <contour>
+      <point x="15.0" y="1335.0" type="line"/>
+      <point x="-60.0" y="1602.0" type="line"/>
+      <point x="-229.0" y="1602.0" type="line"/>
+      <point x="-233.0" y="1589.0" type="line"/>
+      <point x="-17.0" y="1335.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-107.0" y="1138.0" type="line"/>
+      <point x="-62.0" y="1138.0" type="line"/>
+      <point x="327.0" y="1384.0" type="line"/>
+      <point x="248.0" y="1384.0" type="line"/>
+      <point x="456.0" y="1138.0" type="line"/>
+      <point x="492.0" y="1138.0" type="line"/>
+      <point x="355.0" y="1464.0" type="line"/>
+      <point x="226.0" y="1464.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

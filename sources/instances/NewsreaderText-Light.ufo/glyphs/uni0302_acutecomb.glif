@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302_acutecomb" format="2">
+  <anchor x="0.0" y="852.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="205.45333333333332" y="1209.0" type="line"/>
+      <point x="251.54666666666665" y="1209.0" type="line"/>
+      <point x="483.36" y="1462.5066666666667" type="line"/>
+      <point x="483.36" y="1480.0" type="line"/>
+      <point x="339.68" y="1480.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19.266666666666666" y="1257.24" type="line"/>
+      <point x="210.37333333333333" y="1009.0" type="line"/>
+      <point x="261.58666666666664" y="1009.0" type="line"/>
+      <point x="45.906666666666666" y="1340.0" type="line"/>
+      <point x="-46.53333333333333" y="1340.0" type="line"/>
+      <point x="-261.58666666666664" y="1009.0" type="line"/>
+      <point x="-210.37333333333333" y="1009.0" type="line"/>
+      <point x="19.893333333333334" y="1257.24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="2">
+  <advance width="507.0"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="288.0" y="872.0" type="line"/>
+      <point x="280.0" y="872.0" type="line"/>
+      <point x="48.0" y="819.0" type="line"/>
+      <point x="48.0" y="798.0" type="line"/>
+      <point x="109.0" y="785.8"/>
+      <point x="186.0" y="770.4"/>
+      <point x="208.0" y="766.0" type="curve"/>
+      <point x="208.0" y="49.0" type="line"/>
+      <point x="56.0" y="23.0" type="line"/>
+      <point x="56.0" y="0.0" type="line"/>
+      <point x="430.0" y="0.0" type="line"/>
+      <point x="430.0" y="23.0" type="line"/>
+      <point x="278.0" y="49.0" type="line"/>
+      <point x="278.0" y="777.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="217.0" y="1078.0" type="curve" smooth="yes"/>
+      <point x="106.0" y="1078.0"/>
+      <point x="35.0" y="1154.0"/>
+      <point x="-4.0" y="1340.0" type="curve"/>
+      <point x="-27.0" y="1340.0" type="line"/>
+      <point x="30.0" y="1064.0"/>
+      <point x="84.0" y="999.0"/>
+      <point x="217.0" y="999.0" type="curve" smooth="yes"/>
+      <point x="350.0" y="999.0"/>
+      <point x="404.0" y="1064.0"/>
+      <point x="461.0" y="1340.0" type="curve"/>
+      <point x="438.0" y="1340.0" type="line"/>
+      <point x="399.0" y="1154.0"/>
+      <point x="328.0" y="1078.0"/>
+    </contour>
+  </outline>
+</glyph>

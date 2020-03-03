@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_tildecomb" format="2">
+  <anchor x="159.296" y="1039.776" name="_top"/>
+  <outline>
+    <contour>
+      <point x="208.776" y="1240.528" type="curve" smooth="yes"/>
+      <point x="86.72" y="1240.528"/>
+      <point x="56.072" y="1269.808"/>
+      <point x="58.775999999999996" y="1336.0" type="curve"/>
+      <point x="-74.82400000000001" y="1336.0" type="line"/>
+      <point x="-100.06400000000001" y="1146.48"/>
+      <point x="-6.032" y="1104.776"/>
+      <point x="192.12800000000001" y="1104.776" type="curve" smooth="yes"/>
+      <point x="381.4" y="1104.776"/>
+      <point x="483.36" y="1147.1280000000002"/>
+      <point x="573.88" y="1336.0" type="curve"/>
+      <point x="417.8" y="1336.0" type="line"/>
+      <point x="378.704" y="1266.272"/>
+      <point x="321.592" y="1240.528"/>
+    </contour>
+    <contour>
+      <point x="648.176" y="1598.0" type="curve"/>
+      <point x="500.984" y="1598.0" type="line"/>
+      <point x="475.536" y="1537.808"/>
+      <point x="454.47999999999996" y="1526.6399999999999"/>
+      <point x="415.776" y="1526.6399999999999" type="curve" smooth="yes"/>
+      <point x="352.368" y="1526.6399999999999"/>
+      <point x="273.112" y="1599.056"/>
+      <point x="171.68800000000002" y="1599.056" type="curve" smooth="yes"/>
+      <point x="45.343999999999994" y="1599.056"/>
+      <point x="-4.2479999999999976" y="1553.52"/>
+      <point x="-64.232" y="1390.0" type="curve"/>
+      <point x="82.96000000000001" y="1390.0" type="line"/>
+      <point x="108.408" y="1450.192"/>
+      <point x="129.464" y="1461.3600000000001"/>
+      <point x="168.168" y="1461.3600000000001" type="curve" smooth="yes"/>
+      <point x="231.22400000000002" y="1461.3600000000001"/>
+      <point x="310.832" y="1388.944"/>
+      <point x="412.256" y="1388.944" type="curve" smooth="yes"/>
+      <point x="538.6" y="1388.944"/>
+      <point x="588.192" y="1434.48"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

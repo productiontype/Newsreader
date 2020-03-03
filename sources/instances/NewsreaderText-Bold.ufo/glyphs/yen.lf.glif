@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.lf" format="2">
+  <advance width="1446.64"/>
+  <outline>
+    <contour>
+      <point x="1205.272" y="582.0" type="line"/>
+      <point x="291.032" y="582.0" type="line"/>
+      <point x="291.032" y="480.672" type="line"/>
+      <point x="1205.272" y="480.672" type="line"/>
+    </contour>
+    <contour>
+      <point x="1205.272" y="865.328" type="line"/>
+      <point x="291.032" y="865.328" type="line"/>
+      <point x="291.032" y="764.0" type="line"/>
+      <point x="1205.272" y="764.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="898.376" y="854.736" type="line"/>
+      <point x="1260.024" y="1245.928" type="line"/>
+      <point x="1397.472" y="1297.168" type="line"/>
+      <point x="1397.472" y="1340.0" type="line"/>
+      <point x="997.248" y="1340.0" type="line"/>
+      <point x="997.248" y="1297.168" type="line"/>
+      <point x="1128.584" y="1252.408" type="line"/>
+      <point x="829.712" y="920.6" type="line"/>
+      <point x="883.12" y="916.376" type="line"/>
+      <point x="550.296" y="1250.464" type="line"/>
+      <point x="678.152" y="1297.168" type="line"/>
+      <point x="678.152" y="1340.0" type="line"/>
+      <point x="40.519999999999996" y="1340.0" type="line"/>
+      <point x="40.519999999999996" y="1297.168" type="line"/>
+      <point x="182.04" y="1237.448" type="line"/>
+      <point x="598.632" y="854.216" type="line"/>
+      <point x="598.632" y="97.96000000000001" type="line"/>
+      <point x="425.912" y="41.536" type="line"/>
+      <point x="425.912" y="0.0" type="line"/>
+      <point x="1070.392" y="0.0" type="line"/>
+      <point x="1070.392" y="41.536" type="line"/>
+      <point x="898.376" y="97.96000000000001" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

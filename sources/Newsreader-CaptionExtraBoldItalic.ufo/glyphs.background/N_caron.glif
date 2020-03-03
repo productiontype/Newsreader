@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="1812"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="1297.0" y="77.0" type="line"/>
+      <point x="1103.0" y="1414.0" type="line"/>
+      <point x="349.0" y="1414.0" type="line"/>
+      <point x="319.0" y="1315.0" type="line"/>
+      <point x="471.0" y="1228.0" type="line"/>
+      <point x="142.0" y="163.0" type="line"/>
+      <point x="-31.0" y="108.0" type="line"/>
+      <point x="-61.0" y="0.0" type="line"/>
+      <point x="516.0" y="0.0" type="line"/>
+      <point x="547.0" y="108.0" type="line"/>
+      <point x="377.0" y="167.0" type="line"/>
+      <point x="722.0" y="1291.0" type="line"/>
+      <point x="668.0" y="1229.0" type="line"/>
+      <point x="848.0" y="0.0" type="line"/>
+      <point x="1425.0" y="0.0" type="line"/>
+      <point x="1810.0" y="1251.0" type="line"/>
+      <point x="1983.0" y="1306.0" type="line"/>
+      <point x="2013.0" y="1414.0" type="line"/>
+      <point x="1436.0" y="1414.0" type="line"/>
+      <point x="1405.0" y="1306.0" type="line"/>
+      <point x="1575.0" y="1247.0" type="line"/>
+      <point x="1205.0" y="38.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1728.9999999999409" y="1870.0" type="line"/>
+      <point x="1451.9999999999409" y="1870.0" type="line"/>
+      <point x="1223.9999999999409" y="1713.0" type="line"/>
+      <point x="1306.9999999999409" y="1713.0" type="line"/>
+      <point x="1174.9999999999409" y="1870.0" type="line"/>
+      <point x="926.9999999999409" y="1870.0" type="line"/>
+      <point x="1073.9999999999409" y="1544.0" type="line"/>
+      <point x="1381.9999999999409" y="1544.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

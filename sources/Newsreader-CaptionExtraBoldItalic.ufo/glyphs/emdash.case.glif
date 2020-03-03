@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash.case" format="2">
+  <advance width="1392"/>
+  <guideline x="194.0" y="708" angle="0.893876015699988" identifier="StwGfMAOXr"/>
+  <outline>
+    <component base="emdash" xOffset="75" yOffset="195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

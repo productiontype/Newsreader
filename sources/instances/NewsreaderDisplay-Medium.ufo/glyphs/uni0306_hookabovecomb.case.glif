@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_hookabovecomb.case" format="2">
+  <anchor x="0.0" y="1430.0" name="_UCtop"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="1620.3999999999999" type="curve" smooth="yes"/>
+      <point x="-130.6" y="1620.3999999999999"/>
+      <point x="-203.6" y="1654.3999999999999"/>
+      <point x="-240.8" y="1752.0" type="curve"/>
+      <point x="-281.2" y="1752.0" type="line"/>
+      <point x="-217.39999999999998" y="1548.8"/>
+      <point x="-148.2" y="1503.0"/>
+      <point x="0.0" y="1503.0" type="curve" smooth="yes"/>
+      <point x="148.2" y="1503.0"/>
+      <point x="217.39999999999998" y="1548.8"/>
+      <point x="281.2" y="1752.0" type="curve"/>
+      <point x="240.8" y="1752.0" type="line"/>
+      <point x="203.6" y="1655.6"/>
+      <point x="130.6" y="1620.3999999999999"/>
+    </contour>
+    <contour>
+      <point x="-28.0" y="1760.2" type="curve"/>
+      <point x="-23.2" y="1719.0" type="line"/>
+      <point x="159.0" y="1735.0"/>
+      <point x="210.8" y="1800.3999999999999"/>
+      <point x="210.8" y="1887.8" type="curve" smooth="yes"/>
+      <point x="210.8" y="1969.2"/>
+      <point x="157.4" y="2039.6000000000001"/>
+      <point x="-88.0" y="2056.0" type="curve"/>
+      <point x="-103.6" y="1926.4" type="line"/>
+      <point x="63.800000000000004" y="1917.4"/>
+      <point x="106.2" y="1896.6000000000001"/>
+      <point x="106.2" y="1844.6" type="curve" smooth="yes"/>
+      <point x="106.2" y="1799.2"/>
+      <point x="75.6" y="1774.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

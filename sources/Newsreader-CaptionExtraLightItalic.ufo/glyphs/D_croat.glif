@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="1545"/>
+  <unicode hex="0110"/>
+  <guideline x="-49.0" y="0" angle="16.196507137392675" identifier="Ygf996Un5x"/>
+  <outline>
+    <contour>
+      <point x="158.0" y="677.0" type="line"/>
+      <point x="791.0" y="677.0" type="line"/>
+      <point x="812.0" y="744.0" type="line"/>
+      <point x="179.0" y="744.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1397.0" y="370.0"/>
+      <point x="1064.0" y="64.0"/>
+      <point x="596.0" y="64.0" type="curve" smooth="yes"/>
+      <point x="208.0" y="64.0" type="line"/>
+      <point x="187.0" y="0.0" type="line"/>
+      <point x="582.0" y="0.0" type="line" smooth="yes"/>
+      <point x="1131.0" y="0.0"/>
+      <point x="1481.0" y="361.0"/>
+      <point x="1481.0" y="898.0" type="curve" smooth="yes"/>
+      <point x="1481.0" y="1253.0"/>
+      <point x="1314.0" y="1414.0"/>
+      <point x="904.0" y="1414.0" type="curve" smooth="yes"/>
+      <point x="620.0" y="1414.0" type="line"/>
+      <point x="599.0" y="1350.0" type="line"/>
+      <point x="855.0" y="1350.0" type="line" smooth="yes"/>
+      <point x="1271.0" y="1350.0"/>
+      <point x="1397.0" y="1196.0"/>
+      <point x="1397.0" y="894.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="574.0" y="1351.0" type="line"/>
+      <point x="180.0" y="63.0" type="line"/>
+      <point x="-35.0" y="47.0" type="line"/>
+      <point x="-49.0" y="0.0" type="line"/>
+      <point x="237.0" y="0.0" type="line"/>
+      <point x="669.0" y="1414.0" type="line"/>
+      <point x="383.0" y="1414.0" type="line"/>
+      <point x="368.0" y="1367.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

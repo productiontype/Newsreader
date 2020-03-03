@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="1480.0933333333335"/>
+  <unicode hex="004E"/>
+  <anchor x="1027.6933333333332" y="1430.0" name="UCtop"/>
+  <anchor x="639.6933333333333" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1121.8933333333332" y="146.97333333333336" type="line"/>
+      <point x="630.6666666666666" y="1430.0" type="line"/>
+      <point x="345.26666666666665" y="1430.0" type="line"/>
+      <point x="340.52" y="1415.0133333333333" type="line"/>
+      <point x="507.50666666666666" y="1376.8133333333333" type="line"/>
+      <point x="101.22666666666666" y="44.21333333333333" type="line"/>
+      <point x="-76.77333333333334" y="14.986666666666666" type="line"/>
+      <point x="-81.52000000000001" y="0.0" type="line"/>
+      <point x="313.92" y="0.0" type="line"/>
+      <point x="318.6666666666667" y="14.986666666666666" type="line"/>
+      <point x="143.56" y="44.21333333333333" type="line"/>
+      <point x="553.4666666666667" y="1387.5733333333335" type="line"/>
+      <point x="530.9733333333334" y="1363.9866666666667" type="line"/>
+      <point x="1064.0" y="-20.0" type="line"/>
+      <point x="1088.4666666666667" y="-20.0" type="line"/>
+      <point x="1517.2266666666667" y="1385.7866666666666" type="line"/>
+      <point x="1695.2266666666667" y="1415.0133333333333" type="line"/>
+      <point x="1699.9733333333334" y="1430.0" type="line"/>
+      <point x="1304.5333333333333" y="1430.0" type="line"/>
+      <point x="1299.7866666666666" y="1415.0133333333333" type="line"/>
+      <point x="1474.8933333333334" y="1385.7866666666666" type="line"/>
+      <point x="1085.52" y="110.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

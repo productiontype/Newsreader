@@ -1,0 +1,10 @@
+feature ordn { # Ordinals
+	lookup ordn_base {
+		sub @figs.default [O o]' by ordmasculine;
+		sub @figs.default [A a]' by ordfeminine;
+	} ordn_base;
+	lookup ordn_numero {
+		sub N [O o degree ordmasculine] by uni2116;
+		sub n [O o degree ordmasculine] by uni2116;
+	} ordn_numero;
+} ordn;

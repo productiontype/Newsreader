@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="489.0"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="376.0" y="190.0" type="curve" smooth="yes"/>
+      <point x="582.0" y="881.0" type="line" smooth="yes"/>
+      <point x="619.0" y="1004.0"/>
+      <point x="596.0" y="1044.0"/>
+      <point x="505.0" y="1044.0" type="curve" smooth="yes"/>
+      <point x="408.0" y="1044.0"/>
+      <point x="268.0" y="991.0"/>
+      <point x="39.0" y="811.0" type="curve"/>
+      <point x="89.0" y="735.0" type="line"/>
+      <point x="276.0" y="851.0"/>
+      <point x="395.0" y="883.0"/>
+      <point x="469.0" y="877.0" type="curve"/>
+      <point x="431.0" y="939.0" type="line"/>
+      <point x="191.0" y="143.0" type="line" smooth="yes"/>
+      <point x="68.0" y="-265.0"/>
+      <point x="-14.0" y="-314.0"/>
+      <point x="-98.0" y="-314.0" type="curve" smooth="yes"/>
+      <point x="-131.0" y="-314.0"/>
+      <point x="-237.0" y="-205.0"/>
+      <point x="-250.0" y="-205.0" type="curve" smooth="yes"/>
+      <point x="-298.0" y="-205.0"/>
+      <point x="-358.0" y="-257.0"/>
+      <point x="-358.0" y="-331.0" type="curve" smooth="yes"/>
+      <point x="-358.0" y="-407.0"/>
+      <point x="-315.0" y="-465.0"/>
+      <point x="-202.0" y="-465.0" type="curve" smooth="yes"/>
+      <point x="31.0" y="-465.0"/>
+      <point x="250.0" y="-233.0"/>
+    </contour>
+    <contour>
+      <point x="201.00000000001677" y="1136.0" type="line"/>
+      <point x="349.00000000001677" y="1136.0" type="line"/>
+      <point x="632.0000000000168" y="1364.0" type="line"/>
+      <point x="584.0000000000168" y="1364.0" type="line"/>
+      <point x="728.0000000000168" y="1136.0" type="line"/>
+      <point x="856.0000000000168" y="1136.0" type="line"/>
+      <point x="708.0000000000168" y="1462.0" type="line"/>
+      <point x="547.0000000000168" y="1462.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

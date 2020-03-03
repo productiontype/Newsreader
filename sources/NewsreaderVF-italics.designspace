@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="200" maximum="800" default="400">
+      <map input="200" output="100"/>
+      <map input="300" output="212"/>
+      <map input="400" output="400"/>
+      <map input="500" output="500"/>
+      <map input="600" output="612"/>
+      <map input="700" output="724"/>
+      <map input="800" output="900"/>
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="opsz" name="optical" minimum="0" maximum="72" default="16">
+      <map input="0" output="6"/>
+      <map input="16" output="16"/>
+      <map input="72" output="72"/>
+      <labelname xml:lang="en">Optical Size</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="currency">
+      <conditionset>
+        <condition name="optical" minimum="6" maximum="15"/>
+        <condition name="weight" minimum="401" maximum="900"/>
+      </conditionset>
+      <sub name="dollar" with="dollar.1"/>
+      <sub name="dollar.lf" with="dollar.lf.1"/>
+      <sub name="colonmonetary" with="colonmonetary.1"/>
+      <sub name="colonmonetary.lf" with="colonmonetary.lf.1"/>
+      <sub name="uni20A6" with="uni20A6.1"/>
+      <sub name="uni20A6.lf" with="uni20A6.lf.1"/>
+      <sub name="uni20A9" with="uni20A9.1"/>
+      <sub name="uni20A9.lf" with="uni20A9.lf.1"/>
+      <sub name="uni20B1" with="uni20B1.1"/>
+      <sub name="uni20B1.lf" with="uni20B1.lf.1"/>
+      <sub name="uni20B2" with="uni20B2.1"/>
+      <sub name="uni20B2.lf" with="uni20B2.lf.1"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Newsreader-CaptionExtraLightItalic.ufo" familyname="Newsreader" stylename="Caption ExtraLight Italic">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Newsreader-CaptionItalic.ufo" familyname="Newsreader" stylename="Caption Italic">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Newsreader-CaptionExtraBoldItalic.ufo" familyname="Newsreader" stylename="Caption ExtraBold Italic">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="Newsreader-TextExtraLightItalic.ufo" familyname="Newsreader" stylename="Text ExtraLight Italic">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Newsreader-TextItalic.ufo" familyname="Newsreader" stylename="Text Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Newsreader-TextExtraBoldItalic.ufo" familyname="Newsreader" stylename="Text ExtraBold Italic">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="Newsreader-DisplayExtraLightItalic.ufo" familyname="Newsreader" stylename="Display ExtraLight Italic">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Newsreader-DisplayItalic.ufo" familyname="Newsreader" stylename="Display Italic">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Newsreader-DisplayExtraBoldItalic.ufo" familyname="Newsreader" stylename="Display ExtraBold Italic">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Newsreader" stylename="Caption ExtraLight Italic" filename="instances/Newsreader-CaptionExtraLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption Light Italic" filename="instances/Newsreader-CaptionLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="212"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption Regular Italic" filename="instances/Newsreader-CaptionRegularItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption Medium Italic" filename="instances/Newsreader-CaptionMediumItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption SemiBold Italic" filename="instances/Newsreader-CaptionSemiBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="612"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption Bold Italic" filename="instances/Newsreader-CaptionBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="724"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Caption ExtraBold Italic" filename="instances/Newsreader-CaptionExtraBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="6"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text ExtraLight Italic" filename="instances/Newsreader-TextExtraLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text Light Italic" filename="instances/Newsreader-TextLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="212"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text Regular Italic" filename="instances/Newsreader-TextRegularItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text Medium Italic" filename="instances/Newsreader-TextMediumItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text SemiBold Italic" filename="instances/Newsreader-TextSemiBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="612"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text Bold Italic" filename="instances/Newsreader-TextBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="724"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Text ExtraBold Italic" filename="instances/Newsreader-TextExtraBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="16"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display ExtraLight Italic" filename="instances/Newsreader-DisplayExtraLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display Light Italic" filename="instances/Newsreader-DisplayLightItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="212"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display Regular Italic" filename="instances/Newsreader-DisplayRegularItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display Medium Italic" filename="instances/Newsreader-DisplayMediumItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display SemiBold Italic" filename="instances/Newsreader-DisplaySemiBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="612"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display Bold Italic" filename="instances/Newsreader-DisplayBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="724"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Newsreader" stylename="Display ExtraBold Italic" filename="instances/Newsreader-DisplayExtraBoldItalic.ufo">
+      <location>
+        <dimension name="optical" xvalue="72"/>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>weight</string>
+        </array>
+        <key>ignore</key>
+        <array/>
+        <key>vertical</key>
+        <array>
+          <string>optical</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>optical</key>
+        <real>8.208128403786295</real>
+        <key>weight</key>
+        <real>864.7864259163211</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>25$</string>
+      <key>org.statmake.stylespacePath</key>
+      <string>Newsreaderupright.stylespace</string>
+      <key>org.statmake.additionalLocations</key>
+      <dict>
+        <key>Italic</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

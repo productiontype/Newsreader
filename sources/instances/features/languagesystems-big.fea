@@ -1,0 +1,10 @@
+#(c) Production Systems SAS
+
+# LANGUAGE SYSTEMS
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;

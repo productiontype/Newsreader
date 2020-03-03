@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="1557.912"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="71.44800000000001" y="621.04" type="line"/>
+      <point x="796.744" y="621.04" type="line"/>
+      <point x="796.744" y="738.368" type="line"/>
+      <point x="71.44800000000001" y="738.368" type="line"/>
+    </contour>
+    <contour>
+      <point x="1158.664" y="687.352" type="curve" smooth="yes"/>
+      <point x="1158.664" y="287.44"/>
+      <point x="962.984" y="122.512"/>
+      <point x="671.112" y="122.512" type="curve" smooth="yes"/>
+      <point x="378.224" y="122.512" type="line"/>
+      <point x="352.952" y="0.0" type="line"/>
+      <point x="703.352" y="0.0" type="line" smooth="yes"/>
+      <point x="1147.352" y="0.0"/>
+      <point x="1482.352" y="260.0"/>
+      <point x="1482.352" y="710.0" type="curve" smooth="yes"/>
+      <point x="1482.352" y="1134.0"/>
+      <point x="1225.352" y="1340.0"/>
+      <point x="701.352" y="1340.0" type="curve" smooth="yes"/>
+      <point x="352.952" y="1340.0" type="line"/>
+      <point x="378.224" y="1217.488" type="line"/>
+      <point x="653.648" y="1217.488" type="line" smooth="yes"/>
+      <point x="966.336" y="1217.488"/>
+      <point x="1158.664" y="1053.04"/>
+    </contour>
+    <contour>
+      <point x="71.44800000000001" y="0.0" type="line"/>
+      <point x="525.528" y="0.0" type="line"/>
+      <point x="525.528" y="1340.0" type="line"/>
+      <point x="71.44800000000001" y="1340.0" type="line"/>
+      <point x="71.44800000000001" y="1296.464" type="line"/>
+      <point x="216.488" y="1237.984" type="line"/>
+      <point x="216.488" y="102.016" type="line"/>
+      <point x="71.44800000000001" y="43.536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

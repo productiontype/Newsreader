@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla" format="2">
+  <advance width="891.424"/>
+  <unicode hex="015F"/>
+  <outline>
+    <contour>
+      <point x="486.048" y="1048.24" type="curve" smooth="yes"/>
+      <point x="269.64" y="1048.24"/>
+      <point x="90.80000000000001" y="932.856"/>
+      <point x="90.80000000000001" y="730.688" type="curve" smooth="yes"/>
+      <point x="90.80000000000001" y="584.12"/>
+      <point x="167.032" y="490.512"/>
+      <point x="363.15200000000004" y="427.264" type="curve" smooth="yes"/>
+      <point x="559.272" y="363.592"/>
+      <point x="615.544" y="303.952"/>
+      <point x="615.544" y="210.16" type="curve" smooth="yes"/>
+      <point x="615.544" y="87.184"/>
+      <point x="521.5360000000001" y="28.119999999999997"/>
+      <point x="406.568" y="28.119999999999997" type="curve" smooth="yes"/>
+      <point x="341.024" y="28.119999999999997"/>
+      <point x="275.088" y="46.272"/>
+      <point x="220.968" y="84.696" type="curve"/>
+      <point x="278.176" y="28.728" type="line"/>
+      <point x="96.488" y="351.608" type="line"/>
+      <point x="60.216" y="351.608" type="line"/>
+      <point x="115.52" y="32.792" type="line"/>
+      <point x="185.704" y="-3.392"/>
+      <point x="273.03200000000004" y="-24.240000000000002"/>
+      <point x="395.808" y="-24.240000000000002" type="curve" smooth="yes"/>
+      <point x="642.36" y="-24.240000000000002"/>
+      <point x="826.688" y="119.48"/>
+      <point x="826.688" y="326.016" type="curve" smooth="yes"/>
+      <point x="826.688" y="480.976"/>
+      <point x="761.512" y="592.0319999999999"/>
+      <point x="543.608" y="663.7040000000001" type="curve" smooth="yes"/>
+      <point x="325.128" y="735.376"/>
+      <point x="299.248" y="787.44"/>
+      <point x="299.248" y="859.688" type="curve" smooth="yes"/>
+      <point x="299.248" y="950.088"/>
+      <point x="362.008" y="996.608"/>
+      <point x="478.43199999999996" y="996.608" type="curve" smooth="yes"/>
+      <point x="557.8" y="996.608"/>
+      <point x="616.432" y="971.152"/>
+      <point x="689.7040000000001" y="901.784" type="curve"/>
+      <point x="603.2239999999999" y="990.088" type="line"/>
+      <point x="755.12" y="717.936" type="line"/>
+      <point x="786.5440000000001" y="717.936" type="line"/>
+      <point x="748.76" y="995.3280000000001" type="line"/>
+      <point x="664.4" y="1030.36"/>
+      <point x="591.0400000000001" y="1048.24"/>
+    </contour>
+    <contour>
+      <point x="345.648" y="-465.0" type="curve" smooth="yes"/>
+      <point x="490.552" y="-465.0"/>
+      <point x="621.2719999999999" y="-374.944"/>
+      <point x="621.2719999999999" y="-256.856" type="curve" smooth="yes"/>
+      <point x="621.2719999999999" y="-188.61599999999999"/>
+      <point x="584.272" y="-127.344"/>
+      <point x="394.128" y="-80.616" type="curve"/>
+      <point x="360.648" y="-177.328" type="line"/>
+      <point x="523.664" y="32.872" type="line"/>
+      <point x="468.096" y="32.872" type="line"/>
+      <point x="283.928" y="-208.448" type="line"/>
+      <point x="283.928" y="-213.448" type="line"/>
+      <point x="462.952" y="-248.48000000000002"/>
+      <point x="497.256" y="-292.36"/>
+      <point x="497.256" y="-336.69599999999997" type="curve" smooth="yes"/>
+      <point x="497.256" y="-385.30400000000003"/>
+      <point x="458.76800000000003" y="-416.64"/>
+      <point x="406.616" y="-416.64" type="curve" smooth="yes"/>
+      <point x="341.432" y="-416.64"/>
+      <point x="279.984" y="-332.16"/>
+      <point x="263.98400000000004" y="-332.16" type="curve" smooth="yes"/>
+      <point x="231.168" y="-332.16"/>
+      <point x="214.89600000000002" y="-359.55199999999996"/>
+      <point x="214.89600000000002" y="-387.52000000000004" type="curve" smooth="yes"/>
+      <point x="214.89600000000002" y="-431.18399999999997"/>
+      <point x="249.86399999999998" y="-465.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

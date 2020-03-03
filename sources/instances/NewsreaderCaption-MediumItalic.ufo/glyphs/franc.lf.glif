@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc.lf" format="2">
+  <advance width="1369.2"/>
+  <outline>
+    <contour>
+      <point x="1481.8" y="1496.0" type="line"/>
+      <point x="1379.0" y="1414.0" type="line"/>
+      <point x="743.2" y="1414.0" type="line"/>
+      <point x="697.8" y="1249.0" type="line"/>
+      <point x="1406.2" y="1249.0" type="line"/>
+      <point x="1326.8" y="1370.4" type="line"/>
+      <point x="1294.6000000000001" y="1003.6" type="line"/>
+      <point x="1435.0" y="1003.6" type="line"/>
+      <point x="1588.8" y="1496.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1024.3999999999999" y="596.0" type="line"/>
+      <point x="166.0" y="596.0" type="line"/>
+      <point x="129.8" y="477.8" type="line"/>
+      <point x="988.0" y="477.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1128.8" y="935.1999999999999" type="line"/>
+      <point x="269.59999999999997" y="935.1999999999999" type="line"/>
+      <point x="233.4" y="817.0" type="line"/>
+      <point x="1092.6000000000001" y="817.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="595.4000000000001" y="1261.0" type="line"/>
+      <point x="257.59999999999997" y="152.79999999999998" type="line"/>
+      <point x="22.8" y="95.2" type="line"/>
+      <point x="-6.400000000000001" y="0.0" type="line"/>
+      <point x="689.1999999999999" y="0.0" type="line"/>
+      <point x="717.4" y="95.2" type="line"/>
+      <point x="515.6" y="153.0" type="line"/>
+      <point x="900.1999999999999" y="1414.0" type="line"/>
+      <point x="424.59999999999997" y="1414.0" type="line"/>
+      <point x="396.4" y="1318.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="1478"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="326.0" y="729.0" type="line"/>
+      <point x="1283.0" y="729.0" type="line"/>
+      <point x="1292.0" y="757.0" type="line"/>
+      <point x="335.0" y="757.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="236.0" y="1061.0" type="line"/>
+      <point x="1575.0" y="1061.0" type="line"/>
+      <point x="1591.0" y="1113.0" type="line"/>
+      <point x="252.0" y="1113.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="513.0" y="1394.0" type="line"/>
+      <point x="99.0" y="36.0" type="line"/>
+      <point x="-80.0" y="12.0" type="line"/>
+      <point x="-83.0" y="0.0" type="line"/>
+      <point x="342.0" y="0.0" type="line"/>
+      <point x="346.0" y="12.0" type="line"/>
+      <point x="175.0" y="36.0" type="line"/>
+      <point x="590.0" y="1394.0" type="line"/>
+      <point x="768.0" y="1418.0" type="line"/>
+      <point x="772.0" y="1430.0" type="line"/>
+      <point x="346.0" y="1430.0" type="line"/>
+      <point x="342.0" y="1418.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1426.0" y="1394.0" type="line"/>
+      <point x="1012.0" y="36.0" type="line"/>
+      <point x="833.0" y="12.0" type="line"/>
+      <point x="830.0" y="0.0" type="line"/>
+      <point x="1255.0" y="0.0" type="line"/>
+      <point x="1259.0" y="12.0" type="line"/>
+      <point x="1088.0" y="36.0" type="line"/>
+      <point x="1503.0" y="1394.0" type="line"/>
+      <point x="1681.0" y="1418.0" type="line"/>
+      <point x="1685.0" y="1430.0" type="line"/>
+      <point x="1259.0" y="1430.0" type="line"/>
+      <point x="1255.0" y="1418.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_gravecomb.case" format="2">
+  <anchor x="0.0" y="1340.0" name="_UCtop"/>
+  <outline>
+    <contour>
+      <point x="38.968" y="1611.0" type="line"/>
+      <point x="-54.36" y="1846.0" type="line"/>
+      <point x="-271.32" y="1846.0" type="line"/>
+      <point x="-271.32" y="1826.032" type="line"/>
+      <point x="-25.48" y="1611.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="1548.392" type="curve" smooth="yes"/>
+      <point x="-115.968" y="1548.392"/>
+      <point x="-169.97696995528042" y="1575.633293679624"/>
+      <point x="-195.696" y="1641.336" type="curve"/>
+      <point x="-262.416" y="1641.336" type="line"/>
+      <point x="-220.8248297209706" y="1483.7606612235704"/>
+      <point x="-142.272" y="1428.0"/>
+      <point x="0.0" y="1428.0" type="curve" smooth="yes"/>
+      <point x="142.272" y="1428.0"/>
+      <point x="220.8248297209706" y="1483.7606612235704"/>
+      <point x="262.416" y="1641.336" type="curve"/>
+      <point x="195.696" y="1641.336" type="line"/>
+      <point x="169.97696995528042" y="1576.481293679624"/>
+      <point x="115.968" y="1548.392"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

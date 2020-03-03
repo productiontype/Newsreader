@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1164.1333333333334"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="971.0266666666666" y="692.0" type="curve" smooth="yes"/>
+      <point x="971.0266666666666" y="495.6"/>
+      <point x="848.8" y="381.3066666666667"/>
+      <point x="569.8933333333333" y="381.3066666666667" type="curve" smooth="yes"/>
+      <point x="270.92" y="381.3066666666667" type="line"/>
+      <point x="275.7733333333333" y="317.38666666666666" type="line"/>
+      <point x="588.1333333333333" y="317.38666666666666" type="line" smooth="yes"/>
+      <point x="944.4" y="317.38666666666666"/>
+      <point x="1083.3733333333332" y="485.9866666666667"/>
+      <point x="1083.3733333333332" y="696.48" type="curve" smooth="yes"/>
+      <point x="1083.3733333333332" y="904.36"/>
+      <point x="947.0133333333333" y="1066.24"/>
+      <point x="588.1333333333333" y="1066.24" type="curve" smooth="yes"/>
+      <point x="275.7733333333333" y="1066.24" type="line"/>
+      <point x="270.92" y="1002.32" type="line"/>
+      <point x="528.4533333333334" y="1002.32" type="line" smooth="yes"/>
+      <point x="858.1333333333333" y="1002.32"/>
+      <point x="971.0266666666666" y="886.5333333333333"/>
+    </contour>
+    <contour>
+      <point x="517.1333333333333" y="28.346666666666664" type="line"/>
+      <point x="350.36" y="66.56" type="line"/>
+      <point x="350.36" y="1273.44" type="line"/>
+      <point x="517.1333333333333" y="1311.6533333333334" type="line"/>
+      <point x="517.1333333333333" y="1340.0" type="line"/>
+      <point x="76.22666666666666" y="1340.0" type="line"/>
+      <point x="76.22666666666666" y="1311.6533333333334" type="line"/>
+      <point x="243.0" y="1273.44" type="line"/>
+      <point x="243.0" y="66.56" type="line"/>
+      <point x="76.22666666666666" y="28.346666666666664" type="line"/>
+      <point x="76.22666666666666" y="0.0" type="line"/>
+      <point x="517.1333333333333" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

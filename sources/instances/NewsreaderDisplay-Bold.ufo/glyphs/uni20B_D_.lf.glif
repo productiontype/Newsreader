@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20BD.lf" format="2">
+  <advance width="1431.3999999999999"/>
+  <outline>
+    <contour>
+      <point x="1298.3600000000001" y="567.1279999999999" type="line"/>
+      <point x="99.928" y="567.1279999999999" type="line"/>
+      <point x="99.928" y="498.576" type="line"/>
+      <point x="1298.3600000000001" y="498.576" type="line"/>
+    </contour>
+    <contour>
+      <point x="961.784" y="773.576" type="line" smooth="yes"/>
+      <point x="1255.232" y="773.576"/>
+      <point x="1369.288" y="920.464"/>
+      <point x="1369.288" y="1102.1119999999999" type="curve" smooth="yes"/>
+      <point x="1369.288" y="1282.76"/>
+      <point x="1260.472" y="1430.0"/>
+      <point x="961.784" y="1430.0" type="curve" smooth="yes"/>
+      <point x="544.832" y="1430.0" type="line"/>
+      <point x="534.368" y="1354.4319999999998" type="line"/>
+      <point x="787.928" y="1354.4319999999998" type="line" smooth="yes"/>
+      <point x="953.224" y="1354.4319999999998"/>
+      <point x="1017.544" y="1259.856"/>
+      <point x="1017.544" y="1098.9279999999999" type="curve" smooth="yes"/>
+      <point x="1017.544" y="933.592"/>
+      <point x="947.6160000000001" y="843.1279999999999"/>
+      <point x="813.4159999999999" y="843.1279999999999" type="curve" smooth="yes"/>
+      <point x="99.928" y="843.1279999999999" type="line"/>
+      <point x="99.928" y="773.576" type="line"/>
+    </contour>
+    <contour>
+      <point x="102.392" y="1430.0" type="line"/>
+      <point x="102.392" y="1396.168" type="line"/>
+      <point x="313.32000000000005" y="1346.576" type="line"/>
+      <point x="313.32000000000005" y="83.424" type="line"/>
+      <point x="102.392" y="33.832" type="line"/>
+      <point x="102.392" y="0.0" type="line"/>
+      <point x="915.9440000000001" y="0.0" type="line"/>
+      <point x="915.9440000000001" y="33.832" type="line"/>
+      <point x="705.016" y="83.424" type="line"/>
+      <point x="705.016" y="1430.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

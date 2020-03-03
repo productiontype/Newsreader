@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <anchor x="0.0" y="1340.0" name="_UCtop"/>
+  <anchor x="0.0" y="1716.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="-165.504" y="1650.248" type="line"/>
+      <point x="17.696" y="1646.0"/>
+      <point x="46.456" y="1623.816"/>
+      <point x="46.456" y="1586.936" type="curve" smooth="yes"/>
+      <point x="46.456" y="1548.6"/>
+      <point x="23.424" y="1525.48"/>
+      <point x="-84.36" y="1508.904" type="curve"/>
+      <point x="-68.424" y="1442.152" type="line"/>
+      <point x="141.936" y="1473.0"/>
+      <point x="192.168" y="1535.76"/>
+      <point x="192.168" y="1623.272" type="curve" smooth="yes"/>
+      <point x="192.168" y="1722.112"/>
+      <point x="120.656" y="1786.176"/>
+      <point x="-141.352" y="1795.848" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

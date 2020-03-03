@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20AD.lf" format="2">
+  <advance width="1621.576"/>
+  <outline>
+    <contour>
+      <point x="728.256" y="691.416" type="line"/>
+      <point x="1112.4160000000002" y="0.0" type="line"/>
+      <point x="1551.76" y="0.0" type="line"/>
+      <point x="1551.76" y="114.688" type="line"/>
+      <point x="1390.568" y="158.67999999999998" type="line"/>
+      <point x="960.04" y="899.952" type="line"/>
+      <point x="930.0959999999999" y="689.48" type="line"/>
+      <point x="1326.2320000000002" y="1261.288" type="line"/>
+      <point x="1479.24" y="1299.3120000000001" type="line"/>
+      <point x="1479.24" y="1414.0" type="line"/>
+      <point x="1003.216" y="1414.0" type="line"/>
+      <point x="1003.216" y="1299.3120000000001" type="line"/>
+      <point x="1143.016" y="1275.072" type="line"/>
+      <point x="795.264" y="765.616" type="line"/>
+    </contour>
+    <contour>
+      <point x="1397.48" y="794.992" type="line"/>
+      <point x="116.61599999999999" y="794.992" type="line"/>
+      <point x="116.61599999999999" y="652.248" type="line"/>
+      <point x="1397.48" y="652.248" type="line"/>
+    </contour>
+    <contour>
+      <point x="660.3040000000001" y="1250.888" type="line"/>
+      <point x="843.648" y="1299.312" type="line"/>
+      <point x="843.648" y="1414.0" type="line"/>
+      <point x="139.45600000000002" y="1414.0" type="line"/>
+      <point x="139.45600000000002" y="1299.312" type="line"/>
+      <point x="325.10400000000004" y="1248.584" type="line"/>
+      <point x="325.10400000000004" y="163.112" type="line"/>
+      <point x="139.45600000000002" y="114.688" type="line"/>
+      <point x="139.45600000000002" y="0.0" type="line"/>
+      <point x="843.648" y="0.0" type="line"/>
+      <point x="843.648" y="114.688" type="line"/>
+      <point x="660.3040000000001" y="163.112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

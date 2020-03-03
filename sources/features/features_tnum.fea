@@ -1,0 +1,6 @@
+feature tnum { # tabular figures
+	lookup tnum_all {
+		sub [@figs.default] by [@figs.LT];
+		sub [@currency.default] by [@currency.LT];
+	} tnum_all;
+} tnum;

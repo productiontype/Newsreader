@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="1200"/>
+  <unicode hex="2248"/>
+  <guideline x="105.0" y="330" angle="1.7504323127992603" identifier="73aYYNBTbp"/>
+  <outline>
+    <component base="asciitilde" xOffset="83" yOffset="273"/>
+    <component base="asciitilde" xOffset="-83" yOffset="-272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

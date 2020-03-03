@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="1311"/>
+  <unicode hex="0041"/>
+  <guideline x="-205.0" y="38" angle="180.0" identifier="2yAh3gSr58"/>
+  <guideline x="-289.0" y="83" angle="180.0" identifier="OZldqyqVHZ"/>
+  <guideline x="934.0" y="83" angle="181.58731618455573" identifier="xSl2WuImEk"/>
+  <anchor x="922.0" y="1340.0" name="UCtop"/>
+  <anchor x="560.0" y="0" name="bottom"/>
+  <anchor x="939.0" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="367.0" y="505.0" type="line"/>
+      <point x="995.0" y="505.0" type="line"/>
+      <point x="1023.0" y="587.0" type="line"/>
+      <point x="395.0" y="587.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1089.0" y="85.0" type="line"/>
+      <point x="958.0" y="1360.0" type="line"/>
+      <point x="913.0" y="1360.0" type="line"/>
+      <point x="42.0" y="83.0" type="line"/>
+      <point x="-122.0" y="38.0" type="line"/>
+      <point x="-133.0" y="0.0" type="line"/>
+      <point x="275.0" y="0.0" type="line"/>
+      <point x="286.0" y="38.0" type="line"/>
+      <point x="149.0" y="83.0" type="line"/>
+      <point x="894.0" y="1195.0" type="line"/>
+      <point x="831.0" y="1195.0" type="line"/>
+      <point x="937.0" y="83.0" type="line"/>
+      <point x="755.0" y="38.0" type="line"/>
+      <point x="744.0" y="0.0" type="line"/>
+      <point x="1201.0" y="0.0" type="line"/>
+      <point x="1212.0" y="38.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

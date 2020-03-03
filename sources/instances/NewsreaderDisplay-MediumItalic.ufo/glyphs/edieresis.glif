@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis" format="2">
+  <advance width="854.6"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0308" xOffset="424.7999999999776"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

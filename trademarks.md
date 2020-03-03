@@ -1,0 +1,1 @@
+< Newsreader > is a registered trademark of Production Systems SAS.

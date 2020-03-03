@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1482.2079999999999"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="825.864" y="457.712" type="curve" smooth="yes"/>
+      <point x="407.376" y="457.712" type="line"/>
+      <point x="324.88" y="274.40000000000003" type="line"/>
+      <point x="830.448" y="274.40000000000003" type="line" smooth="yes"/>
+      <point x="1261.712" y="274.40000000000003"/>
+      <point x="1453.5040000000001" y="516.08"/>
+      <point x="1453.5040000000001" y="812.24" type="curve" smooth="yes"/>
+      <point x="1453.5040000000001" y="1027.0240000000001"/>
+      <point x="1320.5040000000001" y="1149.232"/>
+      <point x="975.616" y="1149.232" type="curve" smooth="yes"/>
+      <point x="598.0239999999999" y="1149.232" type="line"/>
+      <point x="572.496" y="965.9200000000001" type="line"/>
+      <point x="886.72" y="965.9200000000001" type="line" smooth="yes"/>
+      <point x="1067.472" y="965.9200000000001"/>
+      <point x="1132.72" y="910.1840000000001"/>
+      <point x="1132.72" y="806.024" type="curve" smooth="yes"/>
+      <point x="1132.72" y="621.76"/>
+      <point x="1036.312" y="457.712"/>
+    </contour>
+    <contour>
+      <point x="504.8" y="1260.52" type="line"/>
+      <point x="164.19199999999998" y="155.176" type="line"/>
+      <point x="-17.631999999999998" y="103.392" type="line"/>
+      <point x="-49.48" y="0.0" type="line"/>
+      <point x="638.216" y="0.0" type="line"/>
+      <point x="668.64" y="103.392" type="line"/>
+      <point x="500.08799999999997" y="153.48000000000002" type="line"/>
+      <point x="840.696" y="1258.8239999999998" type="line"/>
+      <point x="1022.52" y="1310.608" type="line"/>
+      <point x="1052.944" y="1414.0" type="line"/>
+      <point x="366.672" y="1414.0" type="line"/>
+      <point x="335.248" y="1310.608" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

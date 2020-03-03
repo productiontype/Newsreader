@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20BC.lf" format="2">
+  <advance width="1436.664"/>
+  <outline>
+    <contour>
+      <point x="718.832" y="969.936" type="curve" smooth="yes"/>
+      <point x="914.0559999999999" y="969.936"/>
+      <point x="956.456" y="887.8639999999999"/>
+      <point x="984.696" y="0.0" type="curve"/>
+      <point x="1333.7359999999999" y="0.0" type="line"/>
+      <point x="1270.0" y="959.392"/>
+      <point x="1078.52" y="1152.832"/>
+      <point x="718.832" y="1152.832" type="curve" smooth="yes"/>
+      <point x="359.496" y="1152.832"/>
+      <point x="166.664" y="959.392"/>
+      <point x="102.928" y="0.0" type="curve"/>
+      <point x="452.32000000000005" y="0.0" type="line"/>
+      <point x="480.56" y="887.8639999999999"/>
+      <point x="523.256" y="969.936"/>
+    </contour>
+    <contour>
+      <point x="632.264" y="0.0" type="line"/>
+      <point x="799.5120000000001" y="0.0" type="line"/>
+      <point x="799.5120000000001" y="1414.0" type="line"/>
+      <point x="632.264" y="1414.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

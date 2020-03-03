@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_hookabovecomb" format="2">
+  <anchor x="158.84799999999998" y="1037.088" name="_top"/>
+  <outline>
+    <contour>
+      <point x="206.088" y="1226.864" type="curve" smooth="yes"/>
+      <point x="83.36" y="1226.864"/>
+      <point x="52.93599999999999" y="1259.504"/>
+      <point x="56.087999999999994" y="1336.0" type="curve"/>
+      <point x="-60.712" y="1336.0" type="line"/>
+      <point x="-84.832" y="1144.24"/>
+      <point x="1.5839999999999996" y="1102.088"/>
+      <point x="189.66400000000002" y="1102.088" type="curve" smooth="yes"/>
+      <point x="370.2" y="1102.088"/>
+      <point x="467.68" y="1144.664"/>
+      <point x="560.4399999999999" y="1336.0" type="curve"/>
+      <point x="423.4" y="1336.0" type="line"/>
+      <point x="379.152" y="1257.536"/>
+      <point x="320.69599999999997" y="1226.864"/>
+    </contour>
+    <contour>
+      <point x="194.464" y="1313.0" type="line"/>
+      <point x="404.064" y="1340.1280000000002"/>
+      <point x="474.456" y="1408.52"/>
+      <point x="474.456" y="1514.0320000000002" type="curve" smooth="yes"/>
+      <point x="474.456" y="1595.968"/>
+      <point x="411.24800000000005" y="1644.696"/>
+      <point x="200.28" y="1650.576" type="curve"/>
+      <point x="165.496" y="1521.344" type="line"/>
+      <point x="315.408" y="1519.616"/>
+      <point x="346.712" y="1503.704"/>
+      <point x="346.712" y="1475.368" type="curve" smooth="yes"/>
+      <point x="346.712" y="1441.152"/>
+      <point x="324.79999999999995" y="1415.36"/>
+      <point x="201.94400000000002" y="1394.96" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

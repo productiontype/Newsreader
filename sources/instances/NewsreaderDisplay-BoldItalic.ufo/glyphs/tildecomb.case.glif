@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="281.0" y="1430.0" name="_UCtop"/>
+  <anchor x="388.0" y="1782.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="710.552" y="1853.888" type="curve"/>
+      <point x="660.536" y="1853.888" type="line"/>
+      <point x="596.96" y="1739.5120000000002"/>
+      <point x="562.088" y="1712.232"/>
+      <point x="516.568" y="1712.232" type="curve" smooth="yes"/>
+      <point x="433.752" y="1712.232"/>
+      <point x="376.688" y="1863.888"/>
+      <point x="278.168" y="1863.888" type="curve" smooth="yes"/>
+      <point x="198.744" y="1863.888"/>
+      <point x="138.928" y="1812.056"/>
+      <point x="15.872000000000003" y="1560.112" type="curve"/>
+      <point x="65.888" y="1560.112" type="line"/>
+      <point x="132.28" y="1674.4879999999998"/>
+      <point x="166.8" y="1701.768"/>
+      <point x="211.968" y="1701.768" type="curve" smooth="yes"/>
+      <point x="291.264" y="1701.768"/>
+      <point x="351.848" y="1550.112"/>
+      <point x="449.664" y="1550.112" type="curve" smooth="yes"/>
+      <point x="527.6800000000001" y="1550.112"/>
+      <point x="589.608" y="1601.5919999999999"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>

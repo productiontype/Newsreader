@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="750.992"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="481.25600000000003" y="1362.7920000000001" type="line"/>
+      <point x="85.224" y="68.904" type="line"/>
+      <point x="-85.568" y="22.968" type="line"/>
+      <point x="-91.99199999999999" y="0.0" type="line"/>
+      <point x="537.288" y="0.0" type="line"/>
+      <point x="542.712" y="22.968" type="line"/>
+      <point x="392.15999999999997" y="67.20800000000001" type="line"/>
+      <point x="787.768" y="1361.096" type="line"/>
+      <point x="958.56" y="1407.032" type="line"/>
+      <point x="964.984" y="1430.0" type="line"/>
+      <point x="336.12800000000004" y="1430.0" type="line"/>
+      <point x="329.704" y="1407.032" type="line"/>
+    </contour>
+    <contour>
+      <point x="81.304" y="-280.31199999999995" type="curve" smooth="yes"/>
+      <point x="81.304" y="-227.25599999999997"/>
+      <point x="97.728" y="-176.528"/>
+      <point x="202.72799999999998" y="-37.104" type="curve" smooth="yes"/>
+      <point x="292.4" y="82.024" type="line"/>
+      <point x="268.19199999999995" y="82.024" type="line"/>
+      <point x="127.216" y="-69.016" type="line" smooth="yes"/>
+      <point x="-34.656" y="-240.79999999999998"/>
+      <point x="-58.2" y="-283.736"/>
+      <point x="-58.2" y="-357.792" type="curve" smooth="yes"/>
+      <point x="-58.2" y="-420.608"/>
+      <point x="-19.048000000000002" y="-465.0"/>
+      <point x="72.616" y="-465.0" type="curve" smooth="yes"/>
+      <point x="141.888" y="-465.0"/>
+      <point x="200.4" y="-433.24"/>
+      <point x="294.6" y="-317.824" type="curve"/>
+      <point x="287.024" y="-307.552" type="line"/>
+      <point x="245.056" y="-341.43199999999996"/>
+      <point x="211.05599999999998" y="-356.008"/>
+      <point x="163.0" y="-356.008" type="curve" smooth="yes"/>
+      <point x="110.33599999999998" y="-356.008"/>
+      <point x="81.304" y="-327.584"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

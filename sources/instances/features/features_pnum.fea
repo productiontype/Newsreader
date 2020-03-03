@@ -1,0 +1,6 @@
+feature pnum { # proportional figures
+	lookup pnum_all {
+		sub [@figs.LT] by [@figs.LP];
+		sub [@currency.LT] by [@currency.LP];
+	} pnum_all;
+} pnum;

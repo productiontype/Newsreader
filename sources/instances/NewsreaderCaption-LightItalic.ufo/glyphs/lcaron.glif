@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="676.3866666666667"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="caroncomb.alt" xOffset="324.07999999999714"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.9798,0.1633,0.8</string>
+    </dict>
+  </lib>
+</glyph>

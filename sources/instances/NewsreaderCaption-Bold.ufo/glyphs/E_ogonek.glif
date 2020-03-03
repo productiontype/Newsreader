@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="2">
+  <advance width="1641.9279999999999"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="1145.68" y="990.0" type="line"/>
+      <point x="980.336" y="990.0" type="line"/>
+      <point x="963.336" y="835.088" type="line"/>
+      <point x="494.904" y="835.088" type="line"/>
+      <point x="494.904" y="638.912" type="line"/>
+      <point x="963.336" y="638.912" type="line"/>
+      <point x="980.336" y="480.0" type="line"/>
+      <point x="1145.68" y="480.0" type="line"/>
+      <point x="1145.68" y="735.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1507.3519999999999" y="981.088" type="line"/>
+      <point x="1507.352" y="1502.144" type="line"/>
+      <point x="1376.264" y="1502.144" type="line"/>
+      <point x="1264.2720000000002" y="1414.0" type="line"/>
+      <point x="494.904" y="1414.0" type="line"/>
+      <point x="494.904" y="1192.5520000000001" type="line"/>
+      <point x="1325.824" y="1192.5520000000001" type="line"/>
+      <point x="1198.872" y="1332.9279999999999" type="line"/>
+      <point x="1325.88" y="981.0880000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173.616" y="84.312" type="line"/>
+      <point x="1286.976" y="221.448" type="line"/>
+      <point x="494.904" y="221.448" type="line"/>
+      <point x="494.904" y="0.0" type="line"/>
+      <point x="1236.944" y="0.0" type="line"/>
+      <point x="1319.1200000000001" y="-92.088" type="line"/>
+      <point x="1470.096" y="-92.088" type="line"/>
+      <point x="1563.592" y="498.744" type="line"/>
+      <point x="1377.104" y="498.744" type="line"/>
+    </contour>
+    <contour>
+      <point x="99.632" y="0.0" type="line"/>
+      <point x="702.848" y="0.0" type="line"/>
+      <point x="702.848" y="1414.0" type="line"/>
+      <point x="99.632" y="1414.0" type="line"/>
+      <point x="99.632" y="1288.56" type="line"/>
+      <point x="277.488" y="1240.9679999999998" type="line"/>
+      <point x="277.488" y="173.03199999999998" type="line"/>
+      <point x="99.632" y="125.44" type="line"/>
+    </contour>
+    <contour>
+      <point x="1238.008" y="-70.576" type="curve" smooth="yes"/>
+      <point x="1313.696" y="78.696" type="line"/>
+      <point x="1214.2" y="78.696" type="line"/>
+      <point x="1113.4" y="-41.12" type="line" smooth="yes"/>
+      <point x="1005.992" y="-168.784"/>
+      <point x="986.9920000000001" y="-229.61599999999999"/>
+      <point x="986.9920000000001" y="-299.096" type="curve" smooth="yes"/>
+      <point x="986.9920000000001" y="-403.0"/>
+      <point x="1041.176" y="-465.0"/>
+      <point x="1176.432" y="-465.0" type="curve" smooth="yes"/>
+      <point x="1249.728" y="-465.0"/>
+      <point x="1296.56" y="-447.35200000000003"/>
+      <point x="1382.576" y="-387.704" type="curve"/>
+      <point x="1382.576" y="-291.784" type="line"/>
+      <point x="1329.28" y="-315.544"/>
+      <point x="1302.984" y="-319.896"/>
+      <point x="1262.392" y="-319.896" type="curve" smooth="yes"/>
+      <point x="1207.688" y="-319.896"/>
+      <point x="1178.928" y="-293.08000000000004"/>
+      <point x="1178.928" y="-237.376" type="curve" smooth="yes"/>
+      <point x="1178.928" y="-195.856"/>
+      <point x="1192.096" y="-156.448"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

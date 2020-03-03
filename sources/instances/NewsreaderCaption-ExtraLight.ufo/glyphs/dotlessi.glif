@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="594.0"/>
+  <unicode hex="0131"/>
+  <anchor x="266.0" y="1024" name="top"/>
+  <anchor x="312.0" y="0" name="bottom"/>
+  <anchor x="436.0" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="358.0" y="1044.0" type="line"/>
+      <point x="341.0" y="1044.0" type="line"/>
+      <point x="73.0" y="1006.0" type="line"/>
+      <point x="73.0" y="967.0" type="line"/>
+      <point x="134.0" y="958.5024875621891"/>
+      <point x="252.0" y="942.0646766169154"/>
+      <point x="274.0" y="939.0" type="curve"/>
+      <point x="274.0" y="64.0" type="line"/>
+      <point x="107.0" y="48.0" type="line"/>
+      <point x="107.0" y="0.0" type="line"/>
+      <point x="516.0" y="0.0" type="line"/>
+      <point x="516.0" y="48.0" type="line"/>
+      <point x="349.0" y="64.0" type="line"/>
+      <point x="349.0" y="938.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1906,0.6052,0.9802,0.8</string>
+    </dict>
+  </lib>
+</glyph>

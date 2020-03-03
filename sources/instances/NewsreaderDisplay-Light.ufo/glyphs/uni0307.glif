@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0307" format="2">
+  <unicode hex="0307"/>
+  <anchor x="0.0" y="1024.0" name="_top"/>
+  <anchor x="0.0" y="1376.0" name="top"/>
+  <anchor x="0.0" y="1301.0" name="_mid"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="1214.0533333333333" type="curve" smooth="yes"/>
+      <point x="54.093333333333334" y="1214.0533333333333"/>
+      <point x="87.69333333333334" y="1254.5333333333333"/>
+      <point x="87.69333333333334" y="1301.0" type="curve" smooth="yes"/>
+      <point x="87.69333333333334" y="1347.0933333333332"/>
+      <point x="54.093333333333334" y="1387.9466666666667"/>
+      <point x="0.0" y="1387.9466666666667" type="curve" smooth="yes"/>
+      <point x="-54.093333333333334" y="1387.9466666666667"/>
+      <point x="-87.69333333333334" y="1347.0933333333332"/>
+      <point x="-87.69333333333334" y="1301.0" type="curve" smooth="yes"/>
+      <point x="-87.69333333333334" y="1254.5333333333333"/>
+      <point x="-54.093333333333334" y="1214.0533333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3739,0.9739,0.9829,0.8</string>
+    </dict>
+  </lib>
+</glyph>
