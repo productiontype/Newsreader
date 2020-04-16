@@ -2,7 +2,6 @@
 <glyph name="n" format="2">
   <advance width="1047"/>
   <unicode hex="006E"/>
-  <guideline x="150.0" y="0" angle="3.1370231343571837" identifier="sBjsAeiM75"/>
   <anchor x="718.0" y="1024" name="top"/>
   <anchor x="394.0" y="0" name="bottom"/>
   <outline>
@@ -58,10 +57,4 @@
       <point x="52.0" y="639.0" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six.lf" format="2">
-  <advance width="1014.0"/>
-  <guideline x="-525.0" y="20" angle="0" identifier="wmjB7c2KkU"/>
+  <advance width="1014"/>
   <outline>
     <contour>
       <point x="829.0" y="1387.0" type="line"/>
@@ -38,10 +37,4 @@
       <point x="847.0" y="1360.0" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

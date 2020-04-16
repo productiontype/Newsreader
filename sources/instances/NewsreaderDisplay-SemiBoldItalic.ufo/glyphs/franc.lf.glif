@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc.lf" format="2">
-  <advance width="1297.8159999999998"/>
+  <advance width="1298"/>
   <outline>
     <contour>
       <point x="1471.416" y="1501.144" type="line"/>
@@ -38,10 +38,4 @@
       <point x="390.76800000000003" y="1407.8799999999999" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

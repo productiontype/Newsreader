@@ -2,7 +2,6 @@
 <glyph name="plusminus" format="2">
   <advance width="1200"/>
   <unicode hex="00B1"/>
-  <guideline x="223.0" y="707" angle="1.6453368001796354" identifier="156Rg3cQuY"/>
   <outline>
     <contour>
       <point x="635.0" y="1044.0" type="line"/>
@@ -23,10 +22,4 @@
       <point x="963.0" y="268.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

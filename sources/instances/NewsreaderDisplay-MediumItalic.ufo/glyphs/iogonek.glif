@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="620.0"/>
+  <advance width="620"/>
   <unicode hex="012F"/>
   <outline>
     <contour>
@@ -69,10 +69,4 @@
       <point x="214.20000000000002" y="-50.199999999999996" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

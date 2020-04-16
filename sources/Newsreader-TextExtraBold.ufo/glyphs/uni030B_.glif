@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni030B" format="2">
   <unicode hex="030B"/>
-  <guideline x="409" y="1295" angle="0" identifier="waIiUKDRUp"/>
   <anchor x="0" y="872.0" name="_top"/>
   <anchor x="0" y="1340" name="top"/>
   <outline>
@@ -20,10 +19,4 @@
       <point x="-189.0" y="1340.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.3739,0.9739,0.9829,0.8</string>
-    </dict>
-  </lib>
 </glyph>

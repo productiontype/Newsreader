@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcroat" format="2">
-  <advance width="1543.52"/>
+  <advance width="1544"/>
   <unicode hex="0110"/>
-  <guideline x="-87.87199999999996" y="0.0" angle="176.51604439422618" identifier="SOFkAI0H3c"/>
   <outline>
     <contour>
       <point x="129.432" y="710.336" type="line"/>
@@ -41,10 +40,4 @@
       <point x="333.824" y="1407.032" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

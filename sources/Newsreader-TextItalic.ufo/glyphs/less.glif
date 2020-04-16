@@ -2,7 +2,6 @@
 <glyph name="less" format="2">
   <advance width="1000"/>
   <unicode hex="003C"/>
-  <guideline x="1085.0" y="892" angle="171.88495676186446" identifier="rrevOd4Prw"/>
   <outline>
     <contour>
       <point x="133.0" y="419.0" type="line"/>
@@ -15,10 +14,4 @@
       <point x="139.0" y="437.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

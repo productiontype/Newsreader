@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotleft" format="2">
-  <advance width="891.08"/>
+  <advance width="891"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
@@ -24,10 +24,4 @@
       <point x="687.7439999999999" y="87.85600000000001" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

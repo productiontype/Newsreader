@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="colonmonetary.lf.1" format="2">
-  <advance width="1214.12"/>
+  <advance width="1214"/>
   <outline>
     <contour>
       <point x="942.1999999999999" y="1385.3200000000002" type="curve" smooth="yes"/>
@@ -57,10 +57,4 @@
       <point x="547.968" y="151.096" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

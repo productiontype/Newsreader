@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls" format="2">
-  <advance width="1393.4266666666665"/>
+  <advance width="1393"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
@@ -86,10 +86,4 @@
       <point x="273.17333333333335" y="-319.96"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

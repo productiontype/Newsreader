@@ -2,7 +2,6 @@
 <glyph name="ampersand" format="2">
   <advance width="1390"/>
   <unicode hex="0026"/>
-  <guideline x="1212.0" y="70.0" angle="359.5116900951818" identifier="tvCZC1nGx2"/>
   <outline>
     <contour>
       <point x="562" y="718" type="line"/>
@@ -69,10 +68,4 @@
       <point x="510" y="693" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

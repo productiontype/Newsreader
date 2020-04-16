@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.lf" format="2">
-  <advance width="1105.864"/>
+  <advance width="1106"/>
   <outline>
     <contour>
       <point x="137.232" y="1175.136" type="line"/>
@@ -18,10 +18,4 @@
       <point x="329.81600000000003" y="1275.864" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

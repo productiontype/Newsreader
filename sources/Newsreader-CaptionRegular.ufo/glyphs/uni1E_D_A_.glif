@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1EDA" format="2">
-  <advance width="1701.0"/>
+  <advance width="1701"/>
   <unicode hex="1EDA"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="acutecomb.case" xOffset="847.0"/>
+    <component base="acutecomb.case" xOffset="847"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

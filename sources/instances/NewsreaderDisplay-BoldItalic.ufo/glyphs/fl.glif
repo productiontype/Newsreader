@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-  <advance width="1281.152"/>
+  <advance width="1281"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
@@ -59,10 +59,4 @@
       <point x="303.008" y="-254.61599999999999"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

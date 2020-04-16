@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numbersign.lf" format="2">
-  <advance width="1238.6"/>
-  <guideline x="119.712" y="837.44" angle="2.308259599056271" identifier="sehhqdDZs6"/>
+  <advance width="1239"/>
   <outline>
     <contour>
       <point x="696.144" y="0.0" type="line"/>
@@ -28,10 +27,4 @@
       <point x="1170.784" y="774.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

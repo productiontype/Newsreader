@@ -2,7 +2,6 @@
 <glyph name="Lslash" format="2">
   <advance width="1207"/>
   <unicode hex="0141"/>
-  <guideline x="-58.0" y="0" angle="1.8698647290474684" identifier="gtxH5zrji0"/>
   <outline>
     <contour>
       <point x="720.0" y="1370.0" type="line"/>
@@ -38,10 +37,4 @@
       <point x="891.0" y="870.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

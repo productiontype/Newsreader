@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotleft.case" format="2">
-  <advance width="1017.1039999999999"/>
+  <advance width="1017"/>
   <outline>
-    <component base="guillemotleft" xOffset="122.536" yOffset="203.0"/>
+    <component base="guillemotleft" xOffset="122.536" yOffset="203"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

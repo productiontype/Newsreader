@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20A9.lf" format="2">
-  <advance width="1518.6"/>
-  <guideline x="404.6" y="1369.2" angle="358.22804850277345" identifier="8SYwe8UMTm"/>
+  <advance width="1519"/>
   <outline>
     <contour>
       <point x="1425.8" y="590.6" type="line"/>
@@ -42,10 +41,4 @@
       <point x="763.8000000000001" y="1084.2" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

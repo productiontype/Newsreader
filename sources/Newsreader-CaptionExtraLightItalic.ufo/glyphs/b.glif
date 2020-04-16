@@ -2,7 +2,6 @@
 <glyph name="b" format="2">
   <advance width="1171"/>
   <unicode hex="0062"/>
-  <guideline x="546.0" y="1484" angle="178.01661089402228" identifier="rlLRG719jC"/>
   <anchor x="801.0" y="1414" name="UCtop"/>
   <anchor x="423.0" y="0" name="bottom"/>
   <outline>
@@ -51,10 +50,4 @@
       <point x="409" y="1394"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar.1" format="2">
-  <advance width="1140.0"/>
+  <advance width="1140"/>
   <outline>
     <component base="dollar.lf.1" xOffset="69.8"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

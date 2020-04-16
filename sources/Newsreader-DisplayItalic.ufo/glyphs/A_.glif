@@ -2,8 +2,6 @@
 <glyph name="A" format="2">
   <advance width="1401"/>
   <unicode hex="0041"/>
-  <guideline x="-198.0" y="20" angle="180.0" identifier="nWzNnPHSVM"/>
-  <guideline x="994.0" y="56" angle="181.96797983227745" identifier="s9aagwR2Kh"/>
   <anchor x="928.0" y="1430.0" name="UCtop"/>
   <anchor x="520.0" y="0" name="bottom"/>
   <anchor x="1191.0" y="0" name="right"/>
@@ -33,10 +31,4 @@
       <point x="1298.0" y="20.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

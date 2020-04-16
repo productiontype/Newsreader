@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotlessi" format="2">
-  <advance width="581.4"/>
+  <advance width="581"/>
   <unicode hex="0131"/>
   <anchor x="281.40000000000003" y="1024.0" name="top"/>
   <anchor x="293.59999999999997" y="0.0" name="bottom"/>
@@ -23,10 +23,4 @@
       <point x="416.8" y="855.1999999999999" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

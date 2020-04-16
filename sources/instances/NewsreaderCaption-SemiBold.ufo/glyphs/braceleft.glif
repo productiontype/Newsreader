@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceleft" format="2">
-  <advance width="816.552"/>
+  <advance width="817"/>
   <unicode hex="007B"/>
   <outline>
     <contour>
@@ -52,10 +52,4 @@
       <point x="67.94399999999999" y="695.232" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

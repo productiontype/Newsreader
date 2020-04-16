@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ntilde" format="2">
-  <advance width="1663.0"/>
+  <advance width="1663"/>
   <unicode hex="00D1"/>
   <outline>
     <component base="N"/>
     <component base="tildecomb.case" xOffset="811.0000000001122"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

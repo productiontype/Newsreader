@@ -2,7 +2,6 @@
 <glyph name="K" format="2">
   <advance width="1528"/>
   <unicode hex="004B"/>
-  <guideline x="1552.0" y="111" angle="357.3910340867786" identifier="7Tie9nUKaW"/>
   <anchor x="1043.0" y="1340.0" name="UCtop"/>
   <anchor x="714.0" y="0" name="bottom"/>
   <outline>
@@ -41,10 +40,4 @@
       <point x="323.0" y="1296.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

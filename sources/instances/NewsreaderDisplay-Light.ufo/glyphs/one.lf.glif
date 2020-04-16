@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.lf" format="2">
-  <advance width="715.3466666666667"/>
+  <advance width="715"/>
   <outline>
     <contour>
       <point x="346.94666666666666" y="52.44" type="line"/>
@@ -17,10 +17,4 @@
       <point x="346.94666666666666" y="1350.8" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

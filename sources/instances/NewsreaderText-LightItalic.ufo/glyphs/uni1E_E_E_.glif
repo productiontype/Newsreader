@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1EEE" format="2">
-  <advance width="1394.9733333333334"/>
+  <advance width="1395"/>
   <unicode hex="1EEE"/>
   <outline>
     <component base="Uhorn"/>
     <component base="tildecomb.case" xOffset="708.5866666668044"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

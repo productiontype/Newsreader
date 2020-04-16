@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="679.448"/>
+  <advance width="679"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
@@ -36,10 +36,4 @@
       <point x="605.096" y="1063.44"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

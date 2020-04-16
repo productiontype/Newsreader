@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorn" format="2">
-  <advance width="1397.4"/>
+  <advance width="1397"/>
   <unicode hex="01B0"/>
   <anchor x="643.4" y="1028.0" name="top"/>
   <anchor x="679.8000000000001" y="0.0" name="bottom"/>
@@ -57,10 +57,4 @@
       <point x="1235.2" y="1199.3999999999999"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

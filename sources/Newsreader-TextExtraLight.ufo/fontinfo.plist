@@ -13,44 +13,7 @@
     <key>familyName</key>
     <string>Newsreader</string>
     <key>guidelines</key>
-    <array>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>qOZkriLt2A</string>
-        <key>name</key>
-        <string>UC-mid</string>
-        <key>x</key>
-        <integer>2518</integer>
-        <key>y</key>
-        <integer>670</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>nnXmJ2pI98</string>
-        <key>name</key>
-        <string>LC-mid</string>
-        <key>x</key>
-        <integer>720</integer>
-        <key>y</key>
-        <integer>426</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>MN1yA538GK</string>
-        <key>name</key>
-        <string>DES-mid</string>
-        <key>x</key>
-        <integer>754</integer>
-        <key>y</key>
-        <integer>-255</integer>
-      </dict>
-    </array>
+    <array/>
     <key>italicAngle</key>
     <real>0.0</real>
     <key>openTypeHeadLowestRecPPEM</key>

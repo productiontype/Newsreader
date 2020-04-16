@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="487.8933333333333"/>
+  <advance width="488"/>
   <unicode hex="006C"/>
-  <guideline x="584.76" y="1484.0" angle="174.9059418645951" identifier="hqSIugPVCb"/>
   <anchor x="454.5466666666667" y="1430.0" name="UCtop"/>
   <anchor x="96.76" y="0.0" name="bottom"/>
   <anchor x="562.4666666666667" y="1464.0" name="right"/>
@@ -30,10 +29,4 @@
       <point x="390.41333333333336" y="1370.1449192768928"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

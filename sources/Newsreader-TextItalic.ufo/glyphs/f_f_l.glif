@@ -2,7 +2,6 @@
 <glyph name="f_f_l" format="2">
   <advance width="1499"/>
   <unicode hex="FB04"/>
-  <guideline x="1088.0" y="739" angle="0.649998033377637" identifier="vXeNxmLQLv"/>
   <outline>
     <contour>
       <point x="107.0" y="772.0" type="line"/>
@@ -90,10 +89,4 @@
       <point x="217" y="-349"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright.case" format="2">
-  <advance width="767.68"/>
+  <advance width="768"/>
   <outline>
-    <component base="parenright" xOffset="17.0" yOffset="85.152"/>
+    <component base="parenright" xOffset="17" yOffset="85.152"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

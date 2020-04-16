@@ -2,7 +2,6 @@
 <glyph name="at" format="2">
   <advance width="1756"/>
   <unicode hex="0040"/>
-  <guideline x="858.0" y="199.0" angle="0" identifier="h2ED7rbafF"/>
   <outline>
     <contour>
       <point x="1218.0" y="198.0" type="curve" smooth="yes"/>
@@ -81,10 +80,4 @@
       <point x="1085.0" y="198.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

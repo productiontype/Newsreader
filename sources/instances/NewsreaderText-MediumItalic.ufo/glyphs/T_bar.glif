@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="1259.4"/>
+  <advance width="1259"/>
   <unicode hex="0166"/>
   <outline>
     <contour>
@@ -38,10 +38,4 @@
       <point x="982.6" y="1271.8" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

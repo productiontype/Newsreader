@@ -2,9 +2,6 @@
 <glyph name="oslash" format="2">
   <advance width="1214"/>
   <unicode hex="00F8"/>
-  <guideline x="606.0" y="512" angle="1.0091023712534666" identifier="th21oYx62j"/>
-  <guideline x="155.0" y="562" angle="1.0091023712534666" identifier="HYsWcRxL2y"/>
-  <guideline x="1060.0" y="468" angle="1.0091023712534666" identifier="4WAcKRRnmH"/>
   <anchor x="763.0" y="1024" name="top"/>
   <anchor x="450.0" y="0" name="bottom"/>
   <outline>
@@ -51,10 +48,4 @@
       <point x="1250.0" y="1024.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

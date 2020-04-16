@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen.lf" format="2">
   <advance width="1330"/>
-  <guideline x="394.0" y="1255" angle="359.29625826881175" identifier="3SoKrkXiMu"/>
   <outline>
     <contour>
       <point x="1099.0" y="582.0" type="line"/>
@@ -40,10 +39,4 @@
       <point x="761.0" y="85.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

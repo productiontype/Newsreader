@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
-  <advance width="1603.28"/>
+  <advance width="1603"/>
   <unicode hex="004F"/>
-  <guideline x="607.7066666666667" y="737.36" angle="2.165322382446959" identifier="MtFeclmc44"/>
   <anchor x="1073.0933333333332" y="1414.0" name="UCtop"/>
   <anchor x="637.4799999999999" y="0.0" name="bottom"/>
   <anchor x="790.92" y="0.0" name="right"/>
@@ -37,10 +36,4 @@
       <point x="1554.6399999999999" y="459.24"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

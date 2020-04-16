@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="1222.0"/>
+  <advance width="1222"/>
   <unicode hex="00F8"/>
-  <guideline x="127.0" y="512" angle="1.8081791567904182" identifier="R1xvznBqPn"/>
-  <guideline x="1092.0" y="513" angle="1.8081791567904182" identifier="U3y3Fv7D5t"/>
   <anchor x="767.0" y="1024.0" name="top"/>
   <anchor x="443.0" y="0" name="bottom"/>
   <outline>
@@ -50,10 +48,4 @@
       <point x="1268.0" y="1024.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

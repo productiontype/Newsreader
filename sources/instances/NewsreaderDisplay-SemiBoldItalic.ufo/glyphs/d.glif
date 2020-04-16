@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d" format="2">
-  <advance width="1155.352"/>
+  <advance width="1155"/>
   <unicode hex="0064"/>
   <anchor x="899.192" y="1430.0" name="UCtop"/>
   <anchor x="1285.2160000000001" y="1464.0" name="right"/>
@@ -56,10 +56,4 @@
       <point x="848.216" y="910.6560000000001"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

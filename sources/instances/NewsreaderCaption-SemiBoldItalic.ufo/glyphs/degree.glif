@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="degree" format="2">
-  <advance width="788.616"/>
+  <advance width="789"/>
   <unicode hex="00B0"/>
   <outline>
     <contour>
@@ -32,10 +32,4 @@
       <point x="677.68" y="962.68"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

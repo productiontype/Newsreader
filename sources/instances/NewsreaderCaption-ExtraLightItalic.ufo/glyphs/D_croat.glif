@@ -2,7 +2,6 @@
 <glyph name="Dcroat" format="2">
   <advance width="1545"/>
   <unicode hex="0110"/>
-  <guideline x="-49.0" y="0" angle="16.196507137392675" identifier="Ygf996Un5x"/>
   <outline>
     <contour>
       <point x="158.0" y="677.0" type="line"/>
@@ -41,10 +40,4 @@
       <point x="368.0" y="1367.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

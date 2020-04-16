@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright.case" format="2">
-  <advance width="695.0"/>
+  <advance width="695"/>
   <outline>
-    <component base="guilsinglright" xOffset="30.0" yOffset="243.0"/>
+    <component base="guilsinglright" xOffset="30" yOffset="243"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

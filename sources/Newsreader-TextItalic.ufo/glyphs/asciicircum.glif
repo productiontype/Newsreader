@@ -2,7 +2,6 @@
 <glyph name="asciicircum" format="2">
   <advance width="1000"/>
   <unicode hex="005E"/>
-  <guideline x="757.0" y="1246" angle="17.70899496409951" identifier="xLWgQyvl5X"/>
   <outline>
     <contour>
       <point x="757.0" y="1246.0" type="line"/>
@@ -15,10 +14,4 @@
       <point x="765.0" y="1246.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

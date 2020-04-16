@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ampersand" format="2">
-  <advance width="1369.312"/>
+  <advance width="1369"/>
   <unicode hex="0026"/>
-  <guideline x="785.512" y="346.024" angle="355.95313048398066" identifier="tvCZC1nGx2"/>
   <outline>
     <contour>
       <point x="973.344" y="225.664" type="line"/>
@@ -69,10 +68,4 @@
       <point x="884.464" y="158.10399999999998" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

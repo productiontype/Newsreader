@@ -2,7 +2,6 @@
 <glyph name="AE" format="2">
   <advance width="2514"/>
   <unicode hex="00C6"/>
-  <guideline x="10.0" y="162" angle="179.53481883635592" identifier="ZN9WCIv16l"/>
   <anchor x="1644.0" y="1414" name="UCtop"/>
   <anchor x="1211.0" y="0" name="bottom"/>
   <outline>
@@ -64,10 +63,4 @@
       <point x="2324.0" y="1329.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

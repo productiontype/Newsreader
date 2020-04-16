@@ -2,8 +2,6 @@
 <glyph name="ordmasculine" format="2">
   <advance width="818"/>
   <unicode hex="00BA"/>
-  <guideline x="156.0" y="485" angle="2.083040827822905" identifier="ZlFSEPl85Z"/>
-  <guideline x="704.0" y="485" angle="2.083040827822905" identifier="peT7TmjqOg"/>
   <outline>
     <contour>
       <point x="156.0" y="485.0" type="line"/>
@@ -40,10 +38,4 @@
       <point x="678.0" y="708.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

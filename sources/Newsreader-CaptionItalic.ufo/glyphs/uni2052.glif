@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2052" format="2">
-  <advance width="1558.0"/>
+  <advance width="1558"/>
   <unicode hex="2052"/>
   <outline>
-    <component base="bullet" xOffset="51.0" yOffset="530.0"/>
-    <component base="fraction" xOffset="702.0"/>
-    <component base="bullet" xOffset="743.0" yOffset="-144.0"/>
+    <component base="bullet" xOffset="51" yOffset="530"/>
+    <component base="fraction" xOffset="702"/>
+    <component base="bullet" xOffset="743" yOffset="-144"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="O" format="2">
   <advance width="1479"/>
   <unicode hex="004F"/>
-  <guideline x="794.0" y="670" angle="1.8081791567904182" identifier="MtFeclmc44"/>
   <anchor x="962.0" y="1340.0" name="UCtop"/>
   <anchor x="633.0" y="0" name="bottom"/>
   <anchor x="593.0" y="0" name="right"/>
@@ -37,10 +36,4 @@
       <point x="1464.0" y="371.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

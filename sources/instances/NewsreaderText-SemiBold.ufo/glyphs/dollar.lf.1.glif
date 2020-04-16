@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar.lf.1" format="2">
-  <advance width="1048.192"/>
+  <advance width="1048"/>
   <outline>
     <contour>
       <point x="454.216" y="-24.240000000000002" type="curve" smooth="yes"/>
@@ -71,10 +71,4 @@
       <point x="669.44" y="30.631999999999998" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

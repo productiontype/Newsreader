@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lira.lf" format="2">
-  <advance width="1210.5866666666666"/>
+  <advance width="1211"/>
   <outline>
     <contour>
       <point x="883.3733333333332" y="593.9466666666667" type="line"/>
@@ -52,10 +52,4 @@
       <point x="989.1333333333333" y="1239.28"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

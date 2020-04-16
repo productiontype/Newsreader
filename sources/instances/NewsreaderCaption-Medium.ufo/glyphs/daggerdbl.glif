@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="daggerdbl" format="2">
-  <advance width="886.6"/>
+  <advance width="887"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
@@ -32,10 +32,4 @@
       <point x="132.79999999999998" y="866.8" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

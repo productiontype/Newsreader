@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="568.0"/>
+  <advance width="568"/>
   <unicode hex="012E"/>
-  <guideline x="1.0" y="-414" angle="180.0" identifier="d7PXDCkGka"/>
-  <guideline x="167.0" y="-351" angle="180.0" identifier="cTe0evsHyv"/>
   <outline>
     <contour>
       <point x="508.0" y="12.0" type="line"/>
@@ -44,10 +42,4 @@
       <point x="199.0" y="-220.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

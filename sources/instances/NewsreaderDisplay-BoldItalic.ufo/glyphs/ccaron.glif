@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccaron" format="2">
-  <advance width="918.896"/>
+  <advance width="919"/>
   <unicode hex="010D"/>
   <outline>
     <component base="c"/>
     <component base="uni030C" xOffset="477.39200000001796"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

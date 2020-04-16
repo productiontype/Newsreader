@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eng" format="2">
-  <advance width="1467.0"/>
+  <advance width="1467"/>
   <unicode hex="014A"/>
-  <guideline x="735.0" y="376" angle="18.43494882292201" identifier="h3XiUWFOzP"/>
   <outline>
     <contour>
       <point x="1200.0" y="112.0" type="line"/>
@@ -45,10 +44,4 @@
       <point x="1234.0" y="-357.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

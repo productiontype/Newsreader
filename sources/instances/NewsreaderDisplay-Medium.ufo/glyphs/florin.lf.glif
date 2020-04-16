@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="florin.lf" format="2">
-  <advance width="1582.0"/>
+  <advance width="1582"/>
   <outline>
     <contour>
       <point x="379.2" y="695.6" type="line"/>
@@ -43,10 +43,4 @@
       <point x="124.6" y="-236.8"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

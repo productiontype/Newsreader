@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk" format="2">
-  <advance width="937.1999999999999"/>
+  <advance width="937"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
@@ -21,10 +21,4 @@
       <point x="543.6" y="720.6" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

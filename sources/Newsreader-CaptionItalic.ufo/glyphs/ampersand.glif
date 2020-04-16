@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ampersand" format="2">
-  <advance width="1586.0"/>
+  <advance width="1586"/>
   <unicode hex="0026"/>
-  <guideline x="1660.0" y="104" angle="0" identifier="jFXtElFPZs"/>
-  <guideline x="1240.0" y="768" angle="0" identifier="1Z9Oozj1it"/>
   <outline>
     <contour>
       <point x="1077.0" y="211.0" type="line"/>
@@ -70,10 +68,4 @@
       <point x="1000.0" y="152.0" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

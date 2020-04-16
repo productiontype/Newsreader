@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.lf" format="2">
-  <advance width="1252.4"/>
+  <advance width="1252"/>
   <outline>
     <contour>
       <point x="900.2" y="1446.0" type="line"/>
@@ -22,10 +22,4 @@
       <point x="900.2" y="77.60000000000001" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

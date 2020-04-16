@@ -2,7 +2,6 @@
 <glyph name="quotesinglbase" format="2">
   <advance width="461"/>
   <unicode hex="201A"/>
-  <guideline x="628.0" y="223" angle="180.0" identifier="gns9faJv7P"/>
   <outline>
     <contour>
       <point x="66.0" y="-206.0" type="curve"/>
@@ -23,10 +22,4 @@
       <point x="193.0" y="-152.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

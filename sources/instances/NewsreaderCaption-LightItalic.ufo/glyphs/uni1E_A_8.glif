@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1EA8" format="2">
-  <advance width="1529.2666666666667"/>
+  <advance width="1529"/>
   <unicode hex="1EA8"/>
   <outline>
     <component base="A"/>
     <component base="uni0302_hookabovecomb.case" xOffset="717.6266666666638"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

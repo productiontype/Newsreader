@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Euro.lf" format="2">
-  <advance width="1408.464"/>
+  <advance width="1408"/>
   <outline>
     <contour>
       <point x="1036.952" y="593.512" type="line"/>
@@ -47,10 +47,4 @@
       <point x="805.0880000000001" y="1394.008"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

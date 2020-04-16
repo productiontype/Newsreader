@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="934.4000000000001"/>
+  <advance width="934"/>
   <unicode hex="0074"/>
   <anchor x="578.8000000000001" y="0.0" name="bottom"/>
   <anchor x="468.2" y="1535.0" name="right"/>
@@ -36,10 +36,4 @@
       <point x="385.40000000000003" y="1028.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

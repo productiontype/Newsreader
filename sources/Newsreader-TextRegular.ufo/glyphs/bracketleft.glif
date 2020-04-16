@@ -2,8 +2,6 @@
 <glyph name="bracketleft" format="2">
   <advance width="634"/>
   <unicode hex="005B"/>
-  <guideline x="167.0" y="572" angle="2.1210963966614536" identifier="7e6bDffe5q"/>
-  <guideline x="314.0" y="572" angle="2.1210963966614536" identifier="Ql6NOrl7BV"/>
   <outline>
     <contour>
       <point x="187.0" y="-258.0" type="line"/>
@@ -16,10 +14,4 @@
       <point x="187.0" y="1399.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

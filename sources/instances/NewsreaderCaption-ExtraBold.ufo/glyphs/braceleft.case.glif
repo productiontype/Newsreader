@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceleft.case" format="2">
-  <advance width="896.0"/>
+  <advance width="896"/>
   <outline>
-    <component base="braceleft" xOffset="9.0" yOffset="84.0"/>
+    <component base="braceleft" xOffset="9" yOffset="84"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

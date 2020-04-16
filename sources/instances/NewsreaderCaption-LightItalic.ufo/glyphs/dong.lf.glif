@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dong.lf" format="2">
-  <advance width="1427.2933333333333"/>
+  <advance width="1427"/>
   <outline>
     <contour>
       <point x="1026.28" y="-270.4" type="line"/>
@@ -63,10 +63,4 @@
       <point x="822.0266666666666" y="1246.9466666666667" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

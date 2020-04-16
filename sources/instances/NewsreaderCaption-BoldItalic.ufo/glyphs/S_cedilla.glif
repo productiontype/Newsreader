@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scedilla" format="2">
-  <advance width="1383.048"/>
+  <advance width="1383"/>
   <unicode hex="015E"/>
   <outline>
     <contour>
@@ -81,10 +81,4 @@
       <point x="294.568" y="-465.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

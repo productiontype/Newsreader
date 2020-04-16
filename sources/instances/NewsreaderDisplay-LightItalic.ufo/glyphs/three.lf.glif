@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.lf" format="2">
-  <advance width="999.8666666666667"/>
+  <advance width="1000"/>
   <outline>
     <contour>
       <point x="314.90666666666664" y="25.48" type="curve" smooth="yes"/>
@@ -48,10 +48,4 @@
       <point x="565.04" y="25.48"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

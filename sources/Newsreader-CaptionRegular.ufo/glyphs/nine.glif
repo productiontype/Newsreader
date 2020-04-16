@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="1300.0"/>
+  <advance width="1300"/>
   <unicode hex="0039"/>
   <outline>
-    <component base="nine.lf" xOffset="37.0"/>
+    <component base="nine.lf" xOffset="37"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5158,0.1993,0.9852,0.8</string>
-    </dict>
-  </lib>
 </glyph>

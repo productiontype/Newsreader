@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="B" format="2">
-  <advance width="1289.6"/>
+  <advance width="1290"/>
   <unicode hex="0042"/>
-  <guideline x="333.4" y="1340.0" angle="6.34019174590991" identifier="SmX6ZW6ZTT"/>
   <anchor x="639.8" y="1340.0" name="UCtop"/>
   <anchor x="647.8" y="0.0" name="bottom"/>
   <outline>
@@ -53,10 +52,4 @@
       <point x="79.8" y="40.4" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen.lf" format="2">
-  <advance width="1339.28"/>
+  <advance width="1339"/>
   <outline>
     <contour>
       <point x="476.8933333333333" y="1387.28" type="line"/>
@@ -39,10 +39,4 @@
       <point x="1200.8666666666668" y="855.76" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

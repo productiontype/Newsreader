@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown.case" format="2">
-  <advance width="518.0533333333333"/>
+  <advance width="518"/>
   <outline>
-    <component base="exclamdown" xOffset="51.413333333333334" yOffset="492.0"/>
+    <component base="exclamdown" xOffset="51.413333333333334" yOffset="492"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

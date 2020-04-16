@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zerosuperior" format="2">
-  <advance width="884.0"/>
+  <advance width="884"/>
   <unicode hex="2070"/>
-  <guideline x="448.0" y="1307" angle="0" identifier="cqlir9bFQO"/>
   <outline>
     <contour>
       <point x="514.0" y="769.0" type="curve" smooth="yes"/>
@@ -33,10 +32,4 @@
       <point x="880.0" y="1428.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

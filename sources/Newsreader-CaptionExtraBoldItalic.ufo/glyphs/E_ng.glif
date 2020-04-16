@@ -2,8 +2,6 @@
 <glyph name="Eng" format="2">
   <advance width="1782"/>
   <unicode hex="014A"/>
-  <guideline x="1244.0" y="-186" angle="0" identifier="0IEEZks028"/>
-  <guideline x="1040.0" y="-64" angle="0" identifier="5IC3faftk6"/>
   <outline>
     <contour>
       <point x="1385.0" y="646.0" type="line"/>
@@ -46,10 +44,4 @@
       <point x="1295.0" y="-328.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

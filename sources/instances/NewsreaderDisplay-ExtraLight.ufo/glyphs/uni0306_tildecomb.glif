@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0306_tildecomb" format="2">
-  <guideline x="-236" y="1097" angle="0" identifier="oU17DsOZG2"/>
   <anchor x="0" y="1024.0" name="_top"/>
   <outline>
     <contour>
@@ -42,10 +41,4 @@
       <point x="119.0" y="1170.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.3739,0.9739,0.9829,0.8</string>
-    </dict>
-  </lib>
 </glyph>

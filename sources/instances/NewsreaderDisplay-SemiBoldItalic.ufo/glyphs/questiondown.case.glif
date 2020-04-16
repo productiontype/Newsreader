@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown.case" format="2">
-  <advance width="1003.7680000000001"/>
+  <advance width="1004"/>
   <outline>
     <component base="questiondown" xOffset="107.28800000000001" yOffset="407.15200000000004"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

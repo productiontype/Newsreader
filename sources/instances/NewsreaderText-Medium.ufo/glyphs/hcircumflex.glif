@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
-  <advance width="1096.2"/>
+  <advance width="1096"/>
   <unicode hex="0125"/>
   <outline>
     <component base="h"/>
     <component base="uni0302.case" xOffset="560.2" yOffset="47.2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

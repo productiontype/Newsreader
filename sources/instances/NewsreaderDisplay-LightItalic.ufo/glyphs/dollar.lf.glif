@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar.lf" format="2">
-  <advance width="1038.0666666666666"/>
+  <advance width="1038"/>
   <outline>
     <contour>
       <point x="390.4266666666666" y="-208.0" type="line"/>
@@ -53,10 +53,4 @@
       <point x="649.4533333333333" y="11.346666666666668"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

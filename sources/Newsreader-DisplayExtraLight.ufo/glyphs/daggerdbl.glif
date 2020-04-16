@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="daggerdbl" format="2">
-  <advance width="788.0"/>
+  <advance width="788"/>
   <unicode hex="2021"/>
-  <guideline x="222.0" y="966" angle="0" identifier="iwN2oojr3Y"/>
-  <guideline x="726.0" y="832" angle="0" identifier="uo5wyK3XMJ"/>
-  <guideline x="140.0" y="1046" angle="0" identifier="k2Whu9tTJ5"/>
   <outline>
     <contour>
       <point x="394.0" y="1200.0" type="line"/>
@@ -35,10 +32,4 @@
       <point x="114.0" y="863.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

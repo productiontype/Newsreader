@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta.lf" format="2">
-  <advance width="1938.0"/>
+  <advance width="1938"/>
   <outline>
     <contour>
       <point x="1105.8" y="252.6" type="curve" smooth="yes"/>
@@ -104,10 +104,4 @@
       <point x="772.2" y="722.6"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

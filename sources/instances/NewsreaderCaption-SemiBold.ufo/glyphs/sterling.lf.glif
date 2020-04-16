@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sterling.lf" format="2">
-  <advance width="1422.176"/>
+  <advance width="1422"/>
   <outline>
     <contour>
       <point x="1103.096" y="917.832" type="curve"/>
@@ -46,10 +46,4 @@
       <point x="990.8240000000001" y="639.28" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

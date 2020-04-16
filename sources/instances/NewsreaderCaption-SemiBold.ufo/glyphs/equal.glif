@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="1140.0"/>
+  <advance width="1140"/>
   <unicode hex="003D"/>
   <outline>
     <component base="minus" xOffset="0.28800000000000003" yOffset="203.6"/>
     <component base="minus" xOffset="0.28800000000000003" yOffset="-203.024"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

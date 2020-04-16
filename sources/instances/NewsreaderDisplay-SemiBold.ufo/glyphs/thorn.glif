@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thorn" format="2">
-  <advance width="1213.12"/>
+  <advance width="1213"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
@@ -47,10 +47,4 @@
       <point x="101.888" y="1271.1230683935469"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

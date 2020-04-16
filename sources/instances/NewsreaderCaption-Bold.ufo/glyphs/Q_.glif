@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1760.744"/>
+  <advance width="1761"/>
   <unicode hex="0051"/>
   <anchor x="880.048" y="1414.0" name="UCtop"/>
   <anchor x="899.488" y="-438.52" name="bottom"/>
@@ -47,10 +47,4 @@
       <point x="1110.72" y="240.312"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="Thorn" format="2">
   <advance width="1089"/>
   <unicode hex="00DE"/>
-  <guideline x="1165.0" y="941" angle="8.641594466300717" identifier="f8eV68gn1K"/>
   <outline>
     <contour>
       <point x="479.0" y="363.0" type="curve" smooth="yes"/>
@@ -39,10 +38,4 @@
       <point x="342.0" y="1318.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

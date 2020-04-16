@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-  <advance width="955.1733333333333"/>
+  <advance width="955"/>
   <unicode hex="FB02"/>
-  <guideline x="1022.0" y="725.2133333333334" angle="1.1191301909089546" identifier="vXeNxmLQLv"/>
   <outline>
     <contour>
       <point x="110.76" y="793.9333333333333" type="line"/>
@@ -60,10 +59,4 @@
       <point x="162.85333333333332" y="-374.06666666666666"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9,0.55,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

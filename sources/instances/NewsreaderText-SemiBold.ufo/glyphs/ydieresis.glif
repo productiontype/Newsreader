@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydieresis" format="2">
-  <advance width="1054.816"/>
+  <advance width="1055"/>
   <unicode hex="00FF"/>
   <outline>
     <component base="y"/>
     <component base="uni0308" xOffset="574.216"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

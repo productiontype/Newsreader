@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="1070.624"/>
+  <advance width="1071"/>
   <unicode hex="00F8"/>
   <anchor x="536.176" y="860.48" name="top"/>
   <anchor x="536.176" y="0.0" name="bottom"/>
@@ -48,10 +48,4 @@
       <point x="255.16" y="-24.240000000000002"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

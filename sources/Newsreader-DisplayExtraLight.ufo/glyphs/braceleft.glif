@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceleft" format="2">
-  <advance width="551.0"/>
+  <advance width="551"/>
   <unicode hex="007B"/>
-  <guideline x="-34.0" y="569" angle="180.0" identifier="31pk41viqJ"/>
-  <guideline x="580.0" y="-228" angle="180.0" identifier="wGMXZgNoCj"/>
   <outline>
     <contour>
       <point x="39.0" y="615.0" type="line"/>
@@ -54,10 +52,4 @@
       <point x="39.0" y="641.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

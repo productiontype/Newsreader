@@ -2,8 +2,6 @@
 <glyph name="Hbar" format="2">
   <advance width="1508"/>
   <unicode hex="0126"/>
-  <guideline x="369.0" y="1340" angle="1.9359060708165496" identifier="vMhoWmdfv6"/>
-  <guideline x="1689.0" y="1340" angle="1.9359060708165496" identifier="Io6zVIsyy5"/>
   <outline>
     <contour>
       <point x="365.0" y="639.0" type="line"/>
@@ -46,10 +44,4 @@
       <point x="1225.0" y="1302.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

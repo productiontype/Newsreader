@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divide" format="2">
-  <advance width="1140.0"/>
+  <advance width="1140"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
@@ -38,10 +38,4 @@
       <point x="1003.5" y="596.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

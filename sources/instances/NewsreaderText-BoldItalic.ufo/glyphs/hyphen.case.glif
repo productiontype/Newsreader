@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen.case" format="2">
-  <advance width="708.832"/>
+  <advance width="709"/>
   <outline>
     <component base="hyphen" xOffset="82.464" yOffset="238.576"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.9798,0.1633,0.8</string>
-    </dict>
-  </lib>
 </glyph>

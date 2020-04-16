@@ -2,7 +2,6 @@
 <glyph name="r" format="2">
   <advance width="755"/>
   <unicode hex="0072"/>
-  <guideline x="275.0" y="86" angle="5.710593137499642" identifier="REma14Vggz"/>
   <anchor x="402.0" y="852.0" name="top"/>
   <anchor x="275.0" y="0" name="bottom"/>
   <outline>
@@ -41,10 +40,4 @@
       <point x="348.0" y="85.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

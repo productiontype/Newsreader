@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="1000.0"/>
+  <advance width="1000"/>
   <unicode hex="2264"/>
-  <guideline x="957.6800000000001" y="442.936" angle="12.563979352960802" identifier="qma6NVJ7Me"/>
   <outline>
     <contour>
       <point x="168.984" y="502.192" type="line"/>
@@ -21,10 +20,4 @@
       <point x="859.72" y="122.88" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ordfeminine" format="2">
-  <advance width="934.4000000000001"/>
+  <advance width="934"/>
   <unicode hex="00AA"/>
   <outline>
     <contour>
@@ -69,10 +69,4 @@
       <point x="376.60295231383935" y="1117.6551071176898"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>

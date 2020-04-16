@@ -2,7 +2,6 @@
 <glyph name="Eogonek" format="2">
   <advance width="1531"/>
   <unicode hex="0118"/>
-  <guideline x="1172.0" y="54" angle="173.61615405905476" identifier="lVMUhOKkNe"/>
   <outline>
     <contour>
       <point x="1097.0" y="1079.0" type="line"/>
@@ -72,10 +71,4 @@
       <point x="1150.0" y="-125.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.1906,0.6052,0.9802,0.8</string>
-    </dict>
-  </lib>
 </glyph>
