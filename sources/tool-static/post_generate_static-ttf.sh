@@ -2,6 +2,12 @@
 
 path="../fonts/static/ttf"
 
+# Normalize UFO instances
+for i in instances/*.ufo; do
+    echo "Normalize UFO $i"
+    ufonormalizer ${i}
+done
+
 # Hinting
 for i in $path/*.ttf; do
     echo "Hinting $i"

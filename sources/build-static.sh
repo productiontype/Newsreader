@@ -9,6 +9,7 @@
 # - gftools: https://github.com/googlefonts/gftools
 # - sfnt2woff: https://github.com/kseo/sfnt2woff
 # - woff2_compress: https://github.com/google/woff2
+# - ufoNormalizer: https://github.com/unified-font-object/ufoNormalizer
 # ----------------------------------------------------------------- #
 
 
