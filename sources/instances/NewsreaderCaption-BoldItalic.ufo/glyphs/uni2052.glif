@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2052" format="2">
-  <advance width="1950"/>
-  <unicode hex="2052"/>
-  <outline>
-    <component base="bullet" xOffset="65.904" yOffset="530"/>
-    <component base="fraction" xOffset="891.216"/>
-    <component base="bullet" xOffset="976.928" yOffset="-144"/>
-  </outline>
+	<unicode hex="2052"/>
+	<advance width="1950.04"/>
+	<outline>
+		<component base="bullet" xOffset="65.904" yOffset="530"/>
+		<component base="fraction" xOffset="891.216"/>
+		<component base="bullet" xOffset="976.928" yOffset="-144"/>
+	</outline>
 </glyph>

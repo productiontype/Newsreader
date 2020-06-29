@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-  <advance width="1029"/>
-  <unicode hex="0160"/>
-  <outline>
-    <component base="S"/>
-    <component base="uni030C.case" xOffset="460.02666666660343"/>
-  </outline>
+	<unicode hex="0160"/>
+	<advance width="1029.3733333333"/>
+	<outline>
+		<component base="S"/>
+		<component base="uni030C.case" xOffset="460.0266666666"/>
+	</outline>
 </glyph>

@@ -1,43 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="1346"/>
-  <unicode hex="0138"/>
-  <outline>
-    <contour>
-      <point x="602.3333333333333" y="493.5733333333334" type="line"/>
-      <point x="1010.0266666666668" y="87.26666666666665" type="line"/>
-      <point x="891.9599999999999" y="65.91999999999999" type="line"/>
-      <point x="891.9599999999999" y="0.0" type="line"/>
-      <point x="1318.2133333333334" y="0.0" type="line"/>
-      <point x="1318.2133333333334" y="65.91999999999999" type="line"/>
-      <point x="1162.16" y="93.11999999999999" type="line"/>
-      <point x="671.0666666666666" y="585.0666666666667" type="line"/>
-      <point x="653.08" y="515.8533333333334" type="line"/>
-      <point x="1095.04" y="933.9733333333332" type="line"/>
-      <point x="1261.7333333333333" y="959.9466666666666" type="line"/>
-      <point x="1261.7333333333333" y="1024.0" type="line"/>
-      <point x="781.8000000000001" y="1024.0" type="line"/>
-      <point x="781.8000000000001" y="959.9466666666666" type="line"/>
-      <point x="953.36" y="930.9733333333332" type="line"/>
-      <point x="615.4133333333333" y="589.8133333333334" type="line"/>
-      <point x="347.81333333333333" y="589.8133333333334" type="line"/>
-      <point x="347.81333333333333" y="493.5733333333334" type="line"/>
-    </contour>
-    <contour>
-      <point x="399.4266666666667" y="1044.0" type="line"/>
-      <point x="367.12" y="1044.0" type="line"/>
-      <point x="74.10666666666667" y="982.48" type="line"/>
-      <point x="74.10666666666667" y="935.2666666666667" type="line"/>
-      <point x="135.10666666666665" y="918.3661629238705"/>
-      <point x="245.64" y="889.4685969782762"/>
-      <point x="267.64" y="883.3733333333333" type="curve"/>
-      <point x="267.64" y="90.88" type="line"/>
-      <point x="100.64" y="65.91999999999999" type="line"/>
-      <point x="100.64" y="0.0" type="line"/>
-      <point x="552.2" y="0.0" type="line"/>
-      <point x="552.2" y="65.91999999999999" type="line"/>
-      <point x="388.56" y="90.88" type="line"/>
-      <point x="388.56" y="893.9466666666667" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0138"/>
+	<advance width="1345.72"/>
+	<outline>
+		<contour>
+			<point x="602.3333333333" y="493.5733333333" type="line"/>
+			<point x="1010.0266666667" y="87.2666666667" type="line"/>
+			<point x="891.96" y="65.92" type="line"/>
+			<point x="891.96" y="0" type="line"/>
+			<point x="1318.2133333333" y="0" type="line"/>
+			<point x="1318.2133333333" y="65.92" type="line"/>
+			<point x="1162.16" y="93.12" type="line"/>
+			<point x="671.0666666667" y="585.0666666667" type="line"/>
+			<point x="653.08" y="515.8533333333" type="line"/>
+			<point x="1095.04" y="933.9733333333" type="line"/>
+			<point x="1261.7333333333" y="959.9466666667" type="line"/>
+			<point x="1261.7333333333" y="1024" type="line"/>
+			<point x="781.8" y="1024" type="line"/>
+			<point x="781.8" y="959.9466666667" type="line"/>
+			<point x="953.36" y="930.9733333333" type="line"/>
+			<point x="615.4133333333" y="589.8133333333" type="line"/>
+			<point x="347.8133333333" y="589.8133333333" type="line"/>
+			<point x="347.8133333333" y="493.5733333333" type="line"/>
+		</contour>
+		<contour>
+			<point x="399.4266666667" y="1044" type="line"/>
+			<point x="367.12" y="1044" type="line"/>
+			<point x="74.1066666667" y="982.48" type="line"/>
+			<point x="74.1066666667" y="935.2666666667" type="line"/>
+			<point x="135.1066666667" y="918.3661629239"/>
+			<point x="245.64" y="889.4685969783"/>
+			<point x="267.64" y="883.3733333333" type="curve"/>
+			<point x="267.64" y="90.88" type="line"/>
+			<point x="100.64" y="65.92" type="line"/>
+			<point x="100.64" y="0" type="line"/>
+			<point x="552.2" y="0" type="line"/>
+			<point x="552.2" y="65.92" type="line"/>
+			<point x="388.56" y="90.88" type="line"/>
+			<point x="388.56" y="893.9466666667" type="line"/>
+		</contour>
+	</outline>
 </glyph>

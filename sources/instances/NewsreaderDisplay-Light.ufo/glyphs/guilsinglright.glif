@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-  <advance width="589"/>
-  <unicode hex="203A"/>
-  <outline>
-    <contour>
-      <point x="395.4533333333333" y="464.29333333333335" type="line"/>
-      <point x="395.4533333333333" y="580.0799999999999" type="line"/>
-      <point x="100.01333333333334" y="118.90666666666667" type="line"/>
-      <point x="115.13333333333333" y="106.16" type="line"/>
-      <point x="500.3333333333333" y="516.2533333333333" type="line"/>
-      <point x="500.3333333333333" y="528.12" type="line"/>
-      <point x="115.13333333333333" y="938.2133333333334" type="line"/>
-      <point x="100.01333333333334" y="925.4666666666667" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="203A"/>
+	<advance width="589.3466666667"/>
+	<outline>
+		<contour>
+			<point x="395.4533333333" y="464.2933333333" type="line"/>
+			<point x="395.4533333333" y="580.08" type="line"/>
+			<point x="100.0133333333" y="118.9066666667" type="line"/>
+			<point x="115.1333333333" y="106.16" type="line"/>
+			<point x="500.3333333333" y="516.2533333333" type="line"/>
+			<point x="500.3333333333" y="528.12" type="line"/>
+			<point x="115.1333333333" y="938.2133333333" type="line"/>
+			<point x="100.0133333333" y="925.4666666667" type="line"/>
+		</contour>
+	</outline>
 </glyph>

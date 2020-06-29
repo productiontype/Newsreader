@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
-  <advance width="1200"/>
-  <unicode hex="0024"/>
-  <outline>
-    <component base="dollar.lf" xOffset="81.46666666666667"/>
-  </outline>
+	<unicode hex="0024"/>
+	<advance width="1200"/>
+	<outline>
+		<component base="dollar.lf" xOffset="81.4666666667"/>
+	</outline>
 </glyph>

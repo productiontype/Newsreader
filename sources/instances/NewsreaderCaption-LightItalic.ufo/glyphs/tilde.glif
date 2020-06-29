@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="2">
-  <advance width="1000"/>
-  <unicode hex="02DC"/>
-  <outline>
-    <component base="tildecomb" xOffset="500"/>
-  </outline>
+	<unicode hex="02DC"/>
+	<advance width="1000"/>
+	<outline>
+		<component base="tildecomb" xOffset="500"/>
+	</outline>
 </glyph>

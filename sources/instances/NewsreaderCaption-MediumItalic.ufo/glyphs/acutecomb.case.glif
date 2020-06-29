@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.case" format="2">
-  <anchor x="274.59999999999997" y="1414.0" name="_UCtop"/>
-  <anchor x="435.6" y="1941.0" name="UCtop"/>
-  <outline>
-    <contour>
-      <point x="240.0" y="1544.0" type="line"/>
-      <point x="372.79999999999995" y="1544.0" type="line"/>
-      <point x="755.8" y="1824.8" type="line"/>
-      <point x="769.2" y="1870.0" type="line"/>
-      <point x="509.2" y="1870.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="240" y="1544" type="line"/>
+			<point x="372.8" y="1544" type="line"/>
+			<point x="755.8" y="1824.8" type="line"/>
+			<point x="769.2" y="1870" type="line"/>
+			<point x="509.2" y="1870" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_UCtop" x="274.6" y="1414"/>
+	<anchor name="UCtop" x="435.6" y="1941"/>
 </glyph>

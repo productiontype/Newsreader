@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-  <advance width="1094"/>
-  <unicode hex="0159"/>
-  <outline>
-    <component base="r"/>
-    <component base="uni030C" xOffset="553.0000000000045"/>
-  </outline>
+	<unicode hex="0159"/>
+	<advance width="1094"/>
+	<outline>
+		<component base="r"/>
+		<component base="uni030C" xOffset="553"/>
+	</outline>
 </glyph>

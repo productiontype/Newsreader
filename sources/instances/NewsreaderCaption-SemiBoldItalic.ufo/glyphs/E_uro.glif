@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="2">
-  <advance width="1406"/>
-  <unicode hex="20AC"/>
-  <outline>
-    <component base="Euro.lf" xOffset="-87.464"/>
-  </outline>
+	<unicode hex="20AC"/>
+	<advance width="1406"/>
+	<outline>
+		<component base="Euro.lf" xOffset="-87.464"/>
+	</outline>
 </glyph>

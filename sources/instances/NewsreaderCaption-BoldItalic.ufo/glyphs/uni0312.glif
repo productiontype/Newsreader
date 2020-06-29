@@ -1,26 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0312" format="2">
-  <unicode hex="0312"/>
-  <anchor x="159.296" y="1039.776" name="_top"/>
-  <anchor x="288.704" y="1464.0" name="top"/>
-  <outline>
-    <contour>
-      <point x="370.104" y="1250.7359999999999" type="curve" smooth="yes"/>
-      <point x="370.104" y="1269.552"/>
-      <point x="277.15999999999997" y="1276.496"/>
-      <point x="277.15999999999997" y="1330.088" type="curve" smooth="yes"/>
-      <point x="277.15999999999997" y="1364.736"/>
-      <point x="303.216" y="1402.8319999999999"/>
-      <point x="415.408" y="1419.2240000000002" type="curve"/>
-      <point x="429.536" y="1510.2" type="line"/>
-      <point x="163.22400000000002" y="1484.64"/>
-      <point x="87.32" y="1362.752"/>
-      <point x="87.32" y="1250.088" type="curve" smooth="yes"/>
-      <point x="87.32" y="1170.368"/>
-      <point x="133.448" y="1127.0"/>
-      <point x="215.536" y="1127.0" type="curve" smooth="yes"/>
-      <point x="314.03200000000004" y="1127.0"/>
-      <point x="370.104" y="1192.0720000000001"/>
-    </contour>
-  </outline>
+	<unicode hex="0312"/>
+	<outline>
+		<contour>
+			<point x="370.104" y="1250.736" type="curve" smooth="yes"/>
+			<point x="370.104" y="1269.552"/>
+			<point x="277.16" y="1276.496"/>
+			<point x="277.16" y="1330.088" type="curve" smooth="yes"/>
+			<point x="277.16" y="1364.736"/>
+			<point x="303.216" y="1402.832"/>
+			<point x="415.408" y="1419.224" type="curve"/>
+			<point x="429.536" y="1510.2" type="line"/>
+			<point x="163.224" y="1484.64"/>
+			<point x="87.32" y="1362.752"/>
+			<point x="87.32" y="1250.088" type="curve" smooth="yes"/>
+			<point x="87.32" y="1170.368"/>
+			<point x="133.448" y="1127"/>
+			<point x="215.536" y="1127" type="curve" smooth="yes"/>
+			<point x="314.032" y="1127"/>
+			<point x="370.104" y="1192.072"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="159.296" y="1039.776"/>
+	<anchor name="top" x="288.704" y="1464"/>
 </glyph>

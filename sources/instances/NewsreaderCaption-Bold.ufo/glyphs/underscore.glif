@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="2">
-  <advance width="833"/>
-  <unicode hex="005F"/>
-  <outline>
-    <component base="endash" xOffset="-127.448" yOffset="-740.76"/>
-  </outline>
+	<unicode hex="005F"/>
+	<advance width="832.96"/>
+	<outline>
+		<component base="endash" xOffset="-127.448" yOffset="-740.76"/>
+	</outline>
 </glyph>

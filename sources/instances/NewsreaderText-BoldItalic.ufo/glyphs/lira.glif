@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lira" format="2">
-  <advance width="1230"/>
-  <unicode hex="20A4"/>
-  <outline>
-    <component base="lira.lf" xOffset="20.240000000000002"/>
-  </outline>
+	<unicode hex="20A4"/>
+	<advance width="1229.6"/>
+	<outline>
+		<component base="lira.lf" xOffset="20.24"/>
+	</outline>
 </glyph>

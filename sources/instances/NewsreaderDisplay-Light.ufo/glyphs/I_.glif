@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="617"/>
-  <unicode hex="0049"/>
-  <anchor x="309.26666666666665" y="1430.0" name="UCtop"/>
-  <anchor x="447.18666666666667" y="0.0" name="right"/>
-  <anchor x="309.26666666666665" y="0.0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="554.2933333333333" y="18.346666666666664" type="line"/>
-      <point x="372.7866666666667" y="51.57333333333334" type="line"/>
-      <point x="372.7866666666667" y="1378.8" type="line"/>
-      <point x="554.92" y="1411.6533333333334" type="line"/>
-      <point x="554.92" y="1430.0" type="line"/>
-      <point x="63.61333333333333" y="1430.0" type="line"/>
-      <point x="63.61333333333333" y="1411.6533333333334" type="line"/>
-      <point x="245.12" y="1378.8" type="line"/>
-      <point x="245.12" y="51.57333333333334" type="line"/>
-      <point x="62.986666666666665" y="18.346666666666664" type="line"/>
-      <point x="62.986666666666665" y="0.0" type="line"/>
-      <point x="554.2933333333333" y="0.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0049"/>
+	<advance width="617.28"/>
+	<outline>
+		<contour>
+			<point x="554.2933333333" y="18.3466666667" type="line"/>
+			<point x="372.7866666667" y="51.5733333333" type="line"/>
+			<point x="372.7866666667" y="1378.8" type="line"/>
+			<point x="554.92" y="1411.6533333333" type="line"/>
+			<point x="554.92" y="1430" type="line"/>
+			<point x="63.6133333333" y="1430" type="line"/>
+			<point x="63.6133333333" y="1411.6533333333" type="line"/>
+			<point x="245.12" y="1378.8" type="line"/>
+			<point x="245.12" y="51.5733333333" type="line"/>
+			<point x="62.9866666667" y="18.3466666667" type="line"/>
+			<point x="62.9866666667" y="0" type="line"/>
+			<point x="554.2933333333" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="UCtop" x="309.2666666667" y="1430"/>
+	<anchor name="right" x="447.1866666667" y="0"/>
+	<anchor name="bottom" x="309.2666666667" y="0"/>
 </glyph>

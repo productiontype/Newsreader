@@ -1,47 +1,47 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
-  <advance width="1352"/>
-  <unicode hex="0043"/>
-  <anchor x="764.2" y="1340.0" name="UCtop"/>
-  <anchor x="769.2666666666667" y="0.0" name="bottom"/>
-  <anchor x="1246.1333333333332" y="0.0" name="right"/>
-  <outline>
-    <contour>
-      <point x="832.2" y="38.04" type="curve" smooth="yes"/>
-      <point x="488.05333333333334" y="38.04"/>
-      <point x="212.98666666666668" y="276.3325"/>
-      <point x="212.98666666666668" y="705.5733333333334" type="curve" smooth="yes"/>
-      <point x="212.98666666666668" y="1084.311774891775"/>
-      <point x="435.06666666666666" y="1296.8266666666666"/>
-      <point x="794.1466666666666" y="1296.8266666666666" type="curve" smooth="yes"/>
-      <point x="916.2" y="1296.8266666666666"/>
-      <point x="1014.7466666666667" y="1268.8"/>
-      <point x="1150.56" y="1192.5066666666667" type="curve"/>
-      <point x="1082.36" y="1260.08" type="line"/>
-      <point x="1229.9466666666667" y="945.4133333333333" type="line"/>
-      <point x="1262.7866666666666" y="951.9066666666666" type="line"/>
-      <point x="1195.3866666666668" y="1390.48" type="line"/>
-      <point x="1183.6533333333334" y="1390.48" type="line"/>
-      <point x="1100.64" y="1311.24" type="line"/>
-      <point x="1156.52" y="1307.4533333333334" type="line"/>
-      <point x="1036.88" y="1343.8533333333332"/>
-      <point x="946.7066666666667" y="1360.0"/>
-      <point x="846.16" y="1360.0" type="curve" smooth="yes"/>
-      <point x="382.49333333333334" y="1360.0"/>
-      <point x="97.76" y="1088.034052478134"/>
-      <point x="97.76" y="665.52" type="curve" smooth="yes"/>
-      <point x="97.76" y="229.4806812652068"/>
-      <point x="408.6533333333333" y="-20.0"/>
-      <point x="831.0933333333334" y="-20.0" type="curve" smooth="yes"/>
-      <point x="980.92" y="-20.0"/>
-      <point x="1132.1466666666668" y="10.866666666666667"/>
-      <point x="1226.7866666666666" y="54.24" type="curve"/>
-      <point x="1266.68" y="335.2" type="line"/>
-      <point x="1230.6" y="335.2" type="line"/>
-      <point x="1099.7466666666667" y="56.17333333333333" type="line"/>
-      <point x="1157.0266666666666" y="111.34666666666666" type="line"/>
-      <point x="1060.28" y="62.18666666666667"/>
-      <point x="944.72" y="38.04"/>
-    </contour>
-  </outline>
+	<unicode hex="0043"/>
+	<advance width="1351.5466666667"/>
+	<outline>
+		<contour>
+			<point x="832.2" y="38.04" type="curve" smooth="yes"/>
+			<point x="488.0533333333" y="38.04"/>
+			<point x="212.9866666667" y="276.3325"/>
+			<point x="212.9866666667" y="705.5733333333" type="curve" smooth="yes"/>
+			<point x="212.9866666667" y="1084.3117748918"/>
+			<point x="435.0666666667" y="1296.8266666667"/>
+			<point x="794.1466666667" y="1296.8266666667" type="curve" smooth="yes"/>
+			<point x="916.2" y="1296.8266666667"/>
+			<point x="1014.7466666667" y="1268.8"/>
+			<point x="1150.56" y="1192.5066666667" type="curve"/>
+			<point x="1082.36" y="1260.08" type="line"/>
+			<point x="1229.9466666667" y="945.4133333333" type="line"/>
+			<point x="1262.7866666667" y="951.9066666667" type="line"/>
+			<point x="1195.3866666667" y="1390.48" type="line"/>
+			<point x="1183.6533333333" y="1390.48" type="line"/>
+			<point x="1100.64" y="1311.24" type="line"/>
+			<point x="1156.52" y="1307.4533333333" type="line"/>
+			<point x="1036.88" y="1343.8533333333"/>
+			<point x="946.7066666667" y="1360"/>
+			<point x="846.16" y="1360" type="curve" smooth="yes"/>
+			<point x="382.4933333333" y="1360"/>
+			<point x="97.76" y="1088.0340524781"/>
+			<point x="97.76" y="665.52" type="curve" smooth="yes"/>
+			<point x="97.76" y="229.4806812652"/>
+			<point x="408.6533333333" y="-20"/>
+			<point x="831.0933333333" y="-20" type="curve" smooth="yes"/>
+			<point x="980.92" y="-20"/>
+			<point x="1132.1466666667" y="10.8666666667"/>
+			<point x="1226.7866666667" y="54.24" type="curve"/>
+			<point x="1266.68" y="335.2" type="line"/>
+			<point x="1230.6" y="335.2" type="line"/>
+			<point x="1099.7466666667" y="56.1733333333" type="line"/>
+			<point x="1157.0266666667" y="111.3466666667" type="line"/>
+			<point x="1060.28" y="62.1866666667"/>
+			<point x="944.72" y="38.04"/>
+		</contour>
+	</outline>
+	<anchor name="UCtop" x="764.2" y="1340"/>
+	<anchor name="bottom" x="769.2666666667" y="0"/>
+	<anchor name="right" x="1246.1333333333" y="0"/>
 </glyph>

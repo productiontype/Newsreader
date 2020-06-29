@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032E" format="2">
-  <unicode hex="032E"/>
-  <anchor x="-130.0" y="0.0" name="_bottom"/>
-  <anchor x="-292.0" y="-530.0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="-228.82666666666665" y="-334.73333333333335" type="curve" smooth="yes"/>
-      <point x="-334.21333333333337" y="-334.73333333333335"/>
-      <point x="-374.44" y="-271.6933333333333"/>
-      <point x="-358.8" y="-89.0" type="curve"/>
-      <point x="-395.38666666666666" y="-89.0" type="line"/>
-      <point x="-428.0133333333333" y="-358.6533333333333"/>
-      <point x="-380.14666666666665" y="-430.0"/>
-      <point x="-245.54666666666668" y="-430.0" type="curve" smooth="yes"/>
-      <point x="-110.57333333333334" y="-430.0"/>
-      <point x="-32.093333333333334" y="-358.6533333333333"/>
-      <point x="100.54666666666667" y="-89.0" type="curve"/>
-      <point x="54.346666666666664" y="-89.0" type="line"/>
-      <point x="-42.46666666666667" y="-276.97333333333336"/>
-      <point x="-123.44" y="-334.73333333333335"/>
-    </contour>
-  </outline>
+	<unicode hex="032E"/>
+	<outline>
+		<contour>
+			<point x="-228.8266666667" y="-334.7333333333" type="curve" smooth="yes"/>
+			<point x="-334.2133333333" y="-334.7333333333"/>
+			<point x="-374.44" y="-271.6933333333"/>
+			<point x="-358.8" y="-89" type="curve"/>
+			<point x="-395.3866666667" y="-89" type="line"/>
+			<point x="-428.0133333333" y="-358.6533333333"/>
+			<point x="-380.1466666667" y="-430"/>
+			<point x="-245.5466666667" y="-430" type="curve" smooth="yes"/>
+			<point x="-110.5733333333" y="-430"/>
+			<point x="-32.0933333333" y="-358.6533333333"/>
+			<point x="100.5466666667" y="-89" type="curve"/>
+			<point x="54.3466666667" y="-89" type="line"/>
+			<point x="-42.4666666667" y="-276.9733333333"/>
+			<point x="-123.44" y="-334.7333333333"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-130" y="0"/>
+	<anchor name="bottom" x="-292" y="-530"/>
 </glyph>

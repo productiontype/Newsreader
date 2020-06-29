@@ -1,18 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030C" format="2">
-  <unicode hex="030C"/>
-  <anchor x="157" y="1024" name="_top"/>
-  <anchor x="291" y="1464" name="top"/>
-  <outline>
-    <contour>
-      <point x="590.0" y="1464.0" type="line"/>
-      <point x="545.0" y="1464.0" type="line"/>
-      <point x="156.0" y="1218.0" type="line"/>
-      <point x="235.0" y="1218.0" type="line"/>
-      <point x="27.0" y="1464.0" type="line"/>
-      <point x="-9.0" y="1464.0" type="line"/>
-      <point x="128.0" y="1138.0" type="line"/>
-      <point x="257.0" y="1138.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="030C"/>
+	<outline>
+		<contour>
+			<point x="590" y="1464" type="line"/>
+			<point x="545" y="1464" type="line"/>
+			<point x="156" y="1218" type="line"/>
+			<point x="235" y="1218" type="line"/>
+			<point x="27" y="1464" type="line"/>
+			<point x="-9" y="1464" type="line"/>
+			<point x="128" y="1138" type="line"/>
+			<point x="257" y="1138" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="157" y="1024"/>
+	<anchor name="top" x="291" y="1464"/>
 </glyph>

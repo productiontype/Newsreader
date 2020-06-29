@@ -1,55 +1,55 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-  <advance width="1505"/>
-  <unicode hex="0104"/>
-  <outline>
-    <contour>
-      <point x="422.0" y="522.0" type="line"/>
-      <point x="1075.0" y="522.0" type="line"/>
-      <point x="1095.0" y="586.0" type="line"/>
-      <point x="443.0" y="586.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1179.0" y="62.0" type="line"/>
-      <point x="1060.0" y="1414.0" type="line"/>
-      <point x="969.0" y="1414.0" type="line"/>
-      <point x="75.0" y="63.0" type="line"/>
-      <point x="-116.0" y="47.0" type="line"/>
-      <point x="-130.0" y="0.0" type="line"/>
-      <point x="322.0" y="0.0" type="line"/>
-      <point x="337.0" y="47.0" type="line"/>
-      <point x="147.0" y="62.0" type="line"/>
-      <point x="1010.0" y="1372.0" type="line"/>
-      <point x="990.0" y="1372.0" type="line"/>
-      <point x="1102.0" y="63.0" type="line"/>
-      <point x="884.0" y="47.0" type="line"/>
-      <point x="869.0" y="0.0" type="line"/>
-      <point x="1351.0" y="0.0" type="line"/>
-      <point x="1365.0" y="47.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="962.0" y="-332.0" type="curve" smooth="yes"/>
-      <point x="962.0" y="-287.0"/>
-      <point x="976.0" y="-239.0"/>
-      <point x="1060.0" y="-130.0" type="curve" smooth="yes"/>
-      <point x="1160.0" y="0.0" type="line"/>
-      <point x="1104.0" y="0.0" type="line"/>
-      <point x="1011.0" y="-116.0" type="line" smooth="yes"/>
-      <point x="904.0" y="-250.0"/>
-      <point x="885.0" y="-301.0"/>
-      <point x="885.0" y="-354.0" type="curve" smooth="yes"/>
-      <point x="885.0" y="-414.0"/>
-      <point x="920.0" y="-465.0"/>
-      <point x="1013.0" y="-465.0" type="curve" smooth="yes"/>
-      <point x="1066.0" y="-465.0"/>
-      <point x="1119.0" y="-449.0"/>
-      <point x="1172.0" y="-411.0" type="curve"/>
-      <point x="1172.0" y="-367.0" type="line"/>
-      <point x="1117.0" y="-398.0"/>
-      <point x="1090.0" y="-406.0"/>
-      <point x="1050.0" y="-406.0" type="curve" smooth="yes"/>
-      <point x="993.0" y="-406.0"/>
-      <point x="962.0" y="-376.0"/>
-    </contour>
-  </outline>
+	<unicode hex="0104"/>
+	<advance width="1505"/>
+	<outline>
+		<contour>
+			<point x="422" y="522" type="line"/>
+			<point x="1075" y="522" type="line"/>
+			<point x="1095" y="586" type="line"/>
+			<point x="443" y="586" type="line"/>
+		</contour>
+		<contour>
+			<point x="1179" y="62" type="line"/>
+			<point x="1060" y="1414" type="line"/>
+			<point x="969" y="1414" type="line"/>
+			<point x="75" y="63" type="line"/>
+			<point x="-116" y="47" type="line"/>
+			<point x="-130" y="0" type="line"/>
+			<point x="322" y="0" type="line"/>
+			<point x="337" y="47" type="line"/>
+			<point x="147" y="62" type="line"/>
+			<point x="1010" y="1372" type="line"/>
+			<point x="990" y="1372" type="line"/>
+			<point x="1102" y="63" type="line"/>
+			<point x="884" y="47" type="line"/>
+			<point x="869" y="0" type="line"/>
+			<point x="1351" y="0" type="line"/>
+			<point x="1365" y="47" type="line"/>
+		</contour>
+		<contour>
+			<point x="962" y="-332" type="curve" smooth="yes"/>
+			<point x="962" y="-287"/>
+			<point x="976" y="-239"/>
+			<point x="1060" y="-130" type="curve" smooth="yes"/>
+			<point x="1160" y="0" type="line"/>
+			<point x="1104" y="0" type="line"/>
+			<point x="1011" y="-116" type="line" smooth="yes"/>
+			<point x="904" y="-250"/>
+			<point x="885" y="-301"/>
+			<point x="885" y="-354" type="curve" smooth="yes"/>
+			<point x="885" y="-414"/>
+			<point x="920" y="-465"/>
+			<point x="1013" y="-465" type="curve" smooth="yes"/>
+			<point x="1066" y="-465"/>
+			<point x="1119" y="-449"/>
+			<point x="1172" y="-411" type="curve"/>
+			<point x="1172" y="-367" type="line"/>
+			<point x="1117" y="-398"/>
+			<point x="1090" y="-406"/>
+			<point x="1050" y="-406" type="curve" smooth="yes"/>
+			<point x="993" y="-406"/>
+			<point x="962" y="-376"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
-  <unicode hex="0301"/>
-  <anchor x="158.84799999999998" y="1037.088" name="_top"/>
-  <anchor x="303.08799999999997" y="1509.656" name="top"/>
-  <outline>
-    <contour>
-      <point x="104.40799999999999" y="1138.0" type="line"/>
-      <point x="259.384" y="1138.0" type="line"/>
-      <point x="652.464" y="1410.7359999999999" type="line"/>
-      <point x="668.5519999999999" y="1464.0" type="line"/>
-      <point x="367.688" y="1464.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0301"/>
+	<outline>
+		<contour>
+			<point x="104.408" y="1138" type="line"/>
+			<point x="259.384" y="1138" type="line"/>
+			<point x="652.464" y="1410.736" type="line"/>
+			<point x="668.552" y="1464" type="line"/>
+			<point x="367.688" y="1464" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="158.848" y="1037.088"/>
+	<anchor name="top" x="303.088" y="1509.656"/>
 </glyph>

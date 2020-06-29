@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three" format="2">
-  <advance width="1240"/>
-  <unicode hex="0033"/>
-  <outline>
-    <component base="three.lf" xOffset="79.60000000000001"/>
-  </outline>
+	<unicode hex="0033"/>
+	<advance width="1240"/>
+	<outline>
+		<component base="three.lf" xOffset="79.6"/>
+	</outline>
 </glyph>

@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-  <advance width="1345"/>
-  <unicode hex="010C"/>
-  <outline>
-    <component base="C"/>
-    <component base="uni030C.case" xOffset="695.0000000000381"/>
-  </outline>
+	<unicode hex="010C"/>
+	<advance width="1344.8"/>
+	<outline>
+		<component base="C"/>
+		<component base="uni030C.case" xOffset="695"/>
+	</outline>
 </glyph>

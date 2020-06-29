@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302_gravecomb.case" format="2">
-  <anchor x="279.0" y="1340.0" name="_UCtop"/>
-  <outline>
-    <contour>
-      <point x="161.16" y="1622.8666666666666" type="line"/>
-      <point x="85.81333333333333" y="1826.96" type="line"/>
-      <point x="-46.22666666666667" y="1826.96" type="line"/>
-      <point x="-46.22666666666667" y="1812.3333333333333" type="line"/>
-      <point x="124.18666666666667" y="1622.8666666666666" type="line"/>
-    </contour>
-    <contour>
-      <point x="70.93333333333334" y="1476.0" type="line"/>
-      <point x="132.88" y="1476.0" type="line"/>
-      <point x="396.41333333333336" y="1643.6" type="line"/>
-      <point x="365.8933333333333" y="1643.6" type="line"/>
-      <point x="525.36" y="1476.0" type="line"/>
-      <point x="571.0666666666667" y="1476.0" type="line"/>
-      <point x="438.8" y="1716.0" type="line"/>
-      <point x="349.5733333333333" y="1716.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="161.16" y="1622.8666666667" type="line"/>
+			<point x="85.8133333333" y="1826.96" type="line"/>
+			<point x="-46.2266666667" y="1826.96" type="line"/>
+			<point x="-46.2266666667" y="1812.3333333333" type="line"/>
+			<point x="124.1866666667" y="1622.8666666667" type="line"/>
+		</contour>
+		<contour>
+			<point x="70.9333333333" y="1476" type="line"/>
+			<point x="132.88" y="1476" type="line"/>
+			<point x="396.4133333333" y="1643.6" type="line"/>
+			<point x="365.8933333333" y="1643.6" type="line"/>
+			<point x="525.36" y="1476" type="line"/>
+			<point x="571.0666666667" y="1476" type="line"/>
+			<point x="438.8" y="1716" type="line"/>
+			<point x="349.5733333333" y="1716" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_UCtop" x="279" y="1340"/>
 </glyph>

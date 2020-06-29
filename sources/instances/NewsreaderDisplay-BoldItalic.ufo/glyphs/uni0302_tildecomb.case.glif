@@ -1,38 +1,38 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302_tildecomb.case" format="2">
-  <anchor x="281.0" y="1430.0" name="_UCtop"/>
-  <outline>
-    <contour>
-      <point x="440.976" y="1669.632" type="line"/>
-      <point x="297.544" y="1669.632" type="line"/>
-      <point x="544.1279999999999" y="1503.0" type="line"/>
-      <point x="597.4399999999999" y="1503.0" type="line"/>
-      <point x="463.976" y="1748.0" type="line"/>
-      <point x="292.024" y="1748.0" type="line"/>
-      <point x="9.615999999999998" y="1503.0" type="line"/>
-      <point x="78.408" y="1503.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="740.144" y="2004.0" type="curve"/>
-      <point x="693.4799999999999" y="2004.0" type="line"/>
-      <point x="644.96" y="1943.92"/>
-      <point x="610.312" y="1917.2160000000001"/>
-      <point x="560.072" y="1917.2160000000001" type="curve" smooth="yes"/>
-      <point x="489.184" y="1917.2160000000001"/>
-      <point x="426.224" y="2010.648"/>
-      <point x="342.11199999999997" y="2010.648" type="curve" smooth="yes"/>
-      <point x="276.224" y="2010.648"/>
-      <point x="220.984" y="1974.24"/>
-      <point x="109.208" y="1796.0" type="curve"/>
-      <point x="155.87199999999999" y="1796.0" type="line"/>
-      <point x="204.04" y="1855.728"/>
-      <point x="238.688" y="1882.7839999999999"/>
-      <point x="288.928" y="1882.7839999999999" type="curve" smooth="yes"/>
-      <point x="361.224" y="1882.7839999999999"/>
-      <point x="422.776" y="1789.352"/>
-      <point x="506.184" y="1789.352" type="curve" smooth="yes"/>
-      <point x="573.4799999999999" y="1789.352"/>
-      <point x="628.72" y="1825.408"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="440.976" y="1669.632" type="line"/>
+			<point x="297.544" y="1669.632" type="line"/>
+			<point x="544.128" y="1503" type="line"/>
+			<point x="597.44" y="1503" type="line"/>
+			<point x="463.976" y="1748" type="line"/>
+			<point x="292.024" y="1748" type="line"/>
+			<point x="9.616" y="1503" type="line"/>
+			<point x="78.408" y="1503" type="line"/>
+		</contour>
+		<contour>
+			<point x="740.144" y="2004" type="curve"/>
+			<point x="693.48" y="2004" type="line"/>
+			<point x="644.96" y="1943.92"/>
+			<point x="610.312" y="1917.216"/>
+			<point x="560.072" y="1917.216" type="curve" smooth="yes"/>
+			<point x="489.184" y="1917.216"/>
+			<point x="426.224" y="2010.648"/>
+			<point x="342.112" y="2010.648" type="curve" smooth="yes"/>
+			<point x="276.224" y="2010.648"/>
+			<point x="220.984" y="1974.24"/>
+			<point x="109.208" y="1796" type="curve"/>
+			<point x="155.872" y="1796" type="line"/>
+			<point x="204.04" y="1855.728"/>
+			<point x="238.688" y="1882.784"/>
+			<point x="288.928" y="1882.784" type="curve" smooth="yes"/>
+			<point x="361.224" y="1882.784"/>
+			<point x="422.776" y="1789.352"/>
+			<point x="506.184" y="1789.352" type="curve" smooth="yes"/>
+			<point x="573.48" y="1789.352"/>
+			<point x="628.72" y="1825.408"/>
+		</contour>
+	</outline>
+	<anchor name="_UCtop" x="281" y="1430"/>
 </glyph>

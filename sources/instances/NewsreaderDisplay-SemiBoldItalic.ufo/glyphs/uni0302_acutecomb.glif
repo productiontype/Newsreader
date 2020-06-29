@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302_acutecomb" format="2">
-  <anchor x="157.0" y="1024.0" name="_top"/>
-  <outline>
-    <contour>
-      <point x="496.904" y="1335.0" type="line"/>
-      <point x="532.7199999999999" y="1335.0" type="line"/>
-      <point x="913.256" y="1588.1519999999998" type="line"/>
-      <point x="915.56" y="1602.0" type="line"/>
-      <point x="689.04" y="1602.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="-118.024" y="1138.0" type="line"/>
-      <point x="-63.696" y="1138.0" type="line"/>
-      <point x="329.12" y="1368.736" type="line"/>
-      <point x="235.28" y="1368.736" type="line"/>
-      <point x="461.088" y="1138.0" type="line"/>
-      <point x="501.752" y="1138.0" type="line"/>
-      <point x="372.38399999999996" y="1464.0" type="line"/>
-      <point x="209.464" y="1464.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="496.904" y="1335" type="line"/>
+			<point x="532.72" y="1335" type="line"/>
+			<point x="913.256" y="1588.152" type="line"/>
+			<point x="915.56" y="1602" type="line"/>
+			<point x="689.04" y="1602" type="line"/>
+		</contour>
+		<contour>
+			<point x="-118.024" y="1138" type="line"/>
+			<point x="-63.696" y="1138" type="line"/>
+			<point x="329.12" y="1368.736" type="line"/>
+			<point x="235.28" y="1368.736" type="line"/>
+			<point x="461.088" y="1138" type="line"/>
+			<point x="501.752" y="1138" type="line"/>
+			<point x="372.384" y="1464" type="line"/>
+			<point x="209.464" y="1464" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="157" y="1024"/>
 </glyph>

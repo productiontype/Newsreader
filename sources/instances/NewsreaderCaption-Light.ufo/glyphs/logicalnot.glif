@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="2">
-  <advance width="1140"/>
-  <unicode hex="00AC"/>
-  <outline>
-    <contour>
-      <point x="144.37333333333333" y="759.92" type="line"/>
-      <point x="144.37333333333333" y="658.5733333333334" type="line"/>
-      <point x="988.4" y="658.5733333333334" type="line"/>
-      <point x="988.4" y="759.92" type="line"/>
-    </contour>
-    <contour>
-      <point x="988.4" y="712.5866666666667" type="line"/>
-      <point x="887.0533333333334" y="712.5866666666667" type="line"/>
-      <point x="887.0533333333334" y="255.68" type="line"/>
-      <point x="988.4" y="255.68" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="00AC"/>
+	<advance width="1140"/>
+	<outline>
+		<contour>
+			<point x="144.3733333333" y="759.92" type="line"/>
+			<point x="144.3733333333" y="658.5733333333" type="line"/>
+			<point x="988.4" y="658.5733333333" type="line"/>
+			<point x="988.4" y="759.92" type="line"/>
+		</contour>
+		<contour>
+			<point x="988.4" y="712.5866666667" type="line"/>
+			<point x="887.0533333333" y="712.5866666667" type="line"/>
+			<point x="887.0533333333" y="255.68" type="line"/>
+			<point x="988.4" y="255.68" type="line"/>
+		</contour>
+	</outline>
 </glyph>

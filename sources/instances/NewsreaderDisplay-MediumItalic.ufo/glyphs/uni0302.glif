@@ -1,18 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302" format="2">
-  <unicode hex="0302"/>
-  <anchor x="157.0" y="1024.0" name="_top"/>
-  <anchor x="291.0" y="1464.0" name="top"/>
-  <outline>
-    <contour>
-      <point x="-112.2" y="1138.0" type="line"/>
-      <point x="-62.800000000000004" y="1138.0" type="line"/>
-      <point x="328.0" y="1376.8000000000002" type="line"/>
-      <point x="242.0" y="1376.8000000000002" type="line"/>
-      <point x="458.4" y="1138.0" type="line"/>
-      <point x="496.59999999999997" y="1138.0" type="line"/>
-      <point x="363.2" y="1464.0" type="line"/>
-      <point x="218.2" y="1464.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0302"/>
+	<outline>
+		<contour>
+			<point x="-112.2" y="1138" type="line"/>
+			<point x="-62.8" y="1138" type="line"/>
+			<point x="328" y="1376.8" type="line"/>
+			<point x="242" y="1376.8" type="line"/>
+			<point x="458.4" y="1138" type="line"/>
+			<point x="496.6" y="1138" type="line"/>
+			<point x="363.2" y="1464" type="line"/>
+			<point x="218.2" y="1464" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="157" y="1024"/>
+	<anchor name="top" x="291" y="1464"/>
 </glyph>

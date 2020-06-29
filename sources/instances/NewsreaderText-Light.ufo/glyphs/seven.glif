@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="2">
-  <advance width="1100"/>
-  <unicode hex="0037"/>
-  <outline>
-    <component base="seven.lf" xOffset="90.90666666666667"/>
-  </outline>
+	<unicode hex="0037"/>
+	<advance width="1100"/>
+	<outline>
+		<component base="seven.lf" xOffset="90.9066666667"/>
+	</outline>
 </glyph>

@@ -1,25 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="736"/>
-  <unicode hex="2020"/>
-  <outline>
-    <contour>
-      <point x="589.0" y="1190.0" type="line"/>
-      <point x="722.0" y="1464.0" type="line"/>
-      <point x="583.0" y="1464.0" type="line"/>
-      <point x="549.0" y="1190.0" type="line"/>
-      <point x="413.0" y="895.0" type="line"/>
-      <point x="390.0" y="627.0" type="line"/>
-      <point x="403.0" y="627.0" type="line"/>
-      <point x="544.0" y="895.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="575.0" y="1211.0" type="line"/>
-      <point x="326.0" y="1260.0" type="line"/>
-      <point x="283.0" y="1119.0" type="line"/>
-      <point x="563.0" y="1169.0" type="line"/>
-      <point x="815.0" y="1119.0" type="line"/>
-      <point x="858.0" y="1260.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="2020"/>
+	<advance width="736"/>
+	<outline>
+		<contour>
+			<point x="589" y="1190" type="line"/>
+			<point x="722" y="1464" type="line"/>
+			<point x="583" y="1464" type="line"/>
+			<point x="549" y="1190" type="line"/>
+			<point x="413" y="895" type="line"/>
+			<point x="390" y="627" type="line"/>
+			<point x="403" y="627" type="line"/>
+			<point x="544" y="895" type="line"/>
+		</contour>
+		<contour>
+			<point x="575" y="1211" type="line"/>
+			<point x="326" y="1260" type="line"/>
+			<point x="283" y="1119" type="line"/>
+			<point x="563" y="1169" type="line"/>
+			<point x="815" y="1119" type="line"/>
+			<point x="858" y="1260" type="line"/>
+		</contour>
+	</outline>
 </glyph>

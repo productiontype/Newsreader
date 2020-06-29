@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306_gravecomb" format="2">
-  <anchor x="130.0" y="852.0" name="_top"/>
-  <outline>
-    <contour>
-      <point x="243.34666666666666" y="1189.0" type="line"/>
-      <point x="185.14666666666665" y="1476.0" type="line"/>
-      <point x="64.69333333333333" y="1476.0" type="line"/>
-      <point x="64.69333333333333" y="1458.24" type="line"/>
-      <point x="205.89333333333335" y="1189.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="186.6" y="1049.0266666666666" type="curve" smooth="yes"/>
-      <point x="81.74666666666667" y="1049.0266666666666"/>
-      <point x="44.24" y="1097.56"/>
-      <point x="49.88" y="1206.0" type="curve"/>
-      <point x="13.920000000000002" y="1206.0" type="line"/>
-      <point x="-2.5733333333333306" y="1009.3333333333334"/>
-      <point x="50.92" y="957.0"/>
-      <point x="171.25333333333333" y="957.0" type="curve" smooth="yes"/>
-      <point x="291.58666666666664" y="957.0"/>
-      <point x="353.5733333333333" y="999.6266666666667"/>
-      <point x="463.08" y="1206.0" type="curve"/>
-      <point x="418.88" y="1206.0" type="line"/>
-      <point x="354.3466666666667" y="1089.4266666666667"/>
-      <point x="288.2133333333333" y="1049.0266666666666"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="243.3466666667" y="1189" type="line"/>
+			<point x="185.1466666667" y="1476" type="line"/>
+			<point x="64.6933333333" y="1476" type="line"/>
+			<point x="64.6933333333" y="1458.24" type="line"/>
+			<point x="205.8933333333" y="1189" type="line"/>
+		</contour>
+		<contour>
+			<point x="186.6" y="1049.0266666667" type="curve" smooth="yes"/>
+			<point x="81.7466666667" y="1049.0266666667"/>
+			<point x="44.24" y="1097.56"/>
+			<point x="49.88" y="1206" type="curve"/>
+			<point x="13.92" y="1206" type="line"/>
+			<point x="-2.5733333333" y="1009.3333333333"/>
+			<point x="50.92" y="957"/>
+			<point x="171.2533333333" y="957" type="curve" smooth="yes"/>
+			<point x="291.5866666667" y="957"/>
+			<point x="353.5733333333" y="999.6266666667"/>
+			<point x="463.08" y="1206" type="curve"/>
+			<point x="418.88" y="1206" type="line"/>
+			<point x="354.3466666667" y="1089.4266666667"/>
+			<point x="288.2133333333" y="1049.0266666667"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="130" y="852"/>
 </glyph>

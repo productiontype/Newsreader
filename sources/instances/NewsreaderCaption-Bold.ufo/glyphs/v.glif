@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="2">
-  <advance width="1423"/>
-  <unicode hex="0076"/>
-  <anchor x="757.264" y="1036.96" name="top"/>
-  <anchor x="720.64" y="0.0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="1280.456" y="894.408" type="line"/>
-      <point x="1381.48" y="925.224" type="line"/>
-      <point x="1381.48" y="1036.96" type="line"/>
-      <point x="920.32" y="1036.96" type="line"/>
-      <point x="920.32" y="925.224" type="line"/>
-      <point x="1031.848" y="891.352" type="line"/>
-      <point x="761.952" y="129.592" type="line"/>
-      <point x="844.8480000000001" y="129.59199999999998" type="line"/>
-      <point x="542.968" y="895.1279999999999" type="line"/>
-      <point x="664.088" y="925.224" type="line"/>
-      <point x="664.088" y="1036.96" type="line"/>
-      <point x="13.52" y="1036.96" type="line"/>
-      <point x="13.52" y="927.168" type="line"/>
-      <point x="141.304" y="880.0" type="line"/>
-      <point x="516.184" y="-7.039999999999999" type="line"/>
-      <point x="922.616" y="-7.039999999999999" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0076"/>
+	<advance width="1422.872"/>
+	<outline>
+		<contour>
+			<point x="1280.456" y="894.408" type="line"/>
+			<point x="1381.48" y="925.224" type="line"/>
+			<point x="1381.48" y="1036.96" type="line"/>
+			<point x="920.32" y="1036.96" type="line"/>
+			<point x="920.32" y="925.224" type="line"/>
+			<point x="1031.848" y="891.352" type="line"/>
+			<point x="761.952" y="129.592" type="line"/>
+			<point x="844.848" y="129.592" type="line"/>
+			<point x="542.968" y="895.128" type="line"/>
+			<point x="664.088" y="925.224" type="line"/>
+			<point x="664.088" y="1036.96" type="line"/>
+			<point x="13.52" y="1036.96" type="line"/>
+			<point x="13.52" y="927.168" type="line"/>
+			<point x="141.304" y="880" type="line"/>
+			<point x="516.184" y="-7.04" type="line"/>
+			<point x="922.616" y="-7.04" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="757.264" y="1036.96"/>
+	<anchor name="bottom" x="720.64" y="0"/>
 </glyph>

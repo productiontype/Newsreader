@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="2">
-  <advance width="1330"/>
-  <unicode hex="0023"/>
-  <outline>
-    <component base="numbersign.lf" xOffset="1.9519999999999982"/>
-  </outline>
+	<unicode hex="0023"/>
+	<advance width="1329.6"/>
+	<outline>
+		<component base="numbersign.lf" xOffset="1.952"/>
+	</outline>
 </glyph>

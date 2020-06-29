@@ -1,43 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="1375"/>
-  <unicode hex="004B"/>
-  <anchor x="676.0" y="1430.0" name="UCtop"/>
-  <anchor x="706.0" y="0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="1209.0" y="40.0" type="line"/>
-      <point x="520.0" y="778.0" type="line"/>
-      <point x="481.0" y="728.0" type="line"/>
-      <point x="1115.0" y="1391.0" type="line"/>
-      <point x="1299.0" y="1416.0" type="line"/>
-      <point x="1299.0" y="1430.0" type="line"/>
-      <point x="888.0" y="1430.0" type="line"/>
-      <point x="888.0" y="1416.0" type="line"/>
-      <point x="1071.0" y="1391.0" type="line"/>
-      <point x="476.0" y="763.0" type="line"/>
-      <point x="302.0" y="763.0" type="line"/>
-      <point x="302.0" y="733.0" type="line"/>
-      <point x="463.0" y="733.0" type="line"/>
-      <point x="1109.0" y="40.0" type="line"/>
-      <point x="925.0" y="12.0" type="line"/>
-      <point x="925.0" y="0.0" type="line"/>
-      <point x="1392.0" y="0.0" type="line"/>
-      <point x="1392.0" y="12.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="325.0" y="1390.0" type="line"/>
-      <point x="508.0" y="1418.0" type="line"/>
-      <point x="508.0" y="1430.0" type="line"/>
-      <point x="61.0" y="1430.0" type="line"/>
-      <point x="61.0" y="1418.0" type="line"/>
-      <point x="244.0" y="1390.0" type="line"/>
-      <point x="244.0" y="40.0" type="line"/>
-      <point x="60.0" y="12.0" type="line"/>
-      <point x="60.0" y="0.0" type="line"/>
-      <point x="508.0" y="0.0" type="line"/>
-      <point x="508.0" y="12.0" type="line"/>
-      <point x="325.0" y="40.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="004B"/>
+	<advance width="1375"/>
+	<outline>
+		<contour>
+			<point x="1209" y="40" type="line"/>
+			<point x="520" y="778" type="line"/>
+			<point x="481" y="728" type="line"/>
+			<point x="1115" y="1391" type="line"/>
+			<point x="1299" y="1416" type="line"/>
+			<point x="1299" y="1430" type="line"/>
+			<point x="888" y="1430" type="line"/>
+			<point x="888" y="1416" type="line"/>
+			<point x="1071" y="1391" type="line"/>
+			<point x="476" y="763" type="line"/>
+			<point x="302" y="763" type="line"/>
+			<point x="302" y="733" type="line"/>
+			<point x="463" y="733" type="line"/>
+			<point x="1109" y="40" type="line"/>
+			<point x="925" y="12" type="line"/>
+			<point x="925" y="0" type="line"/>
+			<point x="1392" y="0" type="line"/>
+			<point x="1392" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="325" y="1390" type="line"/>
+			<point x="508" y="1418" type="line"/>
+			<point x="508" y="1430" type="line"/>
+			<point x="61" y="1430" type="line"/>
+			<point x="61" y="1418" type="line"/>
+			<point x="244" y="1390" type="line"/>
+			<point x="244" y="40" type="line"/>
+			<point x="60" y="12" type="line"/>
+			<point x="60" y="0" type="line"/>
+			<point x="508" y="0" type="line"/>
+			<point x="508" y="12" type="line"/>
+			<point x="325" y="40" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="UCtop" x="676" y="1430"/>
+	<anchor name="bottom" x="706" y="0"/>
 </glyph>

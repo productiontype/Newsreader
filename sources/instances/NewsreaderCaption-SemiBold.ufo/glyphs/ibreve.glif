@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve" format="2">
-  <advance width="767"/>
-  <unicode hex="012D"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="uni0306" xOffset="366.096"/>
-  </outline>
+	<unicode hex="012D"/>
+	<advance width="767.32"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="uni0306" xOffset="366.096"/>
+	</outline>
 </glyph>

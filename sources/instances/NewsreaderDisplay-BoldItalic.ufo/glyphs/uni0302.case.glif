@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302.case" format="2">
-  <anchor x="281.0" y="1430.0" name="_UCtop"/>
-  <anchor x="415.0" y="1870.0" name="UCtop"/>
-  <outline>
-    <contour>
-      <point x="0.15199999999999747" y="1544.0" type="line"/>
-      <point x="58.352000000000004" y="1544.0" type="line"/>
-      <point x="453.18399999999997" y="1766.6719999999998" type="line"/>
-      <point x="351.50399999999996" y="1766.6719999999998" type="line"/>
-      <point x="586.72" y="1544.0" type="line"/>
-      <point x="630.904" y="1544.0" type="line"/>
-      <point x="505.568" y="1870.0" type="line"/>
-      <point x="324.728" y="1870.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="0.152" y="1544" type="line"/>
+			<point x="58.352" y="1544" type="line"/>
+			<point x="453.184" y="1766.672" type="line"/>
+			<point x="351.504" y="1766.672" type="line"/>
+			<point x="586.72" y="1544" type="line"/>
+			<point x="630.904" y="1544" type="line"/>
+			<point x="505.568" y="1870" type="line"/>
+			<point x="324.728" y="1870" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_UCtop" x="281" y="1430"/>
+	<anchor name="UCtop" x="415" y="1870"/>
 </glyph>

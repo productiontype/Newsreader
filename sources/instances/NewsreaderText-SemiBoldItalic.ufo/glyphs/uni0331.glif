@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0331" format="2">
-  <unicode hex="0331"/>
-  <anchor x="-131.272" y="0.0" name="_bottom"/>
-  <anchor x="-293.272" y="-530.0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="-476.23199999999997" y="-312.632" type="line"/>
-      <point x="24.631999999999998" y="-312.632" type="line"/>
-      <point x="61.144" y="-193.128" type="line"/>
-      <point x="-439.72" y="-193.128" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0331"/>
+	<outline>
+		<contour>
+			<point x="-476.232" y="-312.632" type="line"/>
+			<point x="24.632" y="-312.632" type="line"/>
+			<point x="61.144" y="-193.128" type="line"/>
+			<point x="-439.72" y="-193.128" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-131.272" y="0"/>
+	<anchor name="bottom" x="-293.272" y="-530"/>
 </glyph>

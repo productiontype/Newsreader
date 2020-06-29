@@ -1,26 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0312" format="2">
-  <unicode hex="0312"/>
-  <anchor x="130.0" y="852.0" name="_top"/>
-  <anchor x="280.61333333333334" y="1347.4666666666667" name="top"/>
-  <outline>
-    <contour>
-      <point x="296.44" y="1086.1733333333334" type="curve" smooth="yes"/>
-      <point x="296.44" y="1107.7866666666666"/>
-      <point x="210.6" y="1111.16"/>
-      <point x="210.6" y="1166.9333333333334" type="curve" smooth="yes"/>
-      <point x="210.6" y="1216.5866666666666"/>
-      <point x="249.13333333333333" y="1273.8666666666666"/>
-      <point x="413.3066666666667" y="1320.6666666666667" type="curve"/>
-      <point x="415.17333333333335" y="1360.0" type="line"/>
-      <point x="187.44" y="1300.6933333333334"/>
-      <point x="116.45333333333333" y="1196.8133333333333"/>
-      <point x="116.45333333333333" y="1097.2133333333334" type="curve" smooth="yes"/>
-      <point x="116.45333333333333" y="1032.48"/>
-      <point x="150.05333333333334" y="999.0"/>
-      <point x="201.76" y="999.0" type="curve" smooth="yes"/>
-      <point x="255.36" y="999.0"/>
-      <point x="296.44" y="1036.0933333333332"/>
-    </contour>
-  </outline>
+	<unicode hex="0312"/>
+	<outline>
+		<contour>
+			<point x="296.44" y="1086.1733333333" type="curve" smooth="yes"/>
+			<point x="296.44" y="1107.7866666667"/>
+			<point x="210.6" y="1111.16"/>
+			<point x="210.6" y="1166.9333333333" type="curve" smooth="yes"/>
+			<point x="210.6" y="1216.5866666667"/>
+			<point x="249.1333333333" y="1273.8666666667"/>
+			<point x="413.3066666667" y="1320.6666666667" type="curve"/>
+			<point x="415.1733333333" y="1360" type="line"/>
+			<point x="187.44" y="1300.6933333333"/>
+			<point x="116.4533333333" y="1196.8133333333"/>
+			<point x="116.4533333333" y="1097.2133333333" type="curve" smooth="yes"/>
+			<point x="116.4533333333" y="1032.48"/>
+			<point x="150.0533333333" y="999"/>
+			<point x="201.76" y="999" type="curve" smooth="yes"/>
+			<point x="255.36" y="999"/>
+			<point x="296.44" y="1036.0933333333"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="130" y="852"/>
+	<anchor name="top" x="280.6133333333" y="1347.4666666667"/>
 </glyph>

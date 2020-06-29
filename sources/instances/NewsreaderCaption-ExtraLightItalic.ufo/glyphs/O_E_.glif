@@ -1,54 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="2">
-  <advance width="2216"/>
-  <unicode hex="0152"/>
-  <outline>
-    <contour>
-      <point x="1424.0" y="1414.0" type="line"/>
-      <point x="992.0" y="0.0" type="line"/>
-      <point x="1068.0" y="0.0" type="line"/>
-      <point x="1500.0" y="1414.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1079.0" y="1414.0" type="line" smooth="yes"/>
-      <point x="530.0" y="1414.0"/>
-      <point x="180.0" y="1043.0"/>
-      <point x="180.0" y="506.0" type="curve" smooth="yes"/>
-      <point x="180.0" y="151.0"/>
-      <point x="347.0" y="0.0"/>
-      <point x="757.0" y="0.0" type="curve" smooth="yes"/>
-      <point x="1814.0" y="0.0" type="line"/>
-      <point x="1805.0" y="-72.0" type="line"/>
-      <point x="1867.0" y="-72.0" type="line"/>
-      <point x="2074.0" y="380.0" type="line"/>
-      <point x="2018.0" y="380.0" type="line"/>
-      <point x="1818.0" y="42.0" type="line"/>
-      <point x="1895.0" y="64.0" type="line"/>
-      <point x="806.0" y="64.0" type="line" smooth="yes"/>
-      <point x="390.0" y="64.0"/>
-      <point x="264.0" y="208.0"/>
-      <point x="264.0" y="510.0" type="curve" smooth="yes"/>
-      <point x="264.0" y="1034.0"/>
-      <point x="597.0" y="1350.0"/>
-      <point x="1065.0" y="1350.0" type="curve" smooth="yes"/>
-      <point x="2268.0" y="1350.0" type="line"/>
-      <point x="2242.0" y="1402.0" type="line"/>
-      <point x="2168.0" y="1068.0" type="line"/>
-      <point x="2226.0" y="1068.0" type="line"/>
-      <point x="2360.0" y="1484.0" type="line"/>
-      <point x="2315.0" y="1484.0" type="line"/>
-      <point x="2255.0" y="1414.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1743.0" y="477.0" type="line"/>
-      <point x="1821.0" y="732.0" type="line"/>
-      <point x="1899.0" y="988.0" type="line"/>
-      <point x="1851.0" y="988.0" type="line"/>
-      <point x="1754.0" y="766.0" type="line"/>
-      <point x="1288.0" y="766.0" type="line"/>
-      <point x="1267.0" y="702.0" type="line"/>
-      <point x="1735.0" y="702.0" type="line"/>
-      <point x="1695.0" y="477.0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0152"/>
+	<advance width="2216"/>
+	<outline>
+		<contour>
+			<point x="1424" y="1414" type="line"/>
+			<point x="992" y="0" type="line"/>
+			<point x="1068" y="0" type="line"/>
+			<point x="1500" y="1414" type="line"/>
+		</contour>
+		<contour>
+			<point x="1079" y="1414" type="line" smooth="yes"/>
+			<point x="530" y="1414"/>
+			<point x="180" y="1043"/>
+			<point x="180" y="506" type="curve" smooth="yes"/>
+			<point x="180" y="151"/>
+			<point x="347" y="0"/>
+			<point x="757" y="0" type="curve" smooth="yes"/>
+			<point x="1814" y="0" type="line"/>
+			<point x="1805" y="-72" type="line"/>
+			<point x="1867" y="-72" type="line"/>
+			<point x="2074" y="380" type="line"/>
+			<point x="2018" y="380" type="line"/>
+			<point x="1818" y="42" type="line"/>
+			<point x="1895" y="64" type="line"/>
+			<point x="806" y="64" type="line" smooth="yes"/>
+			<point x="390" y="64"/>
+			<point x="264" y="208"/>
+			<point x="264" y="510" type="curve" smooth="yes"/>
+			<point x="264" y="1034"/>
+			<point x="597" y="1350"/>
+			<point x="1065" y="1350" type="curve" smooth="yes"/>
+			<point x="2268" y="1350" type="line"/>
+			<point x="2242" y="1402" type="line"/>
+			<point x="2168" y="1068" type="line"/>
+			<point x="2226" y="1068" type="line"/>
+			<point x="2360" y="1484" type="line"/>
+			<point x="2315" y="1484" type="line"/>
+			<point x="2255" y="1414" type="line"/>
+		</contour>
+		<contour>
+			<point x="1743" y="477" type="line"/>
+			<point x="1821" y="732" type="line"/>
+			<point x="1899" y="988" type="line"/>
+			<point x="1851" y="988" type="line"/>
+			<point x="1754" y="766" type="line"/>
+			<point x="1288" y="766" type="line"/>
+			<point x="1267" y="702" type="line"/>
+			<point x="1735" y="702" type="line"/>
+			<point x="1695" y="477" type="line"/>
+		</contour>
+	</outline>
 </glyph>

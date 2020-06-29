@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="0.0" y="1340.0" name="_UCtop"/>
-  <anchor x="0.0" y="1716.0" name="UCtop"/>
-  <outline>
-    <contour>
-      <point x="41.936" y="1476.0" type="line"/>
-      <point x="-64.608" y="1716.0" type="line"/>
-      <point x="-328.15999999999997" y="1716.0" type="line"/>
-      <point x="-328.15999999999997" y="1687.4" type="line"/>
-      <point x="-41.928" y="1476.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="41.936" y="1476" type="line"/>
+			<point x="-64.608" y="1716" type="line"/>
+			<point x="-328.16" y="1716" type="line"/>
+			<point x="-328.16" y="1687.4" type="line"/>
+			<point x="-41.928" y="1476" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_UCtop" x="0" y="1340"/>
+	<anchor name="UCtop" x="0" y="1716"/>
 </glyph>

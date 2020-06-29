@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302_gravecomb" format="2">
-  <anchor x="0" y="1024" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-297.0" y="1335.0" type="line"/>
-      <point x="-432.0" y="1602.0" type="line"/>
-      <point x="-672.0" y="1602.0" type="line"/>
-      <point x="-672.0" y="1563.0" type="line"/>
-      <point x="-414.0" y="1335.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="28.0" y="1357.0" type="line"/>
-      <point x="-28.0" y="1357.0" type="line"/>
-      <point x="192.0" y="1138.0" type="line"/>
-      <point x="355.0" y="1138.0" type="line"/>
-      <point x="95.0" y="1464.0" type="line"/>
-      <point x="-95.0" y="1464.0" type="line"/>
-      <point x="-355.0" y="1138.0" type="line"/>
-      <point x="-192.0" y="1138.0" type="line"/>
-    </contour>
-  </outline>
+	<outline>
+		<contour>
+			<point x="-297" y="1335" type="line"/>
+			<point x="-432" y="1602" type="line"/>
+			<point x="-672" y="1602" type="line"/>
+			<point x="-672" y="1563" type="line"/>
+			<point x="-414" y="1335" type="line"/>
+		</contour>
+		<contour>
+			<point x="28" y="1357" type="line"/>
+			<point x="-28" y="1357" type="line"/>
+			<point x="192" y="1138" type="line"/>
+			<point x="355" y="1138" type="line"/>
+			<point x="95" y="1464" type="line"/>
+			<point x="-95" y="1464" type="line"/>
+			<point x="-355" y="1138" type="line"/>
+			<point x="-192" y="1138" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1024"/>
 </glyph>

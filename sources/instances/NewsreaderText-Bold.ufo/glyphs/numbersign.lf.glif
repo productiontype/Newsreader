@@ -1,30 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign.lf" format="2">
-  <advance width="1239"/>
-  <outline>
-    <contour>
-      <point x="696.144" y="0.0" type="line"/>
-      <point x="994.144" y="1340.0" type="line"/>
-      <point x="885.096" y="1340.0" type="line"/>
-      <point x="587.096" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="362.472" y="0.0" type="line"/>
-      <point x="660.472" y="1340.0" type="line"/>
-      <point x="552.072" y="1340.0" type="line"/>
-      <point x="254.72" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1077.032" y="572.0" type="line"/>
-      <point x="67.168" y="572.0" type="line"/>
-      <point x="67.168" y="470.672" type="line"/>
-      <point x="1077.032" y="470.672" type="line"/>
-    </contour>
-    <contour>
-      <point x="1170.784" y="875.328" type="line"/>
-      <point x="160.92000000000002" y="875.328" type="line"/>
-      <point x="160.92000000000002" y="774.0" type="line"/>
-      <point x="1170.784" y="774.0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="1238.6"/>
+	<outline>
+		<contour>
+			<point x="696.144" y="0" type="line"/>
+			<point x="994.144" y="1340" type="line"/>
+			<point x="885.096" y="1340" type="line"/>
+			<point x="587.096" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="362.472" y="0" type="line"/>
+			<point x="660.472" y="1340" type="line"/>
+			<point x="552.072" y="1340" type="line"/>
+			<point x="254.72" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1077.032" y="572" type="line"/>
+			<point x="67.168" y="572" type="line"/>
+			<point x="67.168" y="470.672" type="line"/>
+			<point x="1077.032" y="470.672" type="line"/>
+		</contour>
+		<contour>
+			<point x="1170.784" y="875.328" type="line"/>
+			<point x="160.92" y="875.328" type="line"/>
+			<point x="160.92" y="774" type="line"/>
+			<point x="1170.784" y="774" type="line"/>
+		</contour>
+	</outline>
 </glyph>
