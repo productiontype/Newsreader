@@ -15,7 +15,7 @@
       Caption Light Italic
     </namerecord>
     <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Caption Regular Italic
+      Caption Italic
     </namerecord>
     <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Caption Medium Italic
@@ -36,7 +36,7 @@
       Text Light Italic
     </namerecord>
     <namerecord nameID="267" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Text Regular Italic
+      Text Italic
     </namerecord>
     <namerecord nameID="268" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Text Medium Italic
@@ -57,7 +57,7 @@
       Display Light Italic
     </namerecord>
     <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Display Regular Italic
+      Display Italic
     </namerecord>
     <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Display Medium Italic
@@ -132,7 +132,7 @@
       Caption Light Italic
     </namerecord>
     <namerecord nameID="260" platformID="3" platEncID="1" langID="0x409">
-      Caption Regular Italic
+      Caption Italic
     </namerecord>
     <namerecord nameID="261" platformID="3" platEncID="1" langID="0x409">
       Caption Medium Italic
@@ -153,7 +153,7 @@
       Text Light Italic
     </namerecord>
     <namerecord nameID="267" platformID="3" platEncID="1" langID="0x409">
-      Text Regular Italic
+      Text Italic
     </namerecord>
     <namerecord nameID="268" platformID="3" platEncID="1" langID="0x409">
       Text Medium Italic
@@ -174,7 +174,7 @@
       Display Light Italic
     </namerecord>
     <namerecord nameID="274" platformID="3" platEncID="1" langID="0x409">
-      Display Regular Italic
+      Display Italic
     </namerecord>
     <namerecord nameID="275" platformID="3" platEncID="1" langID="0x409">
       Display Medium Italic
@@ -192,7 +192,7 @@
       Italic
     </namerecord>
     <namerecord nameID="280" platformID="3" platEncID="1" langID="0x409">
-      Upright
+      Italic
     </namerecord>
   </name>
 
