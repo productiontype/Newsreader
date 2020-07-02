@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ntilde" format="2">
-	<unicode hex="00F1"/>
-	<advance width="1012"/>
-	<outline>
-		<component base="n"/>
-		<component base="tildecomb" xOffset="509.0000000001"/>
-	</outline>
-</glyph>
