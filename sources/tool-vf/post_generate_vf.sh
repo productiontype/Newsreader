@@ -55,3 +55,10 @@ do
         fi
     done
 done
+
+# Fix name tables
+for i in $path/*.ttf; do
+    python ./tool-vf/fixNameTable.py $i
+done
+
+
