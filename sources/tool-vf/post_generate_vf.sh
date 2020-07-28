@@ -63,3 +63,8 @@ for i in $path/*.ttf; do
 done
 
 
+# Remove unwanted fvar instances
+for i in $path/*.ttf; do
+	echo "Remove unwanted fvar instances"
+	python ./tool-vf/removeUnwantedVFInstances.py $i
+done
