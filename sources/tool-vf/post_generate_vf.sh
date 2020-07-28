@@ -11,13 +11,6 @@ echo "Adding STAT table to Newsreader-italics-VF.ttf ..."
 statmake --designspace NewsreaderVF-italics.designspace "$path/Newsreader-Italic[opsz,wght].ttf"
 
 
-# Hinting
-for i in $path/*.ttf; do
-    echo "Hinting $i ..."
-    tool-vf/ttfautohint-vf --stem-width-mode nnn $i ${i}.hinted
-done
-for i in $path/*.hinted ; do mv $i ${i//.hinted/} ; done
-
 # Add DSIG table
 gftools-fix-dsig.py $path/*.ttf -a -f
 
@@ -34,7 +27,7 @@ for i in $path/*.fix ; do mv $i $path/$(basename -s .fix $i) ; done
 # Fix PPEM rounding
 for i in $path/*.ttf; do
     echo "Setting $i PPEM rounding ..."
-    gftools-fix-hinting.py $i
+    gftools fix-nonhinting $i $i.fix
 done
 for i in $path/*.fix ; do mv $i $path/$(basename -s .fix $i) ; done
 
