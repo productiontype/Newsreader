@@ -36,6 +36,7 @@ for i in $path/*.ttf; do
     echo "Setting $i PPEM rounding ..."
     gftools-fix-unwanted-tables.py $i
 done
+rm $path/*backup*.ttf
 
 # Fix name table
 for i in ${path}/*.ttf
