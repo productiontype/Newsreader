@@ -15,5 +15,5 @@ echo "Post generate vf"
 echo $PWD
 sh tool-vf/post_generate_vf.sh
 
-echo "Export webfonts"
-sh tool-vf/export-webfont.sh
+# echo "Export webfonts"
+# sh tool-vf/export-webfont.sh
