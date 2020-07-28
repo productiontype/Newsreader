@@ -155,7 +155,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text ExtraLight" filename="instances/Newsreader-TextExtraLight.ufo" styleMapFamilyName="Newsreader Text ExtraLight" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="ExtraLight" filename="instances/Newsreader-TextExtraLight.ufo" styleMapFamilyName="Newsreader Text ExtraLight" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
@@ -163,7 +163,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text Light" filename="instances/Newsreader-TextLight.ufo" styleMapFamilyName="Newsreader Text Light" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="Light" filename="instances/Newsreader-TextLight.ufo" styleMapFamilyName="Newsreader Text Light" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="212"/>
@@ -171,7 +171,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text Regular" filename="instances/Newsreader-TextRegular.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="Regular" filename="instances/Newsreader-TextRegular.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="400"/>
@@ -179,7 +179,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text Medium" filename="instances/Newsreader-TextMedium.ufo" styleMapFamilyName="Newsreader Text Medium" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="Medium" filename="instances/Newsreader-TextMedium.ufo" styleMapFamilyName="Newsreader Text Medium" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="500"/>
@@ -187,7 +187,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text SemiBold" filename="instances/Newsreader-TextSemiBold.ufo" styleMapFamilyName="Newsreader Text SemiBold" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="SemiBold" filename="instances/Newsreader-TextSemiBold.ufo" styleMapFamilyName="Newsreader Text SemiBold" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="612"/>
@@ -195,7 +195,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text Bold" filename="instances/Newsreader-TextBold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="bold">
+    <instance familyname="Newsreader" stylename="Bold" filename="instances/Newsreader-TextBold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="bold">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="724"/>
@@ -203,7 +203,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Text ExtraBold" filename="instances/Newsreader-TextExtraBold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
+    <instance familyname="Newsreader" stylename="ExtraBold" filename="instances/Newsreader-TextExtraBold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
