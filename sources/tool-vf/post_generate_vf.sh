@@ -38,25 +38,6 @@ for i in $path/*.ttf; do
 done
 rm $path/*backup*.ttf
 
-# Fix name table
-for i in ${path}/*.ttf
-do
-    for j in ./tool-vf/name/*.ttx; do
-        temp_ttf=`basename $i`
-        temp_ttx=`basename $j`
-
-        ttf_file="${temp_ttf%.ttf}"
-        ttx_file="${temp_ttx%.ttx}"
-
-        if [ $ttf_file = $ttx_file ]
-        then
-            echo "Fix name table for $temp_ttf" 
-            ttx -d $path -f -m $i $j
-
-        fi
-    done
-done
-
 # Fix name tables
 for i in $path/*.ttf; do
     python ./tool-vf/fixNameTable.py $i

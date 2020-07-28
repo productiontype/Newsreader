@@ -1,4 +1,7 @@
-import sys, re, unicodedata, os
+import sys
+import re
+import unicodedata
+import os
 import fontTools.ttLib
 from fontbakery.parse import style_parse
 
@@ -33,9 +36,11 @@ def return_font_file_full_path(folder, filename):
     font_file_full_path = f"{folder}/{filename}"
     return font_file_full_path
 
+
 def return_filename_no_extension(filename):
     filename_no_extension = os.path.basename(filename).split(".")[0]
     return filename_no_extension
+
 
 def return_familyname(filename):
     name = return_filename_no_extension(filename).split("-")[0]
@@ -55,13 +60,16 @@ def return_familyname(filename):
 
     return ' '.join(parts)
 
+
 def return_stylename(filename):
     stylename = filename_no_extension.split("-")[1]
     return stylename
 
+
 def split_name(string):
     splitted_name = re.findall('[A-Z][^A-Z]*', string)
     return splitted_name
+
 
 def remove_spaces(string):
     string = "".join(string.split(" "))
@@ -82,6 +90,7 @@ def return_nameID_1(familyname, stylename):
             nameID1 = f"{familyname} {stylename}"
     return nameID1
 
+
 def return_nameID_2(stylename):
     if stylename in RIBBI_style:
         nameID2 = stylename
@@ -91,6 +100,7 @@ def return_nameID_2(stylename):
         else:
             nameID2 = "Regular"
     return nameID2
+
 
 def is_RIBBI(stylename):
     if stylename in RIBBI_style:
@@ -106,13 +116,17 @@ if 'fvar' in ttFont:
     for name in ttFont['name'].names:
         if name.nameID == 2:
             name.string = style_parse(ttFont).win_style_name
+        if name.nameID == 17:
+            name.string = style_parse(ttFont).win_style_name
 
     # macStyle & fsSelection
     if '-Italic' in file:
-        ttFont['head'].macStyle |= 1 << 1 # Set  bit 1
-        ttFont['OS/2'].fsSelection |= 1 << 0 # Set bit 0 (Italic)
-        ttFont['OS/2'].fsSelection = ttFont['OS/2'].fsSelection & ~(1<<5) # Unset bit 5 (Bold)
-        ttFont['OS/2'].fsSelection = ttFont['OS/2'].fsSelection & ~(1<<6) # Unset bit 6 (Regular)
+        ttFont['head'].macStyle |= 1 << 1  # Set  bit 1
+        ttFont['OS/2'].fsSelection |= 1 << 0  # Set bit 0 (Italic)
+        # Unset bit 5 (Bold)
+        ttFont['OS/2'].fsSelection = ttFont['OS/2'].fsSelection & ~(1 << 5)
+        # Unset bit 6 (Regular)
+        ttFont['OS/2'].fsSelection = ttFont['OS/2'].fsSelection & ~(1 << 6)
 
 # Static FOnt
 else:
@@ -128,10 +142,10 @@ else:
 
     print(familyname, stylename)
 
-    nameID1  = return_nameID_1(familyname, stylename)
-    nameID2  = return_nameID_2(stylename)
-    nameID4  = f"{familyname} {stylename}"
-    nameID6  = f"{remove_spaces(familyname)}-{remove_spaces(stylename)}"
+    nameID1 = return_nameID_1(familyname, stylename)
+    nameID2 = return_nameID_2(stylename)
+    nameID4 = f"{familyname} {stylename}"
+    nameID6 = f"{remove_spaces(familyname)}-{remove_spaces(stylename)}"
     nameID16 = familyname
     nameID17 = stylename
     nameID18 = nameID4
@@ -144,18 +158,26 @@ else:
     except:
         pass
 
-    ttFont["name"].setName( string=nameID1,  nameID=1,  platformID=3, platEncID=1, langID=0x409 )
-    ttFont["name"].setName( string=nameID2,  nameID=2,  platformID=3, platEncID=1, langID=0x409 )
-    ttFont["name"].setName( string=nameID4,  nameID=4,  platformID=3, platEncID=1, langID=0x409 )
-    ttFont["name"].setName( string=nameID6,  nameID=6,  platformID=3, platEncID=1, langID=0x409 )
-    ttFont["name"].setName( string=nameID18,  nameID=18,  platformID=3, platEncID=1, langID=0x409 )
+    ttFont["name"].setName(string=nameID1,  nameID=1,
+                           platformID=3, platEncID=1, langID=0x409)
+    ttFont["name"].setName(string=nameID2,  nameID=2,
+                           platformID=3, platEncID=1, langID=0x409)
+    ttFont["name"].setName(string=nameID4,  nameID=4,
+                           platformID=3, platEncID=1, langID=0x409)
+    ttFont["name"].setName(string=nameID6,  nameID=6,
+                           platformID=3, platEncID=1, langID=0x409)
+    ttFont["name"].setName(string=nameID18,  nameID=18,
+                           platformID=3, platEncID=1, langID=0x409)
 
     if not is_RIBBI(stylename):
-        ttFont["name"].setName( string=nameID16, nameID=16, platformID=3, platEncID=1, langID=0x409 )
-        ttFont["name"].setName( string=nameID17, nameID=17, platformID=3, platEncID=1, langID=0x409 )
+        ttFont["name"].setName(string=nameID16, nameID=16,
+                               platformID=3, platEncID=1, langID=0x409)
+        ttFont["name"].setName(string=nameID17, nameID=17,
+                               platformID=3, platEncID=1, langID=0x409)
 
     # Fix fsSelection and macStyle
-    nameID_2 = ttFont["name"].getName(nameID=2, platformID=3, platEncID=1).toStr()
+    nameID_2 = ttFont["name"].getName(
+        nameID=2, platformID=3, platEncID=1).toStr()
     if is_RIBBI(stylename) == True:
         ttFont["OS/2"].fsSelection = fsSelection_values[nameID_2]
         ttFont["head"].macStyle = macStyle_values[nameID_2]
