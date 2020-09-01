@@ -23,9 +23,9 @@
     <key>openTypeHheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeHheaCaretSlopeRise</key>
-    <integer>1</integer>
+    <integer>611</integer>
     <key>openTypeHheaCaretSlopeRun</key>
-    <integer>0</integer>
+    <integer>2000</integer>
     <key>openTypeHheaDescender</key>
     <integer>-465</integer>
     <key>openTypeHheaLineGap</key>
@@ -69,6 +69,10 @@
       <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>560</integer>

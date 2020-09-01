@@ -690,6 +690,8 @@
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4692740112</string>
     <key>public.glyphOrder</key>
     <array>
       <string>NULL</string>
@@ -1352,5 +1354,9 @@
       <string>uni20B1.lf.1</string>
       <string>uni20B2.lf.1</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>
