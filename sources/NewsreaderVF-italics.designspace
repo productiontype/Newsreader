@@ -11,8 +11,8 @@
       <map input="800" output="900"/>
       <labelname xml:lang="en">Weight</labelname>
     </axis>
-    <axis tag="opsz" name="optical" minimum="0" maximum="72" default="16">
-      <map input="0" output="6"/>
+    <axis tag="opsz" name="optical" minimum="6" maximum="72" default="16">
+      <map input="6" output="6"/>
       <map input="16" output="16"/>
       <map input="72" output="72"/>
       <labelname xml:lang="en">Optical Size</labelname>
@@ -198,7 +198,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Newsreader" stylename="Regular Italic" filename="instances/Newsreader-TextRegularItalic.ufo">
+    <instance familyname="Newsreader" stylename="Italic" filename="instances/Newsreader-TextRegularItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="400"/>
