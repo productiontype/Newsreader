@@ -4,12 +4,14 @@
 path="../fonts/variable/ttf"
 
 
-echo "Adding STAT table to Newsreader-VF.ttf ..."
-statmake --designspace NewsreaderVF-upright.designspace "$path/Newsreader[opsz,wght].ttf"
+#echo "Adding STAT table to Newsreader-VF.ttf ..."
+#statmake --designspace NewsreaderVF-upright.designspace "$path/Newsreader[opsz,wght].ttf"
 
-echo "Adding STAT table to Newsreader-italics-VF.ttf ..."
-statmake --designspace NewsreaderVF-italics.designspace "$path/Newsreader-Italic[opsz,wght].ttf"
+#echo "Adding STAT table to Newsreader-italics-VF.ttf ..."
+#statmake --designspace NewsreaderVF-italics.designspace "$path/Newsreader-Italic[opsz,wght].ttf"
 
+#Generate STAT table
+python tool-vf/gen_stat.py
 
 # Add DSIG table
 gftools-fix-dsig.py $path/*.ttf -a -f
