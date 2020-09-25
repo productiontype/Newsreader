@@ -3,14 +3,6 @@
   <axes>
     <axis tag="opsz" name="optical" minimum="6" maximum="72" default="16"/>
     <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
-      <labelname xml:lang="en">Weight</labelname>
-      <map input="100" output="100"/>
-      <map input="200" output="212"/>
-      <map input="400" output="400"/>
-      <map input="500" output="500"/>
-      <map input="600" output="612"/>
-      <map input="700" output="724"/>
-      <map input="900" output="900"/>
   </axes>
   <rules>
     <rule name="currency">
@@ -33,31 +25,31 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Newsreader-CaptionExtraLight.ufo" name="master.Newsreader.Caption ExtraLight.0" familyname="Newsreader" stylename="Caption ExtraLight">
+    <source filename="Newsreader-6ptExtraLight.ufo" name="master.Newsreader.Caption ExtraLight.0" familyname="Newsreader" stylename="6pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-CaptionRegular.ufo" name="master.Newsreader.Caption Regular.1" familyname="Newsreader" stylename="Caption Regular">
+    <source filename="Newsreader-6ptRegular.ufo" name="master.Newsreader.Caption Regular.1" familyname="Newsreader" stylename="6pt Regular">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-CaptionExtraBold.ufo" name="master.Newsreader.Caption ExtraBold.2" familyname="Newsreader" stylename="Caption ExtraBold">
+    <source filename="Newsreader-6ptExtraBold.ufo" name="master.Newsreader.Caption ExtraBold.2" familyname="Newsreader" stylename="6pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-TextExtraLight.ufo" name="master.Newsreader.Text ExtraLight.3" familyname="Newsreader" stylename="Text ExtraLight">
+    <source filename="Newsreader-16ptExtraLight.ufo" name="master.Newsreader.Text ExtraLight.3" familyname="Newsreader" stylename="16pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-TextRegular.ufo" name="master.Newsreader.Text Regular.4" familyname="Newsreader" stylename="Text Regular">
+    <source filename="Newsreader-16ptRegular.ufo" name="master.Newsreader.Text Regular.4" familyname="Newsreader" stylename="16pt Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -67,25 +59,25 @@
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-TextExtraBold.ufo" name="master.Newsreader.Text ExtraBold.5" familyname="Newsreader" stylename="Text ExtraBold">
+    <source filename="Newsreader-16ptExtraBold.ufo" name="master.Newsreader.Text ExtraBold.5" familyname="Newsreader" stylename="16pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-DisplayExtraLight.ufo" name="master.Newsreader.Display ExtraLight.6" familyname="Newsreader" stylename="Display ExtraLight">
+    <source filename="Newsreader-72ptExtraLight.ufo" name="master.Newsreader.Display ExtraLight.6" familyname="Newsreader" stylename="72pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-DisplayRegular.ufo" name="master.Newsreader.Display Regular.7" familyname="Newsreader" stylename="Display Regular">
+    <source filename="Newsreader-72ptRegular.ufo" name="master.Newsreader.Display Regular.7" familyname="Newsreader" stylename="72pt Regular">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-DisplayExtraBold.ufo" name="master.Newsreader.Display ExtraBold.8" familyname="Newsreader" stylename="Display ExtraBold">
+    <source filename="Newsreader-72ptExtraBold.ufo" name="master.Newsreader.Display ExtraBold.8" familyname="Newsreader" stylename="72pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="900"/>
@@ -93,7 +85,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="instance_wght100.00_opsz6.00" familyname="Newsreader Caption" stylename="ExtraLight" filename="instances/NewsreaderCaption-ExtraLight.ufo" styleMapFamilyName="Newsreader Caption ExtraLight" styleMapStyleName="regular">
+    <instance name="instance_wght100.00_opsz6.00" familyname="Newsreader 6pt" stylename="ExtraLight" filename="instances/Newsreader6pt-ExtraLight.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="100"/>
@@ -101,7 +93,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght212.00_opsz6.00" familyname="Newsreader Caption" stylename="Light" filename="instances/NewsreaderCaption-Light.ufo" styleMapFamilyName="Newsreader Caption Light" styleMapStyleName="regular">
+    <instance name="instance_wght212.00_opsz6.00" familyname="Newsreader 6pt" stylename="Light" filename="instances/Newsreader6pt-Light.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="212"/>
@@ -109,7 +101,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght400.00_opsz6.00" familyname="Newsreader Caption" stylename="Regular" filename="instances/NewsreaderCaption-Regular.ufo" styleMapFamilyName="Newsreader Caption" styleMapStyleName="regular">
+    <instance name="instance_wght400.00_opsz6.00" familyname="Newsreader 6pt" stylename="Regular" filename="instances/Newsreader6pt-Regular.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="400"/>
@@ -117,7 +109,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght500.00_opsz6.00" familyname="Newsreader Caption" stylename="Medium" filename="instances/NewsreaderCaption-Medium.ufo" styleMapFamilyName="Newsreader Caption Medium" styleMapStyleName="regular">
+    <instance name="instance_wght500.00_opsz6.00" familyname="Newsreader 6pt" stylename="Medium" filename="instances/Newsreader6pt-Medium.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="500"/>
@@ -125,7 +117,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght612.00_opsz6.00" familyname="Newsreader Caption" stylename="SemiBold" filename="instances/NewsreaderCaption-SemiBold.ufo" styleMapFamilyName="Newsreader Caption SemiBold" styleMapStyleName="regular">
+    <instance name="instance_wght612.00_opsz6.00" familyname="Newsreader 6pt" stylename="SemiBold" filename="instances/Newsreader6pt-SemiBold.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="612"/>
@@ -133,7 +125,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght724.00_opsz6.00" familyname="Newsreader Caption" stylename="Bold" filename="instances/NewsreaderCaption-Bold.ufo" styleMapFamilyName="Newsreader Caption" styleMapStyleName="bold">
+    <instance name="instance_wght724.00_opsz6.00" familyname="Newsreader 6pt" stylename="Bold" filename="instances/Newsreader6pt-Bold.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="724"/>
@@ -141,7 +133,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght900.00_opsz6.00" familyname="Newsreader Caption" stylename="ExtraBold" filename="instances/NewsreaderCaption-ExtraBold.ufo" styleMapFamilyName="Newsreader Caption ExtraBold" styleMapStyleName="regular">
+    <instance name="instance_wght900.00_opsz6.00" familyname="Newsreader 6pt" stylename="ExtraBold" filename="instances/Newsreader6pt-ExtraBold.ufo">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="900"/>
@@ -149,7 +141,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght100.00_opsz16.00" familyname="Newsreader Text" stylename="ExtraLight" filename="instances/NewsreaderText-ExtraLight.ufo" styleMapFamilyName="Newsreader Text ExtraLight" styleMapStyleName="regular">
+    <instance name="instance_wght100.00_opsz16.00" familyname="Newsreader 16pt" stylename="ExtraLight" filename="instances/Newsreader16pt-ExtraLight.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
@@ -157,7 +149,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght212.00_opsz16.00" familyname="Newsreader Text" stylename="Light" filename="instances/NewsreaderText-Light.ufo" styleMapFamilyName="Newsreader Text Light" styleMapStyleName="regular">
+    <instance name="instance_wght212.00_opsz16.00" familyname="Newsreader 16pt" stylename="Light" filename="instances/Newsreader16pt-Light.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="212"/>
@@ -165,7 +157,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght400.00_opsz16.00" familyname="Newsreader Text" stylename="Regular" filename="instances/NewsreaderText-Regular.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
+    <instance name="instance_wght400.00_opsz16.00" familyname="Newsreader 16pt" stylename="Regular" filename="instances/Newsreader16pt-Regular.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="400"/>
@@ -173,7 +165,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght500.00_opsz16.00" familyname="Newsreader Text" stylename="Medium" filename="instances/NewsreaderText-Medium.ufo" styleMapFamilyName="Newsreader Text Medium" styleMapStyleName="regular">
+    <instance name="instance_wght500.00_opsz16.00" familyname="Newsreader 16pt" stylename="Medium" filename="instances/Newsreader16pt-Medium.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="500"/>
@@ -181,7 +173,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght612.00_opsz16.00" familyname="Newsreader Text" stylename="SemiBold" filename="instances/NewsreaderText-SemiBold.ufo" styleMapFamilyName="Newsreader Text SemiBold" styleMapStyleName="regular">
+    <instance name="instance_wght612.00_opsz16.00" familyname="Newsreader 16pt" stylename="SemiBold" filename="instances/Newsreader16pt-SemiBold.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="612"/>
@@ -189,7 +181,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght724.00_opsz16.00" familyname="Newsreader Text" stylename="Bold" filename="instances/NewsreaderText-Bold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="bold">
+    <instance name="instance_wght724.00_opsz16.00" familyname="Newsreader 16pt" stylename="Bold" filename="instances/Newsreader16pt-Bold.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="724"/>
@@ -197,7 +189,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght900.00_opsz16.00" familyname="Newsreader Text" stylename="ExtraBold" filename="instances/NewsreaderText-ExtraBold.ufo" styleMapFamilyName="Newsreader Text" styleMapStyleName="regular">
+    <instance name="instance_wght900.00_opsz16.00" familyname="Newsreader 16pt" stylename="ExtraBold" filename="instances/Newsreader16pt-ExtraBold.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
@@ -205,7 +197,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght100.00_opsz72.00" familyname="Newsreader Display" stylename="ExtraLight" filename="instances/NewsreaderDisplay-ExtraLight.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght100.00_opsz72.00" familyname="Newsreader 72pt" stylename="ExtraLight" filename="instances/Newsreader72pt-ExtraLight.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="100"/>
@@ -213,7 +205,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght212.00_opsz72.00" familyname="Newsreader Display" stylename="Light" filename="instances/NewsreaderDisplay-Light.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght212.00_opsz72.00" familyname="Newsreader 72pt" stylename="Light" filename="instances/Newsreader72pt-Light.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="212"/>
@@ -221,7 +213,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght500.00_opsz72.00" familyname="Newsreader Display" stylename="Medium" filename="instances/NewsreaderDisplay-Medium.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght500.00_opsz72.00" familyname="Newsreader 72pt" stylename="Medium" filename="instances/Newsreader72pt-Medium.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="500"/>
@@ -229,7 +221,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght612.00_opsz72.00" familyname="Newsreader Display" stylename="SemiBold" filename="instances/NewsreaderDisplay-SemiBold.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght612.00_opsz72.00" familyname="Newsreader 72pt" stylename="SemiBold" filename="instances/Newsreader72pt-SemiBold.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="612"/>
@@ -237,7 +229,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght724.00_opsz72.00" familyname="Newsreader Display" stylename="Bold" filename="instances/NewsreaderDisplay-Bold.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="bold">
+    <instance name="instance_wght724.00_opsz72.00" familyname="Newsreader 72pt" stylename="Bold" filename="instances/Newsreader72pt-Bold.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="724"/>
@@ -245,7 +237,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght400.00_opsz72.00" familyname="Newsreader Display" stylename="Regular" filename="instances/NewsreaderDisplay-Regular.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght400.00_opsz72.00" familyname="Newsreader 72pt" stylename="Regular" filename="instances/Newsreader72pt-Regular.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="400"/>
@@ -253,7 +245,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_wght900.00_opsz72.00" familyname="Newsreader Display" stylename="ExtraBold" filename="instances/NewsreaderDisplay-ExtraBold.ufo" styleMapFamilyName="Newsreader Display" styleMapStyleName="regular">
+    <instance name="instance_wght900.00_opsz72.00" familyname="Newsreader 72pt" stylename="ExtraBold" filename="instances/Newsreader72pt-ExtraBold.ufo">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="900"/>

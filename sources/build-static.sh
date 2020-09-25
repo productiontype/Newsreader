@@ -27,8 +27,8 @@ sh ./tool-static/post_generate_static-ttf.sh
 
 
 # # Build web fonts
-# echo "Export webfonts"
-# sh ./tool-static/export-webfont.sh
+echo "Export webfonts"
+sh ./tool-static/export-webfont.sh
 
 
 # Delete instances, we don't need them. If you need to look at instances, comment-out this line and repeat

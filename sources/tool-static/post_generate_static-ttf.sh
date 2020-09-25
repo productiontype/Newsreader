@@ -36,20 +36,7 @@ for i in ${path}/*.ttf; do
 done
 
 # Fix name table
-for i in ${path}/*.ttf
-do
-    for j in ./tool-static/name/*.ttx; do
-        temp_ttf=`basename $i`
-        temp_ttx=`basename $j`
-
-        ttf_file="${temp_ttf%.ttf}"
-        ttx_file="${temp_ttx%.ttx}"
-
-        if [ $ttf_file = $ttx_file ]
-        then
-            echo "Fix name table for $temp_ttf" 
-            ttx -d $path -f -m $i $j
-
-        fi
-    done
+for i in ${path}/*.ttf; do
+    echo "Fix name table for" `basename $i`
+    python3 ./tool-static/fix-name-table.py $i
 done

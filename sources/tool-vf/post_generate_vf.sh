@@ -40,12 +40,9 @@ rm $path/*backup*.ttf
 
 # Fix name tables
 for i in $path/*.ttf; do
-    python ./tool-vf/fixNameTable.py $i
+    python3 ./tool-vf/fixNameTable.py $i
 done
 
+# Add stat table
+python3 ./tool-vf/gen_stat.py
 
-# Remove unwanted fvar instances
-for i in $path/*.ttf; do
-	echo "Remove unwanted fvar instances"
-	python ./tool-vf/removeUnwantedVFInstances.py $i
-done
