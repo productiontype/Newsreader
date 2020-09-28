@@ -1,7 +1,7 @@
 # NewsReader
 NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
 
-It supports Google Fonts Latin Plus glyph set, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages.
+It supports Google Fonts Latin Plus glyph set, enabling the typesetting of English, Western European languages as well as Vietnamese and 130+ other languages. It is shipped as a variable font.
 
 License
 -------
