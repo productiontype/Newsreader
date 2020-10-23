@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302_gravecomb" format="2">
+  <anchor x="0.0" y="1028.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-307.59999999999997" y="1335.0" type="line"/>
+      <point x="-435.0" y="1602.0" type="line"/>
+      <point x="-706.1999999999999" y="1602.0" type="line"/>
+      <point x="-706.1999999999999" y="1557.8" type="line"/>
+      <point x="-445.79999999999995" y="1335.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="31.200000000000003" y="1344.6000000000001" type="line"/>
+      <point x="-31.200000000000003" y="1344.6000000000001" type="line"/>
+      <point x="182.8" y="1138.0" type="line"/>
+      <point x="368.4" y="1138.0" type="line"/>
+      <point x="108.4" y="1464.0" type="line"/>
+      <point x="-108.4" y="1464.0" type="line"/>
+      <point x="-368.4" y="1138.0" type="line"/>
+      <point x="-182.8" y="1138.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

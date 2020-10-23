@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1476.44"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="356.024" y="693.336" type="line"/>
+      <point x="1224.624" y="693.336" type="line"/>
+      <point x="1250.104" y="776.776" type="line"/>
+      <point x="380.856" y="776.776" type="line"/>
+    </contour>
+    <contour>
+      <point x="1552.04" y="1359.7440000000001" type="line"/>
+      <point x="1454.376" y="1375.392" type="line"/>
+      <point x="1544.2" y="941.752" type="line"/>
+      <point x="1579.384" y="941.752" type="line"/>
+      <point x="1676.032" y="1508.832" type="line"/>
+      <point x="1657.7359999999999" y="1508.832" type="line"/>
+      <point x="1414.92" y="1403.6319999999998" type="line"/>
+      <point x="1555.464" y="1430.0" type="line"/>
+      <point x="464.31199999999995" y="1430.0" type="line"/>
+      <point x="591.544" y="1403.6319999999998" type="line"/>
+      <point x="410.28" y="1508.832" type="line"/>
+      <point x="391.98400000000004" y="1508.832" type="line"/>
+      <point x="166.672" y="957.232" type="line"/>
+      <point x="200.04" y="938.104" type="line"/>
+      <point x="556.792" y="1375.392" type="line"/>
+      <point x="414.536" y="1359.7440000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="822.176" y="1395.464" type="line"/>
+      <point x="416.12" y="73.608" type="line"/>
+      <point x="249.136" y="24.535999999999998" type="line"/>
+      <point x="242.488" y="0.0" type="line"/>
+      <point x="921.048" y="0.0" type="line"/>
+      <point x="926.696" y="24.535999999999998" type="line"/>
+      <point x="782.192" y="71.016" type="line"/>
+      <point x="1188.896" y="1395.464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

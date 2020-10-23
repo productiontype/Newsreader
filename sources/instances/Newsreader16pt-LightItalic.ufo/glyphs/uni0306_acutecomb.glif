@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_acutecomb" format="2">
+  <anchor x="129.37333333333333" y="852.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="195.29333333333332" y="1189.0" type="line"/>
+      <point x="240.89333333333335" y="1189.0" type="line"/>
+      <point x="540.4666666666667" y="1458.24" type="line"/>
+      <point x="544.2266666666667" y="1476.0" type="line"/>
+      <point x="404.56" y="1476.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.6" y="1049.0266666666666" type="curve" smooth="yes"/>
+      <point x="81.74666666666667" y="1049.0266666666666"/>
+      <point x="44.24" y="1097.56"/>
+      <point x="49.88" y="1206.0" type="curve"/>
+      <point x="13.920000000000002" y="1206.0" type="line"/>
+      <point x="-2.5733333333333306" y="1009.3333333333334"/>
+      <point x="50.92" y="957.0"/>
+      <point x="171.25333333333333" y="957.0" type="curve" smooth="yes"/>
+      <point x="291.58666666666664" y="957.0"/>
+      <point x="353.5733333333333" y="999.6266666666667"/>
+      <point x="463.08" y="1206.0" type="curve"/>
+      <point x="418.88" y="1206.0" type="line"/>
+      <point x="354.3466666666667" y="1089.4266666666667"/>
+      <point x="288.2133333333333" y="1049.0266666666666"/>
+    </contour>
+  </outline>
+</glyph>

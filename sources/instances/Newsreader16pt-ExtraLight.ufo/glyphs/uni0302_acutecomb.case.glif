@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302_acutecomb.case" format="2">
+  <anchor x="0" y="1340.0" name="_UCtop"/>
+  <anchor x="135" y="1817" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="200.0" y="1621.0" type="line"/>
+      <point x="237.0" y="1621.0" type="line"/>
+      <point x="450.0" y="1803.0" type="line"/>
+      <point x="450.0" y="1818.0" type="line"/>
+      <point x="355.0" y="1818.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18.0" y="1666.0" type="line"/>
+      <point x="204.0" y="1476.0" type="line"/>
+      <point x="249.0" y="1476.0" type="line"/>
+      <point x="29.0" y="1716.0" type="line"/>
+      <point x="-30.0" y="1716.0" type="line"/>
+      <point x="-249.0" y="1476.0" type="line"/>
+      <point x="-204.0" y="1476.0" type="line"/>
+      <point x="19.0" y="1666.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

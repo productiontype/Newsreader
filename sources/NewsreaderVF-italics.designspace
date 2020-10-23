@@ -39,31 +39,31 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Newsreader-6ptExtraLightItalic.ufo" familyname="Newsreader" stylename="6pt ExtraLight Italic">
+    <source filename="Newsreader6pt-ExtraLightItalic.ufo" familyname="Newsreader" stylename="6pt ExtraLight Italic">
       <location>
         <dimension name="weight" xvalue="100"/>
         <dimension name="optical" xvalue="6"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptItalic.ufo" familyname="Newsreader" stylename="6pt Italic">
+    <source filename="Newsreader6pt-Italic.ufo" familyname="Newsreader" stylename="6pt Italic">
       <location>
         <dimension name="weight" xvalue="400"/>
         <dimension name="optical" xvalue="6"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptExtraBoldItalic.ufo" familyname="Newsreader" stylename="6pt ExtraBold Italic">
+    <source filename="Newsreader6pt-ExtraBoldItalic.ufo" familyname="Newsreader" stylename="6pt ExtraBold Italic">
       <location>
         <dimension name="weight" xvalue="900"/>
         <dimension name="optical" xvalue="6"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraLightItalic.ufo" familyname="Newsreader" stylename="16pt ExtraLight Italic">
+    <source filename="Newsreader16pt-ExtraLightItalic.ufo" familyname="Newsreader" stylename="16pt ExtraLight Italic">
       <location>
         <dimension name="weight" xvalue="100"/>
         <dimension name="optical" xvalue="16"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptItalic.ufo" familyname="Newsreader" stylename="16pt Italic">
+    <source filename="Newsreader16pt-Italic.ufo" familyname="Newsreader" stylename="16pt Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -73,25 +73,25 @@
         <dimension name="optical" xvalue="16"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraBoldItalic.ufo" familyname="Newsreader" stylename="16pt ExtraBold Italic">
+    <source filename="Newsreader16pt-ExtraBoldItalic.ufo" familyname="Newsreader" stylename="16pt ExtraBold Italic">
       <location>
         <dimension name="weight" xvalue="900"/>
         <dimension name="optical" xvalue="16"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraLightItalic.ufo" familyname="Newsreader" stylename="72pt ExtraLight Italic">
+    <source filename="Newsreader72pt-ExtraLightItalic.ufo" familyname="Newsreader" stylename="72pt ExtraLight Italic">
       <location>
         <dimension name="weight" xvalue="100"/>
         <dimension name="optical" xvalue="72"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptItalic.ufo" familyname="Newsreader" stylename="72pt Italic">
+    <source filename="Newsreader72pt-Italic.ufo" familyname="Newsreader" stylename="72pt Italic">
       <location>
         <dimension name="weight" xvalue="400"/>
         <dimension name="optical" xvalue="72"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraBoldItalic.ufo" familyname="Newsreader" stylename="72pt ExtraBold Italic">
+    <source filename="Newsreader72pt-ExtraBoldItalic.ufo" familyname="Newsreader" stylename="72pt ExtraBold Italic">
       <location>
         <dimension name="weight" xvalue="900"/>
         <dimension name="optical" xvalue="72"/>

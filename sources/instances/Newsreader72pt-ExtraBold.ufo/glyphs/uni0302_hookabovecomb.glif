@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302_hookabovecomb" format="2">
+  <anchor x="0.0" y="1024.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="1348.0" type="line"/>
+      <point x="-60.0" y="1348.0" type="line"/>
+      <point x="281.0" y="1138.0" type="line"/>
+      <point x="341.0" y="1138.0" type="line"/>
+      <point x="110.0" y="1464.0" type="line"/>
+      <point x="-110.0" y="1464.0" type="line"/>
+      <point x="-341.0" y="1138.0" type="line"/>
+      <point x="-281.0" y="1138.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="279.0" y="1385.0" type="curve"/>
+      <point x="293.0" y="1334.0" type="line"/>
+      <point x="516.0" y="1381.0"/>
+      <point x="577.0" y="1447.0"/>
+      <point x="577.0" y="1541.0" type="curve" smooth="yes"/>
+      <point x="577.0" y="1626.0"/>
+      <point x="518.0" y="1698.0"/>
+      <point x="237.0" y="1721.0" type="curve"/>
+      <point x="204.0" y="1560.0" type="line"/>
+      <point x="383.0" y="1552.0"/>
+      <point x="414.0" y="1519.0"/>
+      <point x="414.0" y="1477.0" type="curve" smooth="yes"/>
+      <point x="414.0" y="1442.0"/>
+      <point x="392.0" y="1409.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="1231.0"/>
+  <unicode hex="0045"/>
+  <anchor x="848.2" y="1340.0" name="UCtop"/>
+  <anchor x="811.8" y="0.0" name="right"/>
+  <anchor x="542.0" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="484.0" y="1254.2" type="line"/>
+      <point x="130.2" y="89.4" type="line"/>
+      <point x="-29.0" y="39.2" type="line"/>
+      <point x="-41.2" y="0.0" type="line"/>
+      <point x="298.8" y="0.0" type="line"/>
+      <point x="705.4" y="1340.0" type="line"/>
+      <point x="361.6" y="1340.0" type="line"/>
+      <point x="349.4" y="1300.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1158.4" y="1269.2" type="line"/>
+      <point x="1221.6" y="952.6" type="line"/>
+      <point x="1273.0" y="952.6" type="line"/>
+      <point x="1340.0" y="1394.4" type="line"/>
+      <point x="1320.8" y="1394.4" type="line"/>
+      <point x="1193.2" y="1340.0" type="line"/>
+      <point x="594.8" y="1340.0" type="line"/>
+      <point x="563.2" y="1244.0" type="line"/>
+      <point x="1200.0" y="1244.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="935.4" y="-63.4" type="line"/>
+      <point x="955.6" y="-63.4" type="line"/>
+      <point x="1165.2" y="374.0" type="line"/>
+      <point x="1126.4" y="396.4" type="line"/>
+      <point x="812.4" y="70.8" type="line"/>
+      <point x="897.2" y="96.0" type="line"/>
+      <point x="216.6" y="96.0" type="line"/>
+      <point x="184.8" y="0.0" type="line"/>
+      <point x="837.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="868.4" y="441.0" type="line"/>
+      <point x="948.4" y="703.0" type="line"/>
+      <point x="1028.4" y="965.0" type="line"/>
+      <point x="950.6" y="965.0" type="line"/>
+      <point x="863.8" y="750.2" type="line"/>
+      <point x="414.0" y="750.2" type="line"/>
+      <point x="385.6" y="655.8" type="line"/>
+      <point x="835.4" y="655.8" type="line"/>
+      <point x="790.6" y="441.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

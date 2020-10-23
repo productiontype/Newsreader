@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1199.848"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="743.208" y="1244.672" type="line"/>
+      <point x="900.12" y="1298.608" type="line"/>
+      <point x="913.392" y="1340.0" type="line"/>
+      <point x="384.648" y="1340.0" type="line"/>
+      <point x="371.8" y="1298.608" type="line"/>
+      <point x="499.352" y="1246.4" type="line"/>
+      <point x="149.016" y="95.328" type="line"/>
+      <point x="-7.896000000000001" y="41.392" type="line"/>
+      <point x="-20.744" y="0.0" type="line"/>
+      <point x="364.904" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="787.472" y="73.936" type="line"/>
+      <point x="878.768" y="104.96000000000001" type="line"/>
+      <point x="259.576" y="104.96000000000001" type="line"/>
+      <point x="224.64" y="0.0" type="line"/>
+      <point x="816.952" y="0.0" type="line"/>
+      <point x="915.072" y="-72.992" type="line"/>
+      <point x="941.096" y="-72.992" type="line"/>
+      <point x="1168.9279999999999" y="402.4" type="line"/>
+      <point x="1125.872" y="426.368" type="line"/>
+    </contour>
+    <contour>
+      <point x="922.576" y="937.712" type="line"/>
+      <point x="497.136" y="718.752" type="line"/>
+      <point x="420.08" y="716.504" type="line"/>
+      <point x="118.544" y="561.48" type="line"/>
+      <point x="78.456" y="429.368" type="line"/>
+      <point x="381.144" y="584.968" type="line"/>
+      <point x="461.08" y="588.368" type="line"/>
+      <point x="882.064" y="805.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306.case" format="2">
+  <anchor x="273.704" y="1414.0" name="_UCtop"/>
+  <anchor x="412.704" y="1870.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="361.20000000000005" y="1735.448" type="curve" smooth="yes"/>
+      <point x="247.976" y="1735.448"/>
+      <point x="212.92000000000002" y="1768.432"/>
+      <point x="218.2" y="1870.0" type="curve"/>
+      <point x="80.896" y="1870.0" type="line"/>
+      <point x="43.656" y="1648.2"/>
+      <point x="109.67200000000001" y="1541.888"/>
+      <point x="324.24" y="1541.888" type="curve" smooth="yes"/>
+      <point x="524.8639999999999" y="1541.888"/>
+      <point x="637.232" y="1621.1280000000002"/>
+      <point x="744.16" y="1870.0" type="curve"/>
+      <point x="586.376" y="1870.0" type="line"/>
+      <point x="530.408" y="1768.7839999999999"/>
+      <point x="473.776" y="1735.448"/>
+    </contour>
+  </outline>
+</glyph>

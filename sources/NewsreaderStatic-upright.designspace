@@ -25,31 +25,31 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Newsreader-6ptExtraLight.ufo" name="master.Newsreader.Caption ExtraLight.0" familyname="Newsreader" stylename="6pt ExtraLight">
+    <source filename="Newsreader6pt-ExtraLight.ufo" name="master.Newsreader.Caption ExtraLight.0" familyname="Newsreader" stylename="6pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptRegular.ufo" name="master.Newsreader.Caption Regular.1" familyname="Newsreader" stylename="6pt Regular">
+    <source filename="Newsreader6pt-Regular.ufo" name="master.Newsreader.Caption Regular.1" familyname="Newsreader" stylename="6pt Regular">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptExtraBold.ufo" name="master.Newsreader.Caption ExtraBold.2" familyname="Newsreader" stylename="6pt ExtraBold">
+    <source filename="Newsreader6pt-ExtraBold.ufo" name="master.Newsreader.Caption ExtraBold.2" familyname="Newsreader" stylename="6pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraLight.ufo" name="master.Newsreader.Text ExtraLight.3" familyname="Newsreader" stylename="16pt ExtraLight">
+    <source filename="Newsreader16pt-ExtraLight.ufo" name="master.Newsreader.Text ExtraLight.3" familyname="Newsreader" stylename="16pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptRegular.ufo" name="master.Newsreader.Text Regular.4" familyname="Newsreader" stylename="16pt Regular">
+    <source filename="Newsreader16pt-Regular.ufo" name="master.Newsreader.Text Regular.4" familyname="Newsreader" stylename="16pt Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -59,25 +59,25 @@
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraBold.ufo" name="master.Newsreader.Text ExtraBold.5" familyname="Newsreader" stylename="16pt ExtraBold">
+    <source filename="Newsreader16pt-ExtraBold.ufo" name="master.Newsreader.Text ExtraBold.5" familyname="Newsreader" stylename="16pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraLight.ufo" name="master.Newsreader.Display ExtraLight.6" familyname="Newsreader" stylename="72pt ExtraLight">
+    <source filename="Newsreader72pt-ExtraLight.ufo" name="master.Newsreader.Display ExtraLight.6" familyname="Newsreader" stylename="72pt ExtraLight">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptRegular.ufo" name="master.Newsreader.Display Regular.7" familyname="Newsreader" stylename="72pt Regular">
+    <source filename="Newsreader72pt-Regular.ufo" name="master.Newsreader.Display Regular.7" familyname="Newsreader" stylename="72pt Regular">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraBold.ufo" name="master.Newsreader.Display ExtraBold.8" familyname="Newsreader" stylename="72pt ExtraBold">
+    <source filename="Newsreader72pt-ExtraBold.ufo" name="master.Newsreader.Display ExtraBold.8" familyname="Newsreader" stylename="72pt ExtraBold">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="900"/>

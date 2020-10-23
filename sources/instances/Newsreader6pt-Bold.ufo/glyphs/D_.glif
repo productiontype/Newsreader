@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="1785.9759999999999"/>
+  <unicode hex="0044"/>
+  <anchor x="884.4559999999999" y="1414.0" name="UCtop"/>
+  <anchor x="884.456" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1247.464" y="722.0559999999999" type="curve" smooth="yes"/>
+      <point x="1247.464" y="383.56"/>
+      <point x="1143.112" y="245.424"/>
+      <point x="913.5840000000001" y="245.424" type="curve" smooth="yes"/>
+      <point x="511.752" y="245.424" type="line"/>
+      <point x="476.76" y="0.0" type="line"/>
+      <point x="924.12" y="0.0" type="line" smooth="yes"/>
+      <point x="1383.1200000000001" y="0.0"/>
+      <point x="1682.1200000000001" y="257.0"/>
+      <point x="1682.1200000000001" y="736.0" type="curve" smooth="yes"/>
+      <point x="1682.1200000000001" y="1177.0"/>
+      <point x="1428.1200000000001" y="1414.0"/>
+      <point x="933.12" y="1414.0" type="curve" smooth="yes"/>
+      <point x="476.76" y="1414.0" type="line"/>
+      <point x="511.752" y="1168.576" type="line"/>
+      <point x="867.064" y="1168.576" type="line" smooth="yes"/>
+      <point x="1145.816" y="1168.576"/>
+      <point x="1247.464" y="1032.864"/>
+    </contour>
+    <contour>
+      <point x="99.632" y="0.0" type="line"/>
+      <point x="702.848" y="0.0" type="line"/>
+      <point x="702.848" y="1414.0" type="line"/>
+      <point x="99.632" y="1414.0" type="line"/>
+      <point x="99.632" y="1288.56" type="line"/>
+      <point x="277.488" y="1240.9679999999998" type="line"/>
+      <point x="277.488" y="173.03199999999998" type="line"/>
+      <point x="99.632" y="125.44" type="line"/>
+    </contour>
+  </outline>
+</glyph>

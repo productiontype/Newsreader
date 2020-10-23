@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonmonetary.lf" format="2">
+  <advance width="1057"/>
+  <outline>
+    <contour>
+      <point x="213.0" y="-195.0" type="line"/>
+      <point x="264.0" y="-195.0" type="line"/>
+      <point x="648.0" y="1535.0" type="line"/>
+      <point x="597.0" y="1535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="453.0" y="-195.0" type="line"/>
+      <point x="505.0" y="-195.0" type="line"/>
+      <point x="888.0" y="1535.0" type="line"/>
+      <point x="837.0" y="1535.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="611.0" y="1319.0" type="curve" smooth="yes"/>
+      <point x="809.0" y="1319.0"/>
+      <point x="823.0" y="1163.0"/>
+      <point x="904.0" y="1163.0" type="curve" smooth="yes"/>
+      <point x="943.0" y="1163.0"/>
+      <point x="963.0" y="1194.0"/>
+      <point x="963.0" y="1225.0" type="curve" smooth="yes"/>
+      <point x="963.0" y="1293.0"/>
+      <point x="857.0" y="1360.0"/>
+      <point x="646.0" y="1360.0" type="curve" smooth="yes"/>
+      <point x="299.0" y="1360.0"/>
+      <point x="115.0" y="1048.0"/>
+      <point x="115.0" y="617.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="193.0"/>
+      <point x="322.0" y="-19.0"/>
+      <point x="569.0" y="-19.0" type="curve" smooth="yes"/>
+      <point x="725.0" y="-19.0"/>
+      <point x="828.0" y="23.0"/>
+      <point x="984.0" y="141.0" type="curve"/>
+      <point x="969.0" y="163.0" type="line"/>
+      <point x="815.0" y="65.0"/>
+      <point x="723.6595174262734" y="46.0"/>
+      <point x="600.0" y="46.0" type="curve" smooth="yes"/>
+      <point x="375.3619047619048" y="46.0"/>
+      <point x="188.0" y="261.0"/>
+      <point x="188.0" y="645.0" type="curve" smooth="yes"/>
+      <point x="188.0" y="1058.0"/>
+      <point x="348.0" y="1319.0"/>
+    </contour>
+  </outline>
+</glyph>

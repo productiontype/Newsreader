@@ -25,31 +25,31 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Newsreader-6ptExtraLightItalic.ufo" name="master.Newsreader Italic.Caption ExtraLight Italic.0" familyname="Newsreader" stylename="6pt ExtraLight Italic">
+    <source filename="Newsreader6pt-ExtraLightItalic.ufo" name="master.Newsreader Italic.Caption ExtraLight Italic.0" familyname="Newsreader" stylename="6pt ExtraLight Italic">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptItalic.ufo" name="master.Newsreader Italic.Caption Italic.1" familyname="Newsreader" stylename="6pt Italic">
+    <source filename="Newsreader6pt-Italic.ufo" name="master.Newsreader Italic.Caption Italic.1" familyname="Newsreader" stylename="6pt Italic">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-6ptExtraBoldItalic.ufo" name="master.Newsreader Italic.Caption ExtraBold Italic.2" familyname="Newsreader" stylename="6pt ExtraBold Italic">
+    <source filename="Newsreader6pt-ExtraBoldItalic.ufo" name="master.Newsreader Italic.Caption ExtraBold Italic.2" familyname="Newsreader" stylename="6pt ExtraBold Italic">
       <location>
         <dimension name="optical" xvalue="6"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraLightItalic.ufo" name="master.Newsreader Italic.Text ExtraLight Italic.3" familyname="Newsreader" stylename="16pt ExtraLight Italic">
+    <source filename="Newsreader16pt-ExtraLightItalic.ufo" name="master.Newsreader Italic.Text ExtraLight Italic.3" familyname="Newsreader" stylename="16pt ExtraLight Italic">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptItalic.ufo" name="master.Newsreader Italic.Text Italic.4" familyname="Newsreader" stylename="16pt Italic">
+    <source filename="Newsreader16pt-Italic.ufo" name="master.Newsreader Italic.Text Italic.4" familyname="Newsreader" stylename="16pt Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -59,25 +59,25 @@
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-16ptExtraBoldItalic.ufo" name="master.Newsreader Italic.Text ExtraBold Italic.5" familyname="Newsreader" stylename="16pt ExtraBold Italic">
+    <source filename="Newsreader16pt-ExtraBoldItalic.ufo" name="master.Newsreader Italic.Text ExtraBold Italic.5" familyname="Newsreader" stylename="16pt ExtraBold Italic">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraLightItalic.ufo" name="master.Newsreader Italic.Display ExtraLight Italic.6" familyname="Newsreader" stylename="72pt ExtraLight Italic">
+    <source filename="Newsreader72pt-ExtraLightItalic.ufo" name="master.Newsreader Italic.Display ExtraLight Italic.6" familyname="Newsreader" stylename="72pt ExtraLight Italic">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptItalic.ufo" name="master.Newsreader Italic.Display Italic.7" familyname="Newsreader" stylename="72pt Italic">
+    <source filename="Newsreader72pt-Italic.ufo" name="master.Newsreader Italic.Display Italic.7" familyname="Newsreader" stylename="72pt Italic">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-72ptExtraBoldItalic.ufo" name="master.Newsreader Italic.Display ExtraBold Italic.8" familyname="Newsreader" stylename="72pt ExtraBold Italic">
+    <source filename="Newsreader72pt-ExtraBoldItalic.ufo" name="master.Newsreader Italic.Display ExtraBold Italic.8" familyname="Newsreader" stylename="72pt ExtraBold Italic">
       <location>
         <dimension name="optical" xvalue="72"/>
         <dimension name="weight" xvalue="900"/>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306_tildecomb" format="2">
+  <anchor x="157" y="1024" name="_top"/>
+  <outline>
+    <contour>
+      <point x="207.0" y="1197.0" type="curve" smooth="yes"/>
+      <point x="86.0" y="1197.0"/>
+      <point x="26.0" y="1233.0"/>
+      <point x="21.0" y="1336.0" type="curve"/>
+      <point x="-12.0" y="1336.0" type="line"/>
+      <point x="-11.0" y="1138.0"/>
+      <point x="43.0" y="1087.0"/>
+      <point x="185.0" y="1087.0" type="curve" smooth="yes"/>
+      <point x="312.0" y="1087.0"/>
+      <point x="392.0" y="1133.0"/>
+      <point x="516.0" y="1336.0" type="curve"/>
+      <point x="479.0" y="1336.0" type="line"/>
+      <point x="410.0" y="1232.0"/>
+      <point x="329.0" y="1197.0"/>
+    </contour>
+    <contour>
+      <point x="595.0" y="1598.0" type="curve"/>
+      <point x="560.0" y="1598.0" type="line"/>
+      <point x="505.0" y="1512.0"/>
+      <point x="471.0" y="1484.0"/>
+      <point x="424.0" y="1484.0" type="curve" smooth="yes"/>
+      <point x="357.0" y="1484.0"/>
+      <point x="307.0" y="1604.0"/>
+      <point x="219.0" y="1604.0" type="curve" smooth="yes"/>
+      <point x="157.0" y="1604.0"/>
+      <point x="105.0" y="1565.0"/>
+      <point x="1.0" y="1390.0" type="curve"/>
+      <point x="36.0" y="1390.0" type="line"/>
+      <point x="90.0" y="1475.0"/>
+      <point x="124.0" y="1504.0"/>
+      <point x="171.0" y="1504.0" type="curve" smooth="yes"/>
+      <point x="242.0" y="1504.0"/>
+      <point x="288.0" y="1384.0"/>
+      <point x="374.0" y="1384.0" type="curve" smooth="yes"/>
+      <point x="440.0" y="1384.0"/>
+      <point x="492.0" y="1422.0"/>
+    </contour>
+  </outline>
+</glyph>
