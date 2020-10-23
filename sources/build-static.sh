@@ -26,7 +26,7 @@ echo "Post generate TTFs"
 sh ./tool-static/post_generate_static-ttf.sh
 
 
-# # Build web fonts
+# Build web fonts
 echo "Export webfonts"
 sh ./tool-static/export-webfont.sh
 
