@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20BC.lf" format="2">
+  <advance width="1030.1333333333334"/>
+  <outline>
+    <contour>
+      <point x="515.0666666666667" y="1080.8133333333333" type="curve" smooth="yes"/>
+      <point x="702.08" y="1080.8133333333333"/>
+      <point x="796.796660236561" y="810.8973013773791"/>
+      <point x="827.7466666666667" y="0.0" type="curve"/>
+      <point x="938.6266666666667" y="0.0" type="line"/>
+      <point x="866.6533333333333" y="886.3066666666666"/>
+      <point x="733.3733333333333" y="1139.3733333333332"/>
+      <point x="515.0666666666667" y="1139.3733333333332" type="curve" smooth="yes"/>
+      <point x="297.38666666666666" y="1139.3733333333332"/>
+      <point x="162.85333333333332" y="886.3066666666666"/>
+      <point x="91.50666666666666" y="0.0" type="curve"/>
+      <point x="201.76" y="0.0" type="line"/>
+      <point x="232.7100064301056" y="810.8973013773791"/>
+      <point x="328.68" y="1080.8133333333333"/>
+    </contour>
+    <contour>
+      <point x="484.96" y="0.0" type="line"/>
+      <point x="543.92" y="0.0" type="line"/>
+      <point x="543.92" y="1340.0" type="line"/>
+      <point x="484.96" y="1340.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

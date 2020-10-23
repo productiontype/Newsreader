@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="1298"/>
+  <unicode hex="0054"/>
+  <anchor x="649.0" y="1340.0" name="UCtop"/>
+  <anchor x="649.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="569.0" y="1279.0" type="line"/>
+      <point x="569.0" y="91.0" type="line"/>
+      <point x="411.0" y="39.0" type="line"/>
+      <point x="411.0" y="0.0" type="line"/>
+      <point x="887.0" y="0.0" type="line"/>
+      <point x="887.0" y="39.0" type="line"/>
+      <point x="729.0" y="91.0" type="line"/>
+      <point x="729.0" y="1279.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1166.0" y="1246.0" type="line"/>
+      <point x="1074.0" y="1265.0" type="line"/>
+      <point x="1209.0" y="979.0" type="line"/>
+      <point x="1255.0" y="988.0" type="line"/>
+      <point x="1215.0" y="1408.0" type="line"/>
+      <point x="1197.0" y="1408.0" type="line"/>
+      <point x="1056.0" y="1324.0" type="line"/>
+      <point x="1143.0" y="1340.0" type="line"/>
+      <point x="155.0" y="1340.0" type="line"/>
+      <point x="242.0" y="1324.0" type="line"/>
+      <point x="101.0" y="1408.0" type="line"/>
+      <point x="83.0" y="1408.0" type="line"/>
+      <point x="43.0" y="988.0" type="line"/>
+      <point x="89.0" y="979.0" type="line"/>
+      <point x="224.0" y="1265.0" type="line"/>
+      <point x="132.0" y="1246.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

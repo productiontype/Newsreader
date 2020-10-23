@@ -8,8 +8,8 @@ UPRIGHT_AXES = [
         ordering=0,
         values=[
             dict(value=6, name="6pt"),
-            dict(value=16, name="16pt"),
-            dict(value=72, name="72pt")
+            dict(value=16, name="16pt", flags=0x2),
+            dict(value=72, name="72pt"),
         ],
     ),
     dict(
@@ -41,8 +41,8 @@ ITALIC_AXES = [
         ordering=0,
         values=[
             dict(value=6, name="6pt"),
-            dict(value=16, name="16pt"),
-            dict(value=72, name="72pt")
+            dict(value=16, name="16pt", flags=0x2),
+            dict(value=72, name="72pt"),
         ],
     ),
     dict(
@@ -68,18 +68,21 @@ ITALIC_AXES = [
 ]
 
 UPRIGHT_SRC = f"../fonts/variable/ttf/Newsreader[opsz,wght].ttf"
-ITALIC_SRC  = f"../fonts/variable/ttf/Newsreader-Italic[opsz,wght].ttf"
+ITALIC_SRC = f"../fonts/variable/ttf/Newsreader-Italic[opsz,wght].ttf"
+
 
 def update_fvar(ttfont):
-    fvar = ttfont['fvar']
-    nametable = ttfont['name']
+    fvar = ttfont["fvar"]
+    nametable = ttfont["name"]
     family_name = nametable.getName(16, 3, 1, 1033) or nametable.getName(1, 3, 1, 1033)
     family_name = family_name.toUnicode()
     font_style = "Italic" if "Italic" in ttfont.reader.file.name else "Roman"
     ps_family_name = f"{family_name.replace(' ', '')}{font_style}"
     nametable.setName(ps_family_name, 25, 3, 1, 1033)
     for instance in fvar.instances:
-        instance_style = nametable.getName(instance.subfamilyNameID, 3, 1, 1033).toUnicode()
+        instance_style = nametable.getName(
+            instance.subfamilyNameID, 3, 1, 1033
+        ).toUnicode()
         instance_style = instance_style.replace("Italic", "").strip()
         if instance_style == "":
             instance_style = "Regular"

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A.case" format="2">
+  <anchor x="278.4" y="1340.0" name="_UCtop"/>
+  <anchor x="392.6" y="1716.0" name="UCtop"/>
+  <outline>
+    <contour>
+      <point x="374.0" y="1774.2" type="curve" smooth="yes"/>
+      <point x="250.8" y="1774.2"/>
+      <point x="172.8" y="1684.0"/>
+      <point x="172.8" y="1575.2" type="curve" smooth="yes"/>
+      <point x="172.8" y="1479.6"/>
+      <point x="240.4" y="1417.8"/>
+      <point x="338.0" y="1417.8" type="curve" smooth="yes"/>
+      <point x="461.2" y="1417.8"/>
+      <point x="539.2" y="1508.4"/>
+      <point x="539.2" y="1616.8" type="curve" smooth="yes"/>
+      <point x="539.2" y="1712.8"/>
+      <point x="471.6" y="1774.2"/>
+    </contour>
+    <contour>
+      <point x="343.6" y="1481.0" type="curve" smooth="yes"/>
+      <point x="279.6" y="1481.0"/>
+      <point x="240.8" y="1519.0"/>
+      <point x="240.8" y="1584.0" type="curve" smooth="yes"/>
+      <point x="240.8" y="1653.0"/>
+      <point x="290.8" y="1711.8"/>
+      <point x="368.4" y="1711.8" type="curve" smooth="yes"/>
+      <point x="432.4" y="1711.8"/>
+      <point x="471.2" y="1673.8"/>
+      <point x="471.2" y="1608.0" type="curve" smooth="yes"/>
+      <point x="471.2" y="1539.8"/>
+      <point x="421.2" y="1481.0"/>
+    </contour>
+  </outline>
+</glyph>
