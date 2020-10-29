@@ -1,64 +1,48 @@
 from fontTools.otlLib.builder import buildStatTable, _addName
 from fontTools.ttLib import TTFont
 
+OPSZ = dict(
+    tag="opsz",
+    name="Optical Size",
+    ordering=0,
+    values=[
+        dict(nominalValue=6, rangeMinValue=6, rangeMaxValue=14, name="6pt"),
+        dict(
+            nominalValue=18, rangeMinValue=15, rangeMaxValue=48, name="18pt", flags=0x2
+        ),
+        dict(nominalValue=72, rangeMinValue=49, rangeMaxValue=144, name="72pt"),
+    ],
+)
+
+WEIGHT = dict(
+    tag="wght",
+    name="Weight",
+    ordering=1,
+    values=[
+        dict(value=200, name="ExtraLight"),
+        dict(value=300, name="Light"),
+        dict(value=400, name="Regular", flags=0x2),
+        dict(value=500, name="Medium"),
+        dict(value=700, name="SemiBold"),
+        dict(value=700, name="Bold"),
+        dict(value=800, name="ExtraBold"),
+    ],
+)
+
 UPRIGHT_AXES = [
-    dict(
-        tag="opsz",
-        name="Optical Size",
-        ordering=0,
-        values=[
-            dict(value=6, name="6pt"),
-            dict(value=16, name="16pt", flags=0x2),
-            dict(value=72, name="72pt"),
-        ],
-    ),
-    dict(
-        tag="wght",
-        name="Weight",
-        ordering=1,
-        values=[
-            dict(value=200, name="ExtraLight"),
-            dict(value=300, name="Light"),
-            dict(value=400, name="Regular", flags=0x2),
-            dict(value=500, name="Medium"),
-            dict(value=700, name="SemiBold"),
-            dict(value=700, name="Bold"),
-            dict(value=800, name="ExtraBold"),
-        ],
-    ),
+    OPSZ,
+    WEIGHT,
     dict(
         tag="ital",
         name="Italic",
         ordering=2,
-        values=[dict(value=0, name="Regular", flags=0x2, linkedValue=1)],  # Regular
+        values=[dict(value=0, name="Roman", flags=0x2, linkedValue=1)],  # Regular
     ),
 ]
 
 ITALIC_AXES = [
-    dict(
-        tag="opsz",
-        name="Optical Size",
-        ordering=0,
-        values=[
-            dict(value=6, name="6pt"),
-            dict(value=16, name="16pt", flags=0x2),
-            dict(value=72, name="72pt"),
-        ],
-    ),
-    dict(
-        tag="wght",
-        name="Weight",
-        ordering=1,
-        values=[
-            dict(value=200, name="ExtraLight"),
-            dict(value=300, name="Light"),
-            dict(value=400, name="Regular", flags=0x2),
-            dict(value=500, name="Medium"),
-            dict(value=700, name="SemiBold"),
-            dict(value=700, name="Bold"),
-            dict(value=800, name="ExtraBold"),
-        ],
-    ),
+    OPSZ,
+    WEIGHT,
     dict(
         tag="ital",
         name="Italic",
