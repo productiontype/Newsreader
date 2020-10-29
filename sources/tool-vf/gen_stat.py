@@ -23,7 +23,7 @@ WEIGHT = dict(
         dict(value=300, name="Light"),
         dict(value=400, name="Regular", flags=0x2),
         dict(value=500, name="Medium"),
-        dict(value=700, name="SemiBold"),
+        dict(value=600, name="SemiBold"),
         dict(value=700, name="Bold"),
         dict(value=800, name="ExtraBold"),
     ],
