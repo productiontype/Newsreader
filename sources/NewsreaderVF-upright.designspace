@@ -57,13 +57,13 @@
         <dimension name="optical" xvalue="6"/>
       </location>
     </source>
-    <source filename="Newsreader-ExtraLight.ufo" familyname="Newsreader" stylename="ExtraLight">
+    <source filename="Newsreader16pt-ExtraLight.ufo" familyname="Newsreader" stylename="16pt ExtraLight">
       <location>
         <dimension name="weight" xvalue="100"/>
         <dimension name="optical" xvalue="16"/>
       </location>
     </source>
-    <source filename="Newsreader-Regular.ufo" familyname="Newsreader" stylename="Regular">
+    <source filename="Newsreader16pt-Regular.ufo" familyname="Newsreader" stylename="16pt Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -73,7 +73,7 @@
         <dimension name="optical" xvalue="16"/>
       </location>
     </source>
-    <source filename="Newsreader-ExtraBold.ufo" familyname="Newsreader" stylename="ExtraBold">
+    <source filename="Newsreader16pt-ExtraBold.ufo" familyname="Newsreader" stylename="16pt ExtraBold">
       <location>
         <dimension name="weight" xvalue="900"/>
         <dimension name="optical" xvalue="16"/>
@@ -187,6 +187,8 @@
         <key>Italic</key>
         <integer>0</integer>
       </dict>
+      <key>org.statmake.stylespacePath</key>
+      <string>Newsreader.stylespace</string>
     </dict>
   </lib>
 </designspace>

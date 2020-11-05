@@ -43,13 +43,13 @@
         <dimension name="weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="Newsreader-ExtraLightItalic.ufo" name="master.Newsreader Italic.Text ExtraLight Italic.3" familyname="Newsreader" stylename="ExtraLight Italic">
+    <source filename="Newsreader16pt-ExtraLightItalic.ufo" name="master.Newsreader Italic.Text ExtraLight Italic.3" familyname="Newsreader" stylename="16pt ExtraLight Italic">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Newsreader-Italic.ufo" name="master.Newsreader Italic.Text Italic.4" familyname="Newsreader" stylename="Italic">
+    <source filename="Newsreader16pt-Italic.ufo" name="master.Newsreader Italic.Text Italic.4" familyname="Newsreader" stylename="16pt Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -59,7 +59,7 @@
         <dimension name="weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Newsreader-ExtraBoldItalic.ufo" name="master.Newsreader Italic.Text ExtraBold Italic.5" familyname="Newsreader" stylename="ExtraBold Italic">
+    <source filename="Newsreader16pt-ExtraBoldItalic.ufo" name="master.Newsreader Italic.Text ExtraBold Italic.5" familyname="Newsreader" stylename="16pt ExtraBold Italic">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
@@ -162,7 +162,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_ExtraLight_Italic" familyname="Newsreader" stylename="ExtraLight Italic" filename="instances/Newsreader-ExtraLightItalic.ufo">
+    <instance name="instance_Text_ExtraLight_Italic" familyname="Newsreader 16pt" stylename="ExtraLight Italic" filename="instances/Newsreader16pt-ExtraLightItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="100"/>
@@ -173,7 +173,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_Light_Italic" familyname="Newsreader" stylename="Light Italic" filename="instances/Newsreader-LightItalic.ufo">
+    <instance name="instance_Text_Light_Italic" familyname="Newsreader 16pt" stylename="Light Italic" filename="instances/Newsreader16pt-LightItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="212"/>
@@ -184,7 +184,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_Italic" familyname="Newsreader" stylename="Italic" filename="instances/Newsreader-Italic.ufo">
+    <instance name="instance_Text_Italic" familyname="Newsreader 16pt" stylename="Italic" filename="instances/Newsreader16pt-Italic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="400"/>
@@ -195,7 +195,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_Medium_Italic" familyname="Newsreader" stylename="Medium Italic" filename="instances/Newsreader-MediumItalic.ufo">
+    <instance name="instance_Text_Medium_Italic" familyname="Newsreader 16pt" stylename="Medium Italic" filename="instances/Newsreader16pt-MediumItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="500"/>
@@ -206,7 +206,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_SemiBold_Italic" familyname="Newsreader" stylename="SemiBold Italic" filename="instances/Newsreader-SemiBoldItalic.ufo">
+    <instance name="instance_Text_SemiBold_Italic" familyname="Newsreader 16pt" stylename="SemiBold Italic" filename="instances/Newsreader16pt-SemiBoldItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="612"/>
@@ -217,7 +217,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_Bold_Italic" familyname="Newsreader" stylename="Bold Italic" filename="instances/Newsreader-BoldItalic.ufo">
+    <instance name="instance_Text_Bold_Italic" familyname="Newsreader 16pt" stylename="Bold Italic" filename="instances/Newsreader16pt-BoldItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="724"/>
@@ -228,7 +228,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="instance_Text_ExtraBold_Italic" familyname="Newsreader" stylename="ExtraBold Italic" filename="instances/Newsreader-ExtraBoldItalic.ufo">
+    <instance name="instance_Text_ExtraBold_Italic" familyname="Newsreader 16pt" stylename="ExtraBold Italic" filename="instances/Newsreader16pt-ExtraBoldItalic.ufo">
       <location>
         <dimension name="optical" xvalue="16"/>
         <dimension name="weight" xvalue="900"/>
