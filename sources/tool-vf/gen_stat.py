@@ -8,7 +8,7 @@ OPSZ = dict(
     values=[
         dict(nominalValue=6, rangeMinValue=6, rangeMaxValue=14, name="6pt"),
         dict(
-            nominalValue=18, rangeMinValue=15, rangeMaxValue=48, name="18pt", flags=0x2
+            nominalValue=16, rangeMinValue=15, rangeMaxValue=48, name="16pt", flags=0x2
         ),
         dict(nominalValue=72, rangeMinValue=49, rangeMaxValue=144, name="72pt"),
     ],
