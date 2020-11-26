@@ -3,6 +3,7 @@
   <advance width="836"/>
   <unicode hex="02BA"/>
   <outline>
-    <component base="second" xOffset="-24"/>
+    <component base="minute" xOffset="-24"/>
+    <component base="minute" xOffset="406"/>
   </outline>
 </glyph>
