@@ -6,7 +6,7 @@ It supports Google Fonts Latin Plus glyph set, enabling the typesetting of Engli
 License
 -------
 
-Newsreader is available under the SIL Open Font License v1.1, for more details see [OFL.txt](OFL.txt).
+Newsreader is available under the SIL Open Font License v1.1, for more details see [OFL.txt](OFL.txt).xcomi
 
 Contributions
 -------------
